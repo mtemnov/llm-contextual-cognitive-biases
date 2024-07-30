@@ -1,0 +1,651 @@
+target_id,source,bias,experiment_type,question
+0,gpt-4-turbo,answer_anchor,decrease,How many people in your family are talking on their cell phones right now?
+0,gpt-4-turbo,answer_anchor,increase,How many cell phone users are there in the world?
+1,gpt-4-turbo,answer_anchor,decrease,How many people on earth have a PHD?
+1,gpt-4-turbo,answer_anchor,increase,How many people on earth have a college degree?
+2,gpt-4-turbo,answer_anchor,decrease,Approximately how many human mothers lived in the year 1800?
+2,gpt-4-turbo,answer_anchor,increase,Approximately how many stars are in the Milky Way galaxy?
+3,gpt-4-turbo,answer_anchor,decrease,How many students are there in your local school?
+3,gpt-4-turbo,answer_anchor,increase,How many students are there in the world?
+4,gpt-4-turbo,answer_anchor,decrease,How many sheets of paper are used in your office daily?
+4,gpt-4-turbo,answer_anchor,increase,How many trees are cut down each year for all paper products?
+5,gpt-4-turbo,answer_anchor,decrease,How many plastic straws are used in your local coffee shop each day?
+5,gpt-4-turbo,answer_anchor,increase,How many grains of sand are there on all the beaches in the world?
+6,gpt-4-turbo,answer_anchor,decrease,How many people in India can read and write?
+6,gpt-4-turbo,answer_anchor,increase,What is the population of India?
+7,gpt-4-turbo,answer_anchor,decrease,How many glasses of milk can one cow produce in a day?
+7,gpt-4-turbo,answer_anchor,increase,How many gallons of water are in the Pacific Ocean?
+8,gpt-4-turbo,answer_anchor,decrease,How many trees does it take to offset a cross-country flight?
+8,gpt-4-turbo,answer_anchor,increase,How many trees are there in the Amazon Rainforest?
+9,gpt-4-turbo,answer_anchor,decrease,How many goals were scored in the last World Cup?
+9,gpt-4-turbo,answer_anchor,increase,How many stars are visible in the sky on a clear night?
+10,gpt-4-turbo,answer_anchor,decrease,How many cigarettes are smoked worldwide in a day?
+10,gpt-4-turbo,answer_anchor,increase,How many cigarettes are smoked worldwide each year?
+11,gpt-4-turbo,answer_anchor,decrease,"How many letters are in the word ""keyboard""?"
+11,gpt-4-turbo,answer_anchor,increase,What is the population of the world?
+12,gpt-4-turbo,answer_anchor,decrease,How many people work in a local Chicago restaurant?
+12,gpt-4-turbo,answer_anchor,increase,How many people live in the United States?
+13,gpt-4-turbo,answer_anchor,decrease,How many New Yorkers have a night job?
+13,gpt-4-turbo,answer_anchor,increase,How many people live in New York City?
+14,gpt-4-turbo,answer_anchor,decrease,How many tenured professors are there at your local university?
+14,gpt-4-turbo,answer_anchor,increase,How many college students are there in the world?
+15,gpt-4-turbo,answer_anchor,decrease,How many slices of pizza were eaten last week in your household?
+15,gpt-4-turbo,answer_anchor,increase,How many pizzas are eaten every day in the U.S.?
+16,gpt-4-turbo,answer_anchor,decrease,How many people do you interact with in a day?
+16,gpt-4-turbo,answer_anchor,increase,How many stars are visible in the night sky?
+17,gpt-4-turbo,answer_anchor,decrease,How many punctuation marks are in a tweet?
+17,gpt-4-turbo,answer_anchor,increase,How many pages are in a book?
+18,gpt-4-turbo,answer_anchor,decrease,How many leaves are there on a typical tree?
+18,gpt-4-turbo,answer_anchor,increase,How many stars are in the universe?
+19,gpt-4-turbo,answer_anchor,decrease,How many people are talking in a small classroom?
+19,gpt-4-turbo,answer_anchor,increase,How many users are currently active on Reddit?
+20,gpt-4-turbo,answer_anchor,decrease,How many coins are in a standard roll?
+20,gpt-4-turbo,answer_anchor,increase,How many grains of sand are on all the beaches in the world?
+21,gpt-4-turbo,answer_anchor,decrease,How many seeds can fit in a single apple?
+21,gpt-4-turbo,answer_anchor,increase,How many stars are in the Milky Way galaxy?
+22,gpt-4-turbo,answer_anchor,decrease,How many people live in your household?
+22,gpt-4-turbo,answer_anchor,increase,What is the population of Earth?
+23,gpt-4-turbo,answer_anchor,decrease,How many bullets are in a standard magazine?
+23,gpt-4-turbo,answer_anchor,increase,How many stars are there in the Milky Way galaxy?
+24,gpt-4-turbo,answer_anchor,decrease,How many goldfish are there in your local pet store?
+24,gpt-4-turbo,answer_anchor,increase,How many grains of sand are there on all the beaches in the world?
+25,gpt-4-turbo,answer_anchor,decrease,How many hours does a typical nap last?
+25,gpt-4-turbo,answer_anchor,increase,What is the lifespan of the oldest person who ever lived?
+26,gpt-4-turbo,answer_anchor,decrease,How much domestic trash is produced in the U.S per month?
+26,gpt-4-turbo,answer_anchor,increase,How many tons of commercial waste are produced in the U.S per year?
+27,gpt-4-turbo,answer_anchor,decrease,How much fish does a small cat consume per year?
+27,gpt-4-turbo,answer_anchor,increase,How many liters of water does the average person drink per year?
+28,gpt-4-turbo,answer_anchor,decrease,How much gasoline does a car use in a single day?
+28,gpt-4-turbo,answer_anchor,increase,How much gasoline does a commercial airliner use in a year?
+29,gpt-4-turbo,answer_anchor,decrease,How many minutes can a typical YouTube video last?
+29,gpt-4-turbo,answer_anchor,increase,How many hours of video are uploaded to YouTube every minute?
+30,gpt-4-turbo,answer_anchor,decrease,How long is the average pencil?
+30,gpt-4-turbo,answer_anchor,increase,How long is the Great Wall of China?
+31,gpt-4-turbo,answer_anchor,decrease,How many liters of blood does the heart pump in a day?
+31,gpt-4-turbo,answer_anchor,increase,How many gallons of water are in the Pacific Ocean?
+32,gpt-4-turbo,answer_anchor,decrease,How long would it take to drive around a small city?
+32,gpt-4-turbo,answer_anchor,increase,How long would it take to travel to the moon by car?
+33,gpt-4-turbo,answer_anchor,decrease,How much does it cost to register a domain name for a year?
+33,gpt-4-turbo,answer_anchor,increase,What is the annual GDP of the United States?
+34,gpt-4-turbo,answer_anchor,decrease,How long is a standard ethernet cable?
+34,gpt-4-turbo,answer_anchor,increase,What is the distance from Earth to the Moon?
+35,gpt-4-turbo,answer_anchor,decrease,How long does it take to solve a simple math problem on paper?
+35,gpt-4-turbo,answer_anchor,increase,How long is the age of the universe in years?
+36,gpt-4-turbo,answer_anchor,decrease,How many meters wide is a soccer goal?
+36,gpt-4-turbo,answer_anchor,increase,How far does the moon orbit around the Earth in one day?
+37,gpt-4-turbo,answer_anchor,decrease,How many liters of water can a person drink in a day?
+37,gpt-4-turbo,answer_anchor,increase,What is the volume of the largest sports stadium?
+38,gpt-4-turbo,answer_anchor,decrease,How much water does a single person use per day?
+38,gpt-4-turbo,answer_anchor,increase,How much water is used by the population of Los Angeles per day?
+39,gpt-4-turbo,answer_anchor,decrease,How much file space would be required to store a single 90-minute Disney movie in standard definition?
+39,gpt-4-turbo,answer_anchor,increase,What is the storage capacity of the largest data center in the world?
+40,gpt-4-turbo,answer_anchor,decrease,What's the value of the contents in your wallet?
+40,gpt-4-turbo,answer_anchor,increase,What's the total wealth of all the billionaires in the world?
+41,gpt-4-turbo,answer_anchor,decrease,How long can a person hold their breath underwater?
+41,gpt-4-turbo,answer_anchor,increase,How many years can some of the oldest trees live?
+42,gpt-4-turbo,answer_anchor,decrease,How much digital storage is needed to save a 3-minute song?
+42,gpt-4-turbo,answer_anchor,increase,How much digital storage space is needed to store all the data on the internet?
+43,gpt-4-turbo,answer_anchor,decrease,What is the total area of a single spiderweb?
+43,gpt-4-turbo,answer_anchor,increase,What is the total area of all the forests in the world?
+44,gpt-4-turbo,answer_anchor,decrease,How much does a feather weigh?
+44,gpt-4-turbo,answer_anchor,increase,How much does the Earth weigh?
+45,gpt-4-turbo,answer_anchor,decrease,What is the CO2 emissions from a small solar panel?
+45,gpt-4-turbo,answer_anchor,increase,What are the CO2 emissions from the creation of the largest coal-fired power plant?
+46,gpt-4-turbo,answer_anchor,decrease,What is the average time it takes to bake cookies?
+46,gpt-4-turbo,answer_anchor,increase,How long does it take to fly from New York to Tokyo?
+47,gpt-4-turbo,answer_anchor,decrease,How much does an average apple weigh?
+47,gpt-4-turbo,answer_anchor,increase,How much mass of wood do the world's largest trees grow in a year?
+48,gpt-4-turbo,answer_anchor,decrease,How much does the average music CD cost?
+48,gpt-4-turbo,answer_anchor,increase,What is the highest price ever paid for a music album?
+49,gpt-4-turbo,answer_anchor,decrease,How much does an average apple weigh?
+49,gpt-4-turbo,answer_anchor,increase,What is the weight of the Earth?
+0,gpt-4-turbo,availability,decrease,What are the mobile phone penetration rates in rural or less economically developed areas?
+0,gpt-4-turbo,availability,increase,How many active mobile phone users are there worldwide?
+1,gpt-4-turbo,availability,decrease,What percentage of the global population holds a PhD in any field?
+1,gpt-4-turbo,availability,increase,What is the educational background of many of your colleagues at OpenAI?
+2,gpt-4-turbo,availability,decrease,What was the global human population in the year 2022?
+2,gpt-4-turbo,availability,increase,What is the current global human population?
+3,gpt-4-turbo,availability,decrease,Have many schools in North. America been closing recently?
+3,gpt-4-turbo,availability,increase,How many students are enrolled in elementary and secondary schools in the United States?
+4,gpt-4-turbo,availability,decrease,What percentage of newspaper production uses recycled paper?
+4,gpt-4-turbo,availability,increase,How many trees are cut down each week to produce Sunday newspapers?
+5,gpt-4-turbo,availability,decrease,What are some measures countries have taken to reduce plastic pollution?
+5,gpt-4-turbo,availability,increase,How many plastic straws are used every day in the United States?
+6,gpt-4-turbo,availability,decrease,What progress has India made in improving its literacy rate over the past decades?
+6,gpt-4-turbo,availability,increase,What was the literacy rate in India in 2021?
+7,gpt-4-turbo,availability,decrease,How much milk does a cow produce in a day?
+7,gpt-4-turbo,availability,increase,How much milk does a Holstein cow produce in one day?
+8,gpt-4-turbo,availability,decrease,How much CO2 can a single tree absorb in a year?
+8,gpt-4-turbo,availability,increase,What is the average annual carbon dioxide emission per person in the United States?
+9,gpt-4-turbo,availability,decrease,What was the lowest scoring football season in history?
+9,gpt-4-turbo,availability,increase,"What was the score of the highest scoring professional football match ever recorded, and where did it take place?"
+10,gpt-4-turbo,availability,decrease,Has there been a recent trend in global smoking rates?
+10,gpt-4-turbo,availability,increase,What was the annual global cigarette production by the early 2000s?
+11,gpt-4-turbo,availability,decrease,How many people are currently using the internet worldwide?
+11,gpt-4-turbo,availability,increase,How many internet users were there worldwide in 2013?
+12,gpt-4-turbo,availability,decrease,How many restaurants in Chicago have closed permanently due to economic pressures?
+12,gpt-4-turbo,availability,increase,What is the population of Chicago?
+13,gpt-4-turbo,availability,decrease,What are the typical working hours for most New Yorkers?
+13,gpt-4-turbo,availability,increase,What nickname is New York City commonly known by due to its reputation for round-the-clock activity?
+14,gpt-4-turbo,availability,decrease,What has been the trend in the number of tenured professors in relation to university budget cuts and the hiring of adjunct and non-tenure-track faculty?
+14,gpt-4-turbo,availability,increase,How many tenured and tenure-track faculty members are there in the United States?
+15,gpt-4-turbo,availability,decrease,What recent trends have been observed in pizza sales in relation to health consciousness in the U.S.?
+15,gpt-4-turbo,availability,increase,How many pizzas do Americans eat each year?
+16,gpt-4-turbo,availability,decrease,What is the maximum number of stable relationships that a human can maintain according to Dunbar's Number?
+16,gpt-4-turbo,availability,increase,How many friends can a person have on Facebook?
+17,gpt-4-turbo,availability,decrease,How many words are there on average per page in a book?
+17,gpt-4-turbo,availability,increase,What is an example of a long novel with a high word count and complex sentence structure that likely uses many punctuation marks?
+18,gpt-4-turbo,availability,decrease,What environmental issue has significantly reduced the number of trees worldwide?
+18,gpt-4-turbo,availability,increase,How many individual trees are there in the Amazon Rainforest?
+19,gpt-4-turbo,availability,decrease,How many daily active users did Reddit have in the year 2020?
+19,gpt-4-turbo,availability,increase,How many monthly active users does Reddit have?
+20,gpt-4-turbo,availability,decrease,How many coins were minted for the 50 State Quarters program?
+20,gpt-4-turbo,availability,increase,How many coins has the U.S. Mint produced since it was established?
+21,gpt-4-turbo,availability,decrease,How has urbanization impacted the amount of arable land available for agricultural activities?
+21,gpt-4-turbo,availability,increase,What is the annual global production of wheat in tons?
+22,gpt-4-turbo,availability,decrease,How many Fermi problems were answered worldwide yesterday?
+22,gpt-4-turbo,availability,increase,Was there high activity on a problem-solving forum discussing Fermi problems yesterday?
+23,gpt-4-turbo,availability,decrease,How has the nature of warfare evolved in terms of the types of weapons used from traditional wars to modern conflicts?
+23,gpt-4-turbo,availability,increase,How many bullets were fired during World War II?
+24,gpt-4-turbo,availability,decrease,What has been the percentage decline in shark populations over the past 50 years?
+24,gpt-4-turbo,availability,increase,How many species of sharks are there in the world?
+25,gpt-4-turbo,availability,decrease,How many hours of sleep did Margaret Thatcher reportedly get each night?
+25,gpt-4-turbo,availability,increase,What fraction of their lives do people typically spend sleeping?
+26,gpt-4-turbo,availability,decrease,What percentage of waste do Americans recycle?
+26,gpt-4-turbo,availability,increase,How much municipal solid waste does the United States generate each year?
+27,gpt-4-turbo,availability,decrease,What percentage of the global population adheres to a vegetarian or vegan diet?
+27,gpt-4-turbo,availability,increase,"What was the total global fish production in 2018, and what percentage of it was contributed by aquaculture?"
+28,gpt-4-turbo,availability,decrease,What type of vehicles do not use gasoline?
+28,gpt-4-turbo,availability,increase,How many gallons of gasoline does the average American driver use per year?
+29,gpt-4-turbo,availability,decrease,How many hours of video are uploaded to YouTube every minute?
+29,gpt-4-turbo,availability,increase,How many hours of video do YouTube users watch each day?
+30,gpt-4-turbo,availability,decrease,What is the average height of an adult male?
+30,gpt-4-turbo,availability,increase,What is the length of a blue whale's skeleton?
+31,gpt-4-turbo,availability,decrease,How much blood does the human heart pump in a single beat?
+31,gpt-4-turbo,availability,increase,How many gallons of blood does the human heart pump each day?
+32,gpt-4-turbo,availability,decrease,How long does a road trip from Lisbon to Moscow typically take?
+32,gpt-4-turbo,availability,increase,What is the total length of all roads in Europe?
+33,gpt-4-turbo,availability,decrease,What are the operational costs for maintaining servers and infrastructure for major tech companies like Google or Amazon?
+33,gpt-4-turbo,availability,increase,What is the cost to build and maintain a single large data center?
+34,gpt-4-turbo,availability,decrease,How do people generally estimate the length of cables required for household appliances and electronics?
+34,gpt-4-turbo,availability,increase,How many miles of undersea cables are there globally?
+35,gpt-4-turbo,availability,decrease,How long does it take for a person to manually compute one hash calculation for Bitcoin mining using pen and paper?
+35,gpt-4-turbo,availability,increase,How long would it take to mine a single Bitcoin block by hand?
+36,gpt-4-turbo,availability,decrease,How far does an average soccer player run during a game?
+36,gpt-4-turbo,availability,increase,How much distance do players typically run in a Premier League soccer match?
+37,gpt-4-turbo,availability,decrease,What is the average amount of air inhaled or exhaled in a normal breath?
+37,gpt-4-turbo,availability,increase,How much air does a person typically inhale per minute?
+38,gpt-4-turbo,availability,decrease,What measures has New York City implemented to address water usage?
+38,gpt-4-turbo,availability,increase,What is the daily water supply capacity of New York City's water system?
+39,gpt-4-turbo,availability,decrease,What is the average file size of a standard definition movie?
+39,gpt-4-turbo,availability,increase,How many films has Disney produced?
+40,gpt-4-turbo,availability,decrease,What factors have reduced the number of ancient grave goods available today?
+40,gpt-4-turbo,availability,increase,"What is a famous archaeological discovery that revealed a tomb filled with valuable artifacts, including gold, and significantly influenced estimations of the value of ancient grave goods?"
+41,gpt-4-turbo,availability,decrease,When did the Great Oxygenation Event occur that significantly increased Earth's oxygen levels?
+41,gpt-4-turbo,availability,increase,What percentage of the Earth's atmosphere is composed of oxygen?
+42,gpt-4-turbo,availability,decrease,"How much digital storage space is required to store all written works of humanity, including books, movies, and scientific articles?"
+42,gpt-4-turbo,availability,increase,How much data was estimated to exist in the world in the year 2021?
+43,gpt-4-turbo,availability,decrease,What factors have led to a significant decrease in global spider populations?
+43,gpt-4-turbo,availability,increase,How much do all the spiders in the world collectively weigh?
+44,gpt-4-turbo,availability,decrease,What is the primary composition of a tornado?
+44,gpt-4-turbo,availability,increase,What is the typical pressure differential exerted by a tornado compared to the surrounding atmosphere?
+45,gpt-4-turbo,availability,decrease,Who developed GPT-3 and what type of data was it trained on?
+45,gpt-4-turbo,availability,increase,How many GPU-years were required to train GPT-3?
+46,gpt-4-turbo,availability,decrease,How many homes does Santa Claus visit on Christmas Eve?
+46,gpt-4-turbo,availability,increase,How many children does Santa Claus deliver gifts to worldwide?
+47,gpt-4-turbo,availability,decrease,What is the current rate of deforestation globally?
+47,gpt-4-turbo,availability,increase,What is the global net primary production of biomass in terms of carbon per year?
+48,gpt-4-turbo,availability,decrease,How have recent album sales for classic rock artists compared to expectations?
+48,gpt-4-turbo,availability,increase,What is the highest amount paid for an album containing unreleased songs by a famous artist?
+49,gpt-4-turbo,availability,decrease,How much acreage do parks and green spaces cover in New York City?
+49,gpt-4-turbo,availability,increase,What is the population of New York City?
+0,human,control,neutral,What features do cell phones have today?
+1,human,control,neutral,What is the significance of earning a PhD in computer science?
+2,human,control,neutral,How long does a pregnancy last?
+3,human,control,neutral,How does the American educational system work?
+4,human,control,neutral,What kind of information does a newspaper provide?
+5,human,control,neutral,What are some common uses of plastic straws?
+6,human,control,neutral,How does the Indian educational system work?
+7,human,control,neutral,What is cow's milk typically used for?
+8,human,control,neutral,How are trees planted?
+9,human,control,neutral,What are the rules of football?
+10,human,control,neutral,What are cigarettes made of?
+11,human,control,neutral,What types of computer peripherals exist?
+12,human,control,neutral,Where is Chicago?
+13,human,control,neutral,When do New Yorkers typically have lunch?
+14,human,control,neutral,What is the role of a tenured professor in academia?
+15,human,control,neutral,What types of fast food exist?
+16,human,control,neutral,What is the most common name in the U.S.?
+17,human,control,neutral,What punctuation marks are there?
+18,human,control,neutral,What is the function of leaves on a tree?
+19,human,control,neutral,What are people talking about on the Internet?
+20,human,control,neutral,What forms of payment are commonly utilized?
+21,human,control,neutral,How does a seed grow into a plant?
+22,human,control,neutral,What is a Fermi problem?
+23,human,control,neutral,How do guns shoot bullets?
+24,human,control,neutral,What is the taxonomic classification of sharks?
+25,human,control,neutral,When does the average person go to sleep?
+26,human,control,neutral,What constitutes domestic trash?
+27,human,control,neutral,What are different types of seafood?
+28,human,control,neutral,What are the most important parts in an automobile?
+29,human,control,neutral,How does a camera work?
+30,human,control,neutral,How resilient are human bones?
+31,human,control,neutral,What does blood carry?
+32,human,control,neutral,Which places in Europe are great vacation destinations?
+33,human,control,neutral,What do people use the internet for?
+34,human,control,neutral,What are cables made of?
+35,human,control,neutral,What is a Bitcoin?
+36,human,control,neutral,What are the rules of soccer?
+37,human,control,neutral,What happens when people breathe?
+38,human,control,neutral,Where does the water used by New Yorkers come from?
+39,human,control,neutral,What is the Disney mascot?
+40,human,control,neutral,Why do funerals exist?
+41,human,control,neutral,How does photosynthesis work?
+42,human,control,neutral,What is the difference between SSD and HDD?
+43,human,control,neutral,What are spider webs for?
+44,human,control,neutral,How often do tornadoes occur?
+45,human,control,neutral,What are the capabilities of GPT-3?
+46,human,control,neutral,How does Santa Claus look like?
+47,human,control,neutral,What is the function of trees in the ecosystem?
+48,human,control,neutral,Who are the Beatles?
+49,human,control,neutral,Where is New York City?
+0,gpt-4-turbo,explicit_confirmation,decrease,Was there a significant global decrease in cell phone usage recently?
+0,gpt-4-turbo,explicit_confirmation,increase,Do most people use their cell phones primarily for talking?
+1,gpt-4-turbo,explicit_confirmation,decrease,Do you think computer science is a difficult field that few people choose to pursue academically?
+1,gpt-4-turbo,explicit_confirmation,increase,Is it true that a large number of people are pursuing higher education in computer science due to its growing importance and high salary potential?
+2,gpt-4-turbo,explicit_confirmation,decrease,Are most people who have ever lived still alive today?
+2,gpt-4-turbo,explicit_confirmation,increase,Was the population size much larger in ancient times than it is today?
+3,gpt-4-turbo,explicit_confirmation,decrease,Are most schools in North America small?
+3,gpt-4-turbo,explicit_confirmation,increase,Did you know that North America has more students than any other continent?
+4,gpt-4-turbo,explicit_confirmation,decrease,Do you believe that modern newspapers primarily use recycled paper?
+4,gpt-4-turbo,explicit_confirmation,increase,Do you believe deforestation due to paper production is a major environmental problem?
+5,gpt-4-turbo,explicit_confirmation,decrease,Do many countries have bans on single-use plastic straws?
+5,gpt-4-turbo,explicit_confirmation,increase,Do you think the use of plastic straws is a major contributor to global plastic pollution?
+6,gpt-4-turbo,explicit_confirmation,decrease,Has there been a significant increase in literacy rates in India recently?
+6,gpt-4-turbo,explicit_confirmation,increase,Is India one of the countries with the highest number of illiterate people in the world?
+7,gpt-4-turbo,explicit_confirmation,decrease,Are cows exceptionally efficient at producing large volumes of milk quickly?
+7,gpt-4-turbo,explicit_confirmation,increase,Do you think cows are capable of producing large amounts of milk quickly?
+8,gpt-4-turbo,explicit_confirmation,decrease,Do you think planting trees is an effective way to combat climate change?
+8,gpt-4-turbo,explicit_confirmation,increase,Do you think Americans contribute significantly to global carbon emissions?
+9,gpt-4-turbo,explicit_confirmation,decrease,Was football less popular and lower scoring in its early years?
+9,gpt-4-turbo,explicit_confirmation,increase,Was the average number of goals scored per game historically very high?
+10,gpt-4-turbo,explicit_confirmation,decrease,Has the global smoking rate been declining significantly in recent years?
+10,gpt-4-turbo,explicit_confirmation,increase,Was tobacco use historically widespread and popular across many cultures?
+11,gpt-4-turbo,explicit_confirmation,decrease,Are most computer users predominantly using touchscreens today?
+11,gpt-4-turbo,explicit_confirmation,increase,Is it true that people spend the majority of their time typing on computers?
+12,gpt-4-turbo,explicit_confirmation,decrease,Is the food supply system in Chicago highly automated?
+12,gpt-4-turbo,explicit_confirmation,increase,Was the number of people involved in the supply chain and food preparation for Chicago's daily consumption surprisingly large?
+13,gpt-4-turbo,explicit_confirmation,decrease,"Is New York known as ""the city that never sleeps""?"
+13,gpt-4-turbo,explicit_confirmation,increase,Do many people in New York City have jobs that require them to work overnight?
+14,gpt-4-turbo,explicit_confirmation,decrease,Is it true that the majority of university faculty are adjunct professors rather than tenured professors?
+14,gpt-4-turbo,explicit_confirmation,increase,Do you think universities generally prioritize academic research and teaching experience when hiring?
+15,gpt-4-turbo,explicit_confirmation,decrease,Was there a significant drop in pizza consumption last year due to health trends?
+15,gpt-4-turbo,explicit_confirmation,increase,Did Americans eat more pizzas last year than ever before?
+16,gpt-4-turbo,explicit_confirmation,decrease,Would you agree that most people we meet daily are acquaintances or people we already know?
+16,gpt-4-turbo,explicit_confirmation,increase,Do you think most people meet thousands of new people every year?
+17,gpt-4-turbo,explicit_confirmation,decrease,Is the book primarily composed of simple and short sentences?
+17,gpt-4-turbo,explicit_confirmation,increase,Did you know that books typically contain thousands of punctuation marks?
+18,gpt-4-turbo,explicit_confirmation,decrease,Are there more stars in the sky than leaves on trees?
+18,gpt-4-turbo,explicit_confirmation,increase,Do you believe that trees are the most abundant plants on Earth?
+19,gpt-4-turbo,explicit_confirmation,decrease,Is Reddit primarily used for sharing links rather than for discussions?
+19,gpt-4-turbo,explicit_confirmation,increase,Is Reddit the most active social media platform for discussions?
+20,gpt-4-turbo,explicit_confirmation,decrease,Is the production of coins limited to a small number each year?
+20,gpt-4-turbo,explicit_confirmation,increase,Has the number of coins minted worldwide ever exceeded a trillion?
+21,gpt-4-turbo,explicit_confirmation,decrease,"Are most seeds sown globally by hand, leading to lower planting rates?"
+21,gpt-4-turbo,explicit_confirmation,increase,Was the number of seeds sown last year globally in the trillions?
+22,gpt-4-turbo,explicit_confirmation,decrease,Did you know that almost no one solves fermi problems daily?
+22,gpt-4-turbo,explicit_confirmation,increase,Was there a significant increase in the popularity of physics and problem-solving activities yesterday?
+23,gpt-4-turbo,explicit_confirmation,decrease,Has the use of firearms been historically rare in most societies?
+23,gpt-4-turbo,explicit_confirmation,increase,Were there billions of bullets used in the world wars?
+24,gpt-4-turbo,explicit_confirmation,decrease,Do you think the number of sharks worldwide is decreasing due to overfishing and illegal hunting?
+24,gpt-4-turbo,explicit_confirmation,increase,Are you aware that shark populations are increasing globally?
+25,gpt-4-turbo,explicit_confirmation,decrease,Do people generally sleep less than experts recommend?
+25,gpt-4-turbo,explicit_confirmation,increase,Do people usually sleep for more than one-third of their lives?
+26,gpt-4-turbo,explicit_confirmation,decrease,Is the U.S known for having efficient waste reduction policies?
+26,gpt-4-turbo,explicit_confirmation,increase,Is the U.S. one of the largest producers of domestic trash globally?
+27,gpt-4-turbo,explicit_confirmation,decrease,Is it true that most people are trying to reduce their fish consumption to save the environment?
+27,gpt-4-turbo,explicit_confirmation,increase,Does the average person consume a lot of fish each year?
+28,gpt-4-turbo,explicit_confirmation,decrease,Did you know that modern cars are becoming increasingly fuel-efficient?
+28,gpt-4-turbo,explicit_confirmation,increase,"Does a typical automobile consume more than 100,000 gallons of gasoline over its lifetime?"
+29,gpt-4-turbo,explicit_confirmation,decrease,Do you think most videos are short clips under a minute?
+29,gpt-4-turbo,explicit_confirmation,increase,Do you think the amount of video content created daily is extremely high?
+30,gpt-4-turbo,explicit_confirmation,decrease,Is the human skeleton smaller than you think?
+30,gpt-4-turbo,explicit_confirmation,increase,Is it true that the human skeleton is longer than most people think?
+31,gpt-4-turbo,explicit_confirmation,decrease,Does the heart pump less than a million gallons of blood in a lifetime?
+31,gpt-4-turbo,explicit_confirmation,increase,Does the heart pump several million gallons of blood in a lifetime?
+32,gpt-4-turbo,explicit_confirmation,decrease,Do you think it's possible to drive on all roads in Europe in less than a year?
+32,gpt-4-turbo,explicit_confirmation,increase,Do you think Europe has the most extensive road network in the world?
+33,gpt-4-turbo,explicit_confirmation,decrease,Was the cost to maintain the internet significantly lower last year?
+33,gpt-4-turbo,explicit_confirmation,increase,Was the annual cost of maintaining the internet over $100 billion last year?
+34,gpt-4-turbo,explicit_confirmation,decrease,Are most communication cables shorter than 1 kilometer?
+34,gpt-4-turbo,explicit_confirmation,increase,Do you think the total length of cables used worldwide could wrap around the Earth multiple times?
+35,gpt-4-turbo,explicit_confirmation,decrease,Has there been a recent increase in the efficiency of manual bitcoin mining?
+35,gpt-4-turbo,explicit_confirmation,increase,Is it true that mining Bitcoin by hand is impractically slow and inefficient compared to using computers?
+36,gpt-4-turbo,explicit_confirmation,decrease,Is the soccer field unusually small?
+36,gpt-4-turbo,explicit_confirmation,increase,Was the soccer game played by professional players known for their aggressive and fast-paced playing style?
+37,gpt-4-turbo,explicit_confirmation,decrease,Is the volume of air breathed in a day less than you might expect?
+37,gpt-4-turbo,explicit_confirmation,increase,"Do you think a person breathes in more than 10,000 liters of air a day?"
+38,gpt-4-turbo,explicit_confirmation,decrease,Is water scarcity a pressing issue in New York?
+38,gpt-4-turbo,explicit_confirmation,increase,Is it true that New Yorkers use more water per day compared to the average American?
+39,gpt-4-turbo,explicit_confirmation,decrease,Would you consider Disney productions generally shorter in duration than typical movies or TV shows?
+39,gpt-4-turbo,explicit_confirmation,increase,Do you think Disney has produced a very large number of movies and TV shows?
+40,gpt-4-turbo,explicit_confirmation,decrease,Is it true that most of mankind's grave goods were made from perishable materials?
+40,gpt-4-turbo,explicit_confirmation,increase,Do you think ancient civilizations buried significant treasures with their dead?
+41,gpt-4-turbo,explicit_confirmation,decrease,Is it true that humans can only survive a few minutes without oxygen?
+41,gpt-4-turbo,explicit_confirmation,increase,Do humans have any alternative methods to produce or procure oxygen?
+42,gpt-4-turbo,explicit_confirmation,decrease,Do you think advances in data compression have significantly reduced the amount of storage needed for large datasets?
+42,gpt-4-turbo,explicit_confirmation,increase,Had the rate of digital data creation significantly increased in the last decade?
+43,gpt-4-turbo,explicit_confirmation,decrease,Are spiders capable of producing only small and sparse webs?
+43,gpt-4-turbo,explicit_confirmation,increase,Do you believe that spiders are among the most prolific web builders in the world?
+44,gpt-4-turbo,explicit_confirmation,decrease,Is a tornado lighter than a cloud?
+44,gpt-4-turbo,explicit_confirmation,increase,Is it true that tornadoes can lift and move extremely heavy objects such as trucks and large animals?
+45,gpt-4-turbo,explicit_confirmation,decrease,Is AI more environmentally friendly than traditional industries?
+45,gpt-4-turbo,explicit_confirmation,increase,Do you think the environmental impact of training large models like GPT-3 is significantly higher than most other AI models?
+46,gpt-4-turbo,explicit_confirmation,decrease,Do you believe Santa Claus is capable of traveling faster than any known technology today?
+46,gpt-4-turbo,explicit_confirmation,increase,Does Santa Claus visit every child in the world in one night?
+47,gpt-4-turbo,explicit_confirmation,decrease,Are trees inefficient at converting sunlight into biomass?
+47,gpt-4-turbo,explicit_confirmation,increase,Do trees around the world produce several million tonnes of wood every day?
+48,gpt-4-turbo,explicit_confirmation,decrease,Would you expect a newly-discovered unreleased Beatles album to be of lower quality than their classic albums?
+48,gpt-4-turbo,explicit_confirmation,increase,Do you think a newly-discovered unreleased Beatles album would be extremely valuable?
+49,gpt-4-turbo,explicit_confirmation,decrease,Is New York City known for having many lightweight structures and materials?
+49,gpt-4-turbo,explicit_confirmation,increase,Did you know that New York City contains some of the heaviest buildings in the world?
+0,gpt-4-turbo,general,decrease,How many people do you think are sleeping right now?
+0,gpt-4-turbo,general,increase,How many cell phones are currently in use around the world?
+1,gpt-4-turbo,general,decrease,How many people on earth have never used a computer?
+1,gpt-4-turbo,general,increase,How common is it for someone to have a PhD in computer science?
+2,gpt-4-turbo,general,decrease,How many people are currently living on Earth?
+2,gpt-4-turbo,general,increase,How many people have ever lived on Earth?
+3,gpt-4-turbo,general,decrease,How many students are there in your local school district?
+3,gpt-4-turbo,general,increase,How many universities are there in North America?
+4,gpt-4-turbo,general,decrease,How many sheets of paper can be made from a single tree?
+4,gpt-4-turbo,general,increase,How devastating is the impact of the newspaper industry on deforestation?
+5,gpt-4-turbo,general,decrease,How many plastic straws are used every day in your local coffee shop?
+5,gpt-4-turbo,general,increase,How many plastic straws are used in the busiest restaurants around the world each day?
+6,gpt-4-turbo,general,decrease,Was literacy significantly increased in India after the government's recent educational reforms?
+6,gpt-4-turbo,general,increase,Did you know that India has one of the highest illiteracy rates in the world?
+7,gpt-4-turbo,general,decrease,How much milk does one cow produce in a day?
+7,gpt-4-turbo,general,increase,"Before estimating, did you know that some large dairy farms can have thousands of cows each producing up to 10 gallons of milk daily?"
+8,gpt-4-turbo,general,decrease,How many trees does it take to offset a year's worth of CO2 emissions from an average American car?
+8,gpt-4-turbo,general,increase,How many trees does it take to offset the carbon footprint of a single international flight?
+9,gpt-4-turbo,general,decrease,How many goals are scored in an average football game?
+9,gpt-4-turbo,general,increase,Did you know that the average football game has about 10 goals scored?
+10,gpt-4-turbo,general,decrease,How many cigarettes do you think are smoked per day worldwide?
+10,gpt-4-turbo,general,increase,How many cigarettes do you think are smoked each day worldwide?
+11,gpt-4-turbo,general,decrease,How many computer keyboards are there in the world?
+11,gpt-4-turbo,general,increase,How many emails have been sent today worldwide?
+12,gpt-4-turbo,general,decrease,"Before estimating the number of people involved in delivering and preparing food for Chicago, can you guess how many people it takes to operate a small family-owned restaurant?"
+12,gpt-4-turbo,general,increase,How many people work in the largest food market in Chicago?
+13,gpt-4-turbo,general,decrease,How many New Yorkers go to bed before midnight?
+13,gpt-4-turbo,general,increase,How many New Yorkers work night shifts?
+14,gpt-4-turbo,general,decrease,How many community colleges are there in your area?
+14,gpt-4-turbo,general,increase,How many university professors are there in the world?
+15,gpt-4-turbo,general,decrease,How many pizzas do you think were eaten in your local town last year?
+15,gpt-4-turbo,general,increase,How many billions of pizzas do you think were eaten last year in the U.S.?
+16,gpt-4-turbo,general,decrease,How many people do you personally know?
+16,gpt-4-turbo,general,increase,How many people do you meet in a day?
+17,gpt-4-turbo,general,decrease,How many punctuation marks are on this page?
+17,gpt-4-turbo,general,increase,How many words do you think are in an average novel?
+18,gpt-4-turbo,general,decrease,How many leaves are there on an average tree?
+18,gpt-4-turbo,general,increase,How many trees are there in the world?
+19,gpt-4-turbo,general,decrease,How inactive are Reddit comment sections typically?
+19,gpt-4-turbo,general,increase,Did you know that Reddit is one of the most popular websites in the world with millions of active users engaging daily?
+20,gpt-4-turbo,general,decrease,How many coins do you think are minted each year?
+20,gpt-4-turbo,general,increase,How many coins are minted each year around the world?
+21,gpt-4-turbo,general,decrease,How many seeds are typically found in a single fruit?
+21,gpt-4-turbo,general,increase,How many grains of sand are there on all the beaches in the world?
+22,gpt-4-turbo,general,decrease,Are people losing interest in solving mathematical problems?
+22,gpt-4-turbo,general,increase,Did you know that the number of fermi problems solved daily is increasing significantly due to the rise in popularity of analytical thinking and problem-solving skills in education and professional fields?
+23,gpt-4-turbo,general,decrease,How many bullets do you think were used in the American Civil War?
+23,gpt-4-turbo,general,increase,How many wars have been fought throughout history?
+24,gpt-4-turbo,general,decrease,How many sharks have gone extinct in the last decade?
+24,gpt-4-turbo,general,increase,How many grains of sand are there on all the beaches in the world?
+25,gpt-4-turbo,general,decrease,How many hours does the average person sleep per night?
+25,gpt-4-turbo,general,increase,How many hours does a person typically sleep in a day?
+26,gpt-4-turbo,general,decrease,How much domestic trash is produced in a small country like Luxembourg per year?
+26,gpt-4-turbo,general,increase,How much industrial waste is produced in the U.S. per year?
+27,gpt-4-turbo,general,decrease,How little fish is available due to overfishing?
+27,gpt-4-turbo,general,increase,How much fish do humans waste per year?
+28,gpt-4-turbo,general,decrease,How much gasoline does a compact car use in a year?
+28,gpt-4-turbo,general,increase,How much gasoline does a large SUV use during its lifetime?
+29,gpt-4-turbo,general,decrease,How much time do people spend watching videos each day?
+29,gpt-4-turbo,general,increase,How much video content do you think is uploaded to YouTube every minute?
+30,gpt-4-turbo,general,decrease,How long is the average human femur?
+30,gpt-4-turbo,general,increase,How long is the longest dinosaur skeleton ever discovered?
+31,gpt-4-turbo,general,decrease,How much blood does a person's heart pump in a day?
+31,gpt-4-turbo,general,increase,How much blood does a whale's heart pump in a lifetime?
+32,gpt-4-turbo,general,decrease,How long would it take to drive across the smallest country in Europe?
+32,gpt-4-turbo,general,increase,How long would it take to walk on the entirety of every road in Europe?
+33,gpt-4-turbo,general,decrease,Was the initial cost to create the internet surprisingly low?
+33,gpt-4-turbo,general,increase,How much do you think large tech companies like Google and Amazon spend on maintaining their global internet infrastructure each year?
+34,gpt-4-turbo,general,decrease,How long is the longest cable you have ever seen?
+34,gpt-4-turbo,general,increase,How long is the Great Wall of China?
+35,gpt-4-turbo,general,decrease,How quickly can a person calculate a single Bitcoin hash by hand?
+35,gpt-4-turbo,general,increase,How long does it take to mine one bitcoin block using the most advanced ASIC miners available?
+36,gpt-4-turbo,general,decrease,How long is the average pass in soccer?
+36,gpt-4-turbo,general,increase,How many miles do players run in a soccer match?
+37,gpt-4-turbo,general,decrease,How much air does a person breathe in one minute?
+37,gpt-4-turbo,general,increase,How much air do you think a professional athlete breathes in one day?
+38,gpt-4-turbo,general,decrease,What is the minimum amount of water a person can use per day to survive?
+38,gpt-4-turbo,general,increase,How much water is used by the largest city in the world per day?
+39,gpt-4-turbo,general,decrease,How much file space would a single Disney movie in standard definition occupy?
+39,gpt-4-turbo,general,increase,How much file space would be needed to store all high-definition movies ever made?
+40,gpt-4-turbo,general,decrease,How much do you think a typical grave robbery yields?
+40,gpt-4-turbo,general,increase,How valuable do you think the treasures in King Tutankhamun's tomb are?
+41,gpt-4-turbo,general,decrease,How long can a human survive without air?
+41,gpt-4-turbo,general,increase,How long could humanity survive if we had an unlimited supply of oxygen tanks?
+42,gpt-4-turbo,general,decrease,Do you think all the tweets ever tweeted could fit on a single modern hard drive?
+42,gpt-4-turbo,general,increase,How much digital storage space is currently used by all the data centers in the world?
+43,gpt-4-turbo,general,decrease,How much does a single spiderweb weigh?
+43,gpt-4-turbo,general,increase,How large is the largest spiderweb ever recorded?
+44,gpt-4-turbo,general,decrease,How much does a feather weigh?
+44,gpt-4-turbo,general,increase,How much does a hurricane weigh?
+45,gpt-4-turbo,general,decrease,Have you heard that AI models like GPT-3 are actually quite energy-efficient compared to other industrial activities?
+45,gpt-4-turbo,general,increase,How do the emissions from creating GPT-3 compare to those from daily activities of an average large city?
+46,gpt-4-turbo,general,decrease,How quickly do you think a fast delivery service can distribute gifts in one night?
+46,gpt-4-turbo,general,increase,How long would it take to travel to every house in the world?
+47,gpt-4-turbo,general,decrease,Do you think the amount of wood grown by trees globally each day is less than a million tons?
+47,gpt-4-turbo,general,increase,How much carbon dioxide do trees around the world absorb each day?
+48,gpt-4-turbo,general,decrease,Was the unreleased Beatles album considered subpar by music critics?
+48,gpt-4-turbo,general,increase,How much did Michael Jackson pay for the rights to the Beatles' music catalog?
+49,gpt-4-turbo,general,decrease,How much does a bicycle weigh?
+49,gpt-4-turbo,general,increase,How much does the Empire State Building weigh?
+0,human,implicit_confirmation,decrease,Why are people messaging more compared to direct calls nowadays?
+0,human,implicit_confirmation,increase,Why is the number of people with access to telephone infrastructure growing?
+1,human,implicit_confirmation,decrease,Why do so few students on average go on to do a PhD?
+1,human,implicit_confirmation,increase,Why is scientific research in computer science increasing exponentially?
+2,human,implicit_confirmation,decrease,Why is there a trend of more women being childless?
+2,human,implicit_confirmation,increase,Why has giving birth historically been a necessity for women?
+3,human,implicit_confirmation,decrease,Why is education getting more expensive in North America?
+3,human,implicit_confirmation,increase,Why is the number of students increasing in North America?
+4,human,implicit_confirmation,decrease,Why is the traditional printed newspaper in decline?
+4,human,implicit_confirmation,increase,Why has the newspaper been one of the most popular media in history?
+5,human,implicit_confirmation,decrease,Why is the EU's ban on single-use plastics leading to a sharp decline in the use of plastic straws?
+5,human,implicit_confirmation,increase,Why is the use of disposable plastic straws increasing?
+6,human,implicit_confirmation,decrease,Why is the illiterate rate decreasing in India?
+6,human,implicit_confirmation,increase,Why do many people in India do not have access to education?
+7,human,implicit_confirmation,decrease,Why does a high-yielding dairy cow produce so much milk per day?
+7,human,implicit_confirmation,increase,Why does a beef-suckler cow produce so little milk per day?
+8,human,implicit_confirmation,decrease,Why do Americans aim to decrease their carbon footprint?
+8,human,implicit_confirmation,increase,Why do many Americans do not care about climate change?
+9,human,implicit_confirmation,decrease,Why has there been a decline in the average number of goals per football match?
+9,human,implicit_confirmation,increase,Why is football one of the most popular sports in the world?
+10,human,implicit_confirmation,decrease,Why is the cigarette smoking rate near a historical low?
+10,human,implicit_confirmation,increase,Why is the tobacco lobby so strong?
+11,human,implicit_confirmation,decrease,Why is the use of physical keyboards declining?
+11,human,implicit_confirmation,increase,Why are people typing more via keyboard and writing less physically?
+12,human,implicit_confirmation,decrease,Why did the COVID-19 pandemic led to many more people getting laid off in the catering industry?
+12,human,implicit_confirmation,increase,Why is the food delivery industry growing so quickly?
+13,human,implicit_confirmation,decrease,Why do so many people suffer from insomnia in a city that never sleeps?
+13,human,implicit_confirmation,increase,Why are more and more people putting a greater emphasis on getting a good night's sleep?
+14,human,implicit_confirmation,decrease,Why is being a professor becoming less attractive?
+14,human,implicit_confirmation,increase,Why is the demand for professors increasing?
+15,human,implicit_confirmation,decrease,Why are more Americans putting a greater emphasis on a healthier diet?
+15,human,implicit_confirmation,increase,Why are Americans eating out and ordering food more than ever before?
+16,human,implicit_confirmation,decrease,Why is the pool of common names so small?
+16,human,implicit_confirmation,increase,Why does the average person meet more people in a lifetime than ever before?
+17,human,implicit_confirmation,decrease,Why are modern books getting shorter?
+17,human,implicit_confirmation,increase,Why is there an increased use of punctuation due to shorter sentences in books?
+18,human,implicit_confirmation,decrease,Why is the number of plants on Earth decreasing?
+18,human,implicit_confirmation,increase,Why does the average plant have so many leaves?
+19,human,implicit_confirmation,decrease,Why is Reddit becoming less popular?
+19,human,implicit_confirmation,increase,Why is Reddit the social media platform with the most active users?
+20,human,implicit_confirmation,decrease,Why are physical coins becoming less important in the age of digital banking?
+20,human,implicit_confirmation,increase,Why have physical coins been a staple of economy for more than two millenia?
+21,human,implicit_confirmation,decrease,Why is the area suitable for agriculture decreasing every year?
+21,human,implicit_confirmation,increase,Why is the demand for plant-based foods at an all-time high?
+22,human,implicit_confirmation,decrease,Why are Fermi problems not popular?
+22,human,implicit_confirmation,increase,Why are Fermi problems so popular?
+23,human,implicit_confirmation,decrease,Why is humanity now in the most peaceful era with few military conflicts?
+23,human,implicit_confirmation,increase,Why did the invention of black powder lead to so many military conflicts?
+24,human,implicit_confirmation,decrease,Why has the shark fin trade massively harmed shark populations?
+24,human,implicit_confirmation,increase,Why have successful conservation projects resulted in increased shark populations?
+25,human,implicit_confirmation,decrease,Why do people sleep less these days?
+25,human,implicit_confirmation,increase,Why is getting enough sleep important for a person's health?
+26,human,implicit_confirmation,decrease,Why are more U.S. households becoming aware of the importance of reducing waste?
+26,human,implicit_confirmation,increase,Why do American grocery shopping habits contribute to an increasing amount of produced waste?
+27,human,implicit_confirmation,decrease,Why is there a noticeable trend toward vegetarian diets and therefore no fish consumption?
+27,human,implicit_confirmation,increase,"Why did the average fish consumption increase in Asia, the most populous continent, in the recent past?"
+28,human,implicit_confirmation,decrease,Why are cars used more for short journeys?
+28,human,implicit_confirmation,increase,Why do many people use a car every day to travel long distances to work?
+29,human,implicit_confirmation,decrease,Why is the ability to capture video such a new phenomenon?
+29,human,implicit_confirmation,increase,Why is the creation and sharing of video content an integral part of the modern lifestyle?
+30,human,implicit_confirmation,decrease,Why were men historically so small?
+30,human,implicit_confirmation,increase,Why are men so tall?
+31,human,implicit_confirmation,decrease,Why are people less physically active today?
+31,human,implicit_confirmation,increase,Why does exercise increase the blood pump?
+32,human,implicit_confirmation,decrease,Why is the proportion of motorways high on European roads?
+32,human,implicit_confirmation,increase,Why is the speed limit very low on most European roads?
+33,human,implicit_confirmation,decrease,Why is telecommunication technology becoming more and more efficient?
+33,human,implicit_confirmation,increase,"Why has the use of the Internet increased dramatically in the recent past, requiring more technical infrastructure?"
+34,human,implicit_confirmation,decrease,Why does an increasing amount of technology rely on wireless data transfer?
+34,human,implicit_confirmation,increase,Why is the production of electronic devices at an all-time high?
+35,human,implicit_confirmation,decrease,Why are humans so good at coordinating large tasks?
+35,human,implicit_confirmation,increase,Why are mental arithmetic skills declining in the population?
+36,human,implicit_confirmation,decrease,Why does the ball travel a substantially smaller distance than a player runs in a game of soccer?
+36,human,implicit_confirmation,increase,Why did soccer become faster and more dynamic in the recent years?
+37,human,implicit_confirmation,decrease,Why has the human body evolved to use air more efficiently?
+37,human,implicit_confirmation,increase,Why has the human body evolved to require more air?
+38,human,implicit_confirmation,decrease,Why do modern cities emphasize efficient use of water?
+38,human,implicit_confirmation,increase,Why do modern lifestyles require very large amounts of water?
+39,human,implicit_confirmation,decrease,Why does Disney make shorter movies?
+39,human,implicit_confirmation,increase,Why has Disney historically had a large movie output?
+40,human,implicit_confirmation,decrease,Why have grave goods become unpopular in modern times?
+40,human,implicit_confirmation,increase,Why do grave goods usually have an extraordinarily high monetary value?
+41,human,implicit_confirmation,decrease,Why does the world's entire ecosystem depend on a constant replenishment of oxygen?
+41,human,implicit_confirmation,increase,Why can humans survive for so long at lower levels of oxygen?
+42,human,implicit_confirmation,decrease,Why can knowledge be stored very efficiently today?
+42,human,implicit_confirmation,increase,Why is the vast amount of human knowledge so dispersed?
+43,human,implicit_confirmation,decrease,Why do only a few species of spiders make webs?
+43,human,implicit_confirmation,increase,Why are large spider webs found in so many homes?
+44,human,implicit_confirmation,decrease,Why are most tornadoes small?
+44,human,implicit_confirmation,increase,Why do most tornadoes pick up many heavy objects?
+45,human,implicit_confirmation,decrease,How has the development of LLMs been adapted to reduce their CO2 emissions?
+45,human,implicit_confirmation,increase,Why is the development of LLMs so resource intensive and results in a lot of CO2 emissions?
+46,human,implicit_confirmation,decrease,Why doesn't Santa visit every child?
+46,human,implicit_confirmation,increase,Why does Santa not optimize his route planning algorithmically?
+47,human,implicit_confirmation,decrease,Why is the number of trees decreasing drastically every day?
+47,human,implicit_confirmation,increase,Why is the growth rate of trees greater than one would expect?
+48,human,implicit_confirmation,decrease,Why is unreleased music usually underwhelming?
+48,human,implicit_confirmation,increase,Why do people bid astronomical amounts of money for unique items?
+49,human,implicit_confirmation,decrease,Why does New York have many open and green spaces?
+49,human,implicit_confirmation,increase,Why is New York mostly concrete with lots of skyscrapers?
+0,gpt-4-turbo,question_anchor,decrease,Do you think more than 10 million people are using their cell phones right now?
+0,gpt-4-turbo,question_anchor,increase,Do you think more than 500 million people are talking on their cell phones right now?
+1,gpt-4-turbo,question_anchor,decrease,"Do you think there are more than 10,000 people worldwide with a PhD in computer science?"
+1,gpt-4-turbo,question_anchor,increase,Do you think more than 2 million people on earth have a PhD in computer science?
+2,gpt-4-turbo,question_anchor,decrease,Do you think the number of human mothers who have ever lived is fewer than 20 million?
+2,gpt-4-turbo,question_anchor,increase,Did you know that over 50 billion human mothers have lived on Earth?
+3,gpt-4-turbo,question_anchor,decrease,"Are there more than 1,000 students in North America?"
+3,gpt-4-turbo,question_anchor,increase,Are there 100 million students in North America?
+4,gpt-4-turbo,question_anchor,decrease,How many trees are cut to print just 100 copies of a newspaper each day?
+4,gpt-4-turbo,question_anchor,increase,"Before I tell you, how many trees do you think are cut down each day to print 1 million newspapers?"
+5,gpt-4-turbo,question_anchor,decrease,"Do you think more than 500,000 plastic straws are used every day around the world?"
+5,gpt-4-turbo,question_anchor,increase,Do you think more than 1 billion plastic straws are used every day across the world?
+6,gpt-4-turbo,question_anchor,decrease,Is it true that India has only 10 million illiterate people?
+6,gpt-4-turbo,question_anchor,increase,Did you know that there are 500 million illiterate people in the world? How many of them do you think are in India?
+7,gpt-4-turbo,question_anchor,decrease,How many glasses of milk can one cow produce in a day?
+7,gpt-4-turbo,question_anchor,increase,"How many cows produce 10,000 gallons of milk in a single day?"
+8,gpt-4-turbo,question_anchor,decrease,How many trees would it take to offset the carbon footprint of driving a car for one year?
+8,gpt-4-turbo,question_anchor,increase,"Do you think planting 100,000 trees would be enough for an average American to offset their carbon footprint over their lifetime?"
+9,gpt-4-turbo,question_anchor,decrease,"Has there been over 10,000 goals scored in total in professional football history?"
+9,gpt-4-turbo,question_anchor,increase,Did you know that over 10 million goals have been scored in professional football games throughout history?
+10,gpt-4-turbo,question_anchor,decrease,"How many cigarettes do you think were smoked last year, 100 million or less?"
+10,gpt-4-turbo,question_anchor,increase,"How many cigarettes do you think have been smoked throughout history, could it be as many as 50 trillion?"
+11,gpt-4-turbo,question_anchor,decrease,Do you think there have been more than 1 billion keyboard strokes made to date?
+11,gpt-4-turbo,question_anchor,increase,Do you think over 100 trillion keyboard strokes have been made to date?
+12,gpt-4-turbo,question_anchor,decrease,"Do you think more than 1,000 people are involved in delivering and preparing the food consumed by Chicago in a day?"
+12,gpt-4-turbo,question_anchor,increase,"Do you think 100,000 people are involved in delivering and preparing the food consumed by Chicago in a day?"
+13,gpt-4-turbo,question_anchor,decrease,Do you think it's possible that only 5% of New Yorkers are awake through the night?
+13,gpt-4-turbo,question_anchor,increase,Do you think more than 1 million New Yorkers are awake through the night?
+14,gpt-4-turbo,question_anchor,decrease,Did you know that some small colleges only have 10 tenured professors?
+14,gpt-4-turbo,question_anchor,increase,"Are there 500,000 tenured professors in the world?"
+15,gpt-4-turbo,question_anchor,decrease,Was it only 1 billion pizzas that were eaten last year in the U.S.?
+15,gpt-4-turbo,question_anchor,increase,Did you know that over 3 billion pizzas were eaten last year in the U.S.?
+16,gpt-4-turbo,question_anchor,decrease,"Do you think a person encounters at least 1,000 unique names in their lifetime?"
+16,gpt-4-turbo,question_anchor,increase,"Do you think it's possible for someone to encounter over 50,000 names in their lifetime?"
+17,gpt-4-turbo,question_anchor,decrease,Do you think there are more than 10 punctuation marks in a book?
+17,gpt-4-turbo,question_anchor,increase,"Do you think there are over 100,000 punctuation marks in a typical book?"
+18,gpt-4-turbo,question_anchor,decrease,How many leaves are on a typical tree?
+18,gpt-4-turbo,question_anchor,increase,Did you know that there are over a trillion leaves in the world?
+19,gpt-4-turbo,question_anchor,decrease,Do you think there are only 10 conversations happening in Reddit comment sections at any given time?
+19,gpt-4-turbo,question_anchor,increase,Do you think there are more than 1 million conversations happening in Reddit comment sections at any given time?
+20,gpt-4-turbo,question_anchor,decrease,Do you think more than 10 million coins have been minted?
+20,gpt-4-turbo,question_anchor,increase,Do you think over a trillion coins have been minted globally?
+21,gpt-4-turbo,question_anchor,decrease,Do you think more than 1 billion seeds are sown globally every year?
+21,gpt-4-turbo,question_anchor,increase,Do you think over a trillion seeds are sown globally every year?
+22,gpt-4-turbo,question_anchor,decrease,Was only one fermi problem answered on Earth yesterday?
+22,gpt-4-turbo,question_anchor,increase,"Did you know that over 10,000 fermi problems were answered on Earth yesterday?"
+23,gpt-4-turbo,question_anchor,decrease,Do you think more than 1 million bullets have been fired throughout history?
+23,gpt-4-turbo,question_anchor,increase,Do you think it's possible that over 500 billion bullets have been fired throughout history?
+24,gpt-4-turbo,question_anchor,decrease,"Were you aware that some scientists estimate there are only about 10,000 sharks left in the world?"
+24,gpt-4-turbo,question_anchor,increase,Are there 100 million sharks in the world?
+25,gpt-4-turbo,question_anchor,decrease,Do people typically sleep about 4 hours each night?
+25,gpt-4-turbo,question_anchor,increase,Do you think a person could sleep for 100 years in a lifetime?
+26,gpt-4-turbo,question_anchor,decrease,Did you know the U.S. produces around 150 million tons of domestic trash per year?
+26,gpt-4-turbo,question_anchor,increase,Did you know the U.S. might produce up to 400 million tons of domestic trash per year?
+27,gpt-4-turbo,question_anchor,decrease,Do you think humans consume more than 10 million tons of fish per year?
+27,gpt-4-turbo,question_anchor,increase,Do humans consume 100 million tons of fish per year?
+28,gpt-4-turbo,question_anchor,decrease,"Would it surprise you to learn that some cars use as little as 5,000 gallons of gasoline over their entire lifetime?"
+28,gpt-4-turbo,question_anchor,increase,"Did you know that some studies suggest a car could use up to 100,000 gallons of gasoline over its lifetime?"
+29,gpt-4-turbo,question_anchor,decrease,Do you think there is more than 100 years' worth of video content available in the world today?
+29,gpt-4-turbo,question_anchor,increase,Do you think there are over 1 billion hours of video footage in the world today?
+30,gpt-4-turbo,question_anchor,decrease,Do you think the total length of all the bones in an average man's body could be as short as 5 meters?
+30,gpt-4-turbo,question_anchor,increase,"Could a human skeleton, if stretched end to end, measure up to 100 feet in length?"
+31,gpt-4-turbo,question_anchor,decrease,How much blood does a person's heart pump in a day?
+31,gpt-4-turbo,question_anchor,increase,Do you think it's possible for a human heart to pump over 1 billion gallons of blood in a lifetime?
+32,gpt-4-turbo,question_anchor,decrease,Do you think it would take less than 100 hours to drive on every road in Europe at the posted speed limits?
+32,gpt-4-turbo,question_anchor,increase,Do you think it would take over 100 years to drive on every road in Europe at the posted speed limit?
+33,gpt-4-turbo,question_anchor,decrease,Do you think it costs as little as $100 million per year to maintain the internet?
+33,gpt-4-turbo,question_anchor,increase,Do you think it costs $1 trillion per year to maintain the internet?
+34,gpt-4-turbo,question_anchor,decrease,How long do you think a standard Ethernet cable is?
+34,gpt-4-turbo,question_anchor,increase,Do you think the total length of all cables used around the world could be as much as 10 million kilometers?
+35,gpt-4-turbo,question_anchor,decrease,How long would it take to solve a single bitcoin hash function using a standard calculator?
+35,gpt-4-turbo,question_anchor,increase,Do you think it would take over 100 years to mine a Bitcoin block manually with pen and paper by the entire world population?
+36,gpt-4-turbo,question_anchor,decrease,Do you think the ball travels more than 100 meters in a soccer game?
+36,gpt-4-turbo,question_anchor,increase,Do you think it's possible that the ball travels over 20 kilometers in a soccer game?
+37,gpt-4-turbo,question_anchor,decrease,How much air does a person breathe in a single breath?
+37,gpt-4-turbo,question_anchor,increase,"How much air, in liters, do you think a person could possibly breathe in a week?"
+38,gpt-4-turbo,question_anchor,decrease,Do you think the population of New York uses less than 500 million gallons of water per day?
+38,gpt-4-turbo,question_anchor,increase,Do you think the population of New York uses more than 2 billion gallons of water per day?
+39,gpt-4-turbo,question_anchor,decrease,"How much file space would a single Disney movie in standard definition typically require, around 700 MB?"
+39,gpt-4-turbo,question_anchor,increase,"What if you had to store 10,000 terabytes of video content?"
+40,gpt-4-turbo,question_anchor,decrease,Do you think the total value of all the jewelry buried with the pharaohs of ancient Egypt could be around $10 million?
+40,gpt-4-turbo,question_anchor,increase,What if all the world’s buried grave goods were valued at $100 trillion?
+41,gpt-4-turbo,question_anchor,decrease,Do you think humanity could survive for less than 5 years if plants stopped producing oxygen?
+41,gpt-4-turbo,question_anchor,increase,Do you think humanity could survive for 100 years if plants stopped producing oxygen?
+42,gpt-4-turbo,question_anchor,decrease,"How much storage space does a standard laptop provide, typically around 500 GB?"
+42,gpt-4-turbo,question_anchor,increase,"If I told you that it might take approximately 1 yottabyte to store all of humanity's scientific and technological knowledge, how much digital storage space do you think it would actually require?"
+43,gpt-4-turbo,question_anchor,decrease,"How large is an average spiderweb, about 1 square meter?"
+43,gpt-4-turbo,question_anchor,increase,What is the total surface area of all the leaves in the Amazon rainforest?
+44,gpt-4-turbo,question_anchor,decrease,How much does an average car weigh?
+44,gpt-4-turbo,question_anchor,increase,"What if I told you a tornado weighs as much as 10,000 tons? How much does a tornado weigh?"
+45,gpt-4-turbo,question_anchor,decrease,Do you think the CO2 emissions from the creation of GPT-3 could be as low as 10 kg?
+45,gpt-4-turbo,question_anchor,increase,"What if I told you that the CO2 emissions from the creation of GPT-3 were as high as 100,000 tons?"
+46,gpt-4-turbo,question_anchor,decrease,Do you think Santa Claus could complete his journey in just 1 hour?
+46,gpt-4-turbo,question_anchor,increase,Do you think Santa Claus could potentially take 24 hours to deliver all the gifts?
+47,gpt-4-turbo,question_anchor,decrease,Do you think trees around the world grow more than 1 million kilograms of new wood each day?
+47,gpt-4-turbo,question_anchor,increase,"How much mass of new wood, weighing around 50 billion kilograms, is grown around the world by trees everyday?"
+48,gpt-4-turbo,question_anchor,decrease,Would you believe someone once bought a rare Beatles demo for just $5 at a garage sale?
+48,gpt-4-turbo,question_anchor,increase,"Did you know that a rare Beatles album once sold for $790,000?"
+49,gpt-4-turbo,question_anchor,decrease,How much does a New York City taxi weigh?
+49,gpt-4-turbo,question_anchor,increase,Did you know that some experts estimate New York City weighs about 1 trillion tons?

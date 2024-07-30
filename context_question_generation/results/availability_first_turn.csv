@@ -1,0 +1,201 @@
+target_id,source,bias,experiment_type,response
+0,Llama-3-70b-chat-hf,availability,decrease,Only 3% of people in rural areas of India have access to mobile phones.
+0,Llama-3-70b-chat-hf,availability,increase,There are over 5 billion mobile phone users in the world.
+1,Llama-3-70b-chat-hf,availability,decrease,Only 12 people in the world have a PhD in Computer Science from MIT before the age of 22.
+1,Llama-3-70b-chat-hf,availability,increase,"Google has over 30,000 employees with a Ph.D."
+2,Llama-3-70b-chat-hf,availability,decrease,"The Black Death pandemic in the 14th century killed an estimated 75 to 200 million people, approximately 30-60% of Europe's population."
+2,Llama-3-70b-chat-hf,availability,increase,The population of Ethiopia is over 115 million people.
+3,Llama-3-70b-chat-hf,availability,decrease,"There are only 41 students at the University of the People, a non-profit online university."
+3,Llama-3-70b-chat-hf,availability,increase,There are over 20 million students enrolled in higher education institutions in the United States alone.
+4,Llama-3-70b-chat-hf,availability,decrease,The average American uses only 1.2 pounds of paper per week for personal correspondence.
+4,Llama-3-70b-chat-hf,availability,increase,The average American uses 700 pounds of paper per year.
+5,Llama-3-70b-chat-hf,availability,decrease,Only 1% of marine waste is from straws.
+5,Llama-3-70b-chat-hf,availability,increase,500 billion plastic bottles are used every year worldwide.
+6,Llama-3-70b-chat-hf,availability,decrease,"India has made significant progress in increasing its literacy rate, with the 2011 census reporting a literacy rate of 74.04%, up from 65.38% in 2001."
+6,Llama-3-70b-chat-hf,availability,increase,India has the largest number of child laborers in the world.
+7,Llama-3-70b-chat-hf,availability,decrease,The world record for the highest milk production by a single cow in a day is 227 liters (60 gallons).
+7,Llama-3-70b-chat-hf,availability,increase,"India is the largest producer of milk in the world, accounting for over 18% of global milk production."
+8,Llama-3-70b-chat-hf,availability,decrease,"The average American drives around 13,476 miles per year."
+8,Llama-3-70b-chat-hf,availability,increase,The average American generates about 16.4 metric tons of CO2 equivalent emissions per year.
+9,Llama-3-70b-chat-hf,availability,decrease,The average goals scored per game in the English Premier League is around 2.7.
+9,Llama-3-70b-chat-hf,availability,increase,The 1966 FIFA World Cup Final between England and West Germany had a total of 6 goals scored.
+10,Llama-3-70b-chat-hf,availability,decrease,The fact that smoking rates have been declining globally since the 1980s.
+10,Llama-3-70b-chat-hf,availability,increase,The average American smoked 11.1 cigarettes per day in 1965.
+11,Llama-3-70b-chat-hf,availability,decrease,"The average typist makes around 12,000 to 20,000 keystrokes per day."
+11,Llama-3-70b-chat-hf,availability,increase,The estimated 5 billion Google searches per day.
+12,Llama-3-70b-chat-hf,availability,decrease,Only 60 farmers' markets operate in Chicago throughout the year.
+12,Llama-3-70b-chat-hf,availability,increase,"O'Hare International Airport, one of the busiest airports in the world, serves over 84 million passengers annually."
+13,Llama-3-70b-chat-hf,availability,decrease,The fact that only 1 in 5 New York City residents work non-daytime shifts.
+13,Llama-3-70b-chat-hf,availability,increase,"New York City is often referred to as the ""City That Never Sleeps""."
+14,Llama-3-70b-chat-hf,availability,decrease,There are only 12 tenured professors in the entire University of Cambridge's Faculty of English.
+14,Llama-3-70b-chat-hf,availability,increase,"Harvard University has approximately 1,600 tenured professors."
+15,Llama-3-70b-chat-hf,availability,decrease,The average American eats pizza 23 times per year.
+15,Llama-3-70b-chat-hf,availability,increase,The average American consumes 23 pounds of pizza per year.
+16,Llama-3-70b-chat-hf,availability,decrease,"Only 1,500 to 2,000 words are used in 80% of daily conversations."
+16,Llama-3-70b-chat-hf,availability,increase,There are over 7.9 billion people in the world.
+17,Llama-3-70b-chat-hf,availability,decrease,The average tweet contains only 2-3 punctuation marks.
+17,Llama-3-70b-chat-hf,availability,increase,"The average novel contains around 200,000 words."
+18,Llama-3-70b-chat-hf,availability,decrease,There are only about 3 trillion trees on Earth.
+18,Llama-3-70b-chat-hf,availability,increase,The Amazon rainforest is responsible for producing about 20% of the world's oxygen.
+19,Llama-3-70b-chat-hf,availability,decrease,"Only about 1,000 to 2,000 people are online and active on a typical subreddit at any given time."
+19,Llama-3-70b-chat-hf,availability,increase,"There are over 138,000 active subreddits on Reddit."
+20,Llama-3-70b-chat-hf,availability,decrease,"The largest coin hoard ever discovered is the Nazca treasure, which consisted of around 200,000 coins."
+20,Llama-3-70b-chat-hf,availability,increase,The fact that the United States Mint alone has produced over 1 trillion coins since 1793.
+21,Llama-3-70b-chat-hf,availability,decrease,"Only 1 in 10,000 sesame seeds are fertile."
+21,Llama-3-70b-chat-hf,availability,increase,There are over 570 million farms worldwide.
+22,Llama-3-70b-chat-hf,availability,decrease,Only 12 people in the world are known to have mastered Fermi problems.
+22,Llama-3-70b-chat-hf,availability,increase,There were over 4.4 billion Internet users worldwide as of 2020.
+23,Llama-3-70b-chat-hf,availability,decrease,The average rate of fire of a musket during the American Civil War was approximately 2-3 rounds per minute.
+23,Llama-3-70b-chat-hf,availability,increase,The American Civil War alone saw an estimated 1.5 billion bullets fired.
+24,Llama-3-70b-chat-hf,availability,decrease,"Most shark species are threatened or near threatened with extinction, with only about 10% of species being of least concern."
+24,Llama-3-70b-chat-hf,availability,increase,The average person consumes 1-2 kilograms of shark fins every year in shark fin soup in Hong Kong.
+25,Llama-3-70b-chat-hf,availability,decrease,The average human lifespan is approximately 79 years.
+25,Llama-3-70b-chat-hf,availability,increase,The average person spends around 2-3 years of their lifetime waiting at traffic lights.
+26,Llama-3-70b-chat-hf,availability,decrease,The average American generates about 4.4 pounds of trash per day.
+26,Llama-3-70b-chat-hf,availability,increase,"The Great Pacific Garbage Patch, a giant vortex of marine debris in the North Pacific Ocean, is estimated to be around 700,000 square kilometers (270,000 sq mi) in size, roughly the size of Texas."
+27,Llama-3-70b-chat-hf,availability,decrease,The average American eats less than 1/2 pound of fish per month.
+27,Llama-3-70b-chat-hf,availability,increase,The average Japanese person consumes around 70 kg (154 lbs) of fish per year.
+28,Llama-3-70b-chat-hf,availability,decrease,Hybrid electric vehicles like the Toyota Prius have a fuel economy of up to 52 miles per gallon.
+28,Llama-3-70b-chat-hf,availability,increase,"The average American driver travels around 13,476 miles per year."
+29,Llama-3-70b-chat-hf,availability,decrease,The average American watches around 4 hours and 38 minutes of TV per day.
+29,Llama-3-70b-chat-hf,availability,increase,YouTube users upload 500 hours of video every minute.
+30,Llama-3-70b-chat-hf,availability,decrease,The average length of a human femur is approximately 43-45 cm (17-18 inches).
+30,Llama-3-70b-chat-hf,availability,increase,"The longest recorded human skeleton, Robert Wadlow's, measured 8.9 feet (2.72 meters) tall."
+31,Llama-3-70b-chat-hf,availability,decrease,The average person experiences around 1-2 minutes of cardiac arrest in their lifetime.
+31,Llama-3-70b-chat-hf,availability,increase,"The average person donates around 1 pint (473ml) of blood per whole-blood donation, and it's recommended to wait at least 8 weeks (56 days) before donating again."
+32,Llama-3-70b-chat-hf,availability,decrease,The Autobahn in Germany has no general speed limit.
+32,Llama-3-70b-chat-hf,availability,increase,The average length of a road in Iceland is approximately 4.2 km.
+33,Llama-3-70b-chat-hf,availability,decrease,"The average cost of maintaining a single website is around $5,000 to $10,000 per year."
+33,Llama-3-70b-chat-hf,availability,increase,The annual budget of the Internet Corporation for Assigned Names and Numbers (ICANN) is over $135 million.
+34,Llama-3-70b-chat-hf,availability,decrease,The average length of a smartphone charging cable is around 1 meter.
+34,Llama-3-70b-chat-hf,availability,increase,The total length of all underground fibre optic cables laid across the ocean floor is over 1.2 million kilometers.
+35,Llama-3-70b-chat-hf,availability,decrease,The fact that Google's DeepMind AI was able to reduce the energy consumption of its data centers by 40% through machine learning-based optimization.
+35,Llama-3-70b-chat-hf,availability,increase,The fact that the current Bitcoin network's total hash rate is over 140 exahashes per second (EH/s).
+36,Llama-3-70b-chat-hf,availability,decrease,A study found that the average distance covered by a soccer player during a game is around 7 miles (11.3 kilometers).
+36,Llama-3-70b-chat-hf,availability,increase,"The longest recorded goal in professional soccer was achieved by Asmir Begović, who scored from a distance of 91.9 meters (301 feet 1 inch) in 2013."
+37,Llama-3-70b-chat-hf,availability,decrease,"The average person takes 12-20 breaths per minute, which is approximately 17,000-30,000 breaths per day."
+37,Llama-3-70b-chat-hf,availability,increase,"Mount Everest's death zone, where climbers can experience respiratory distress due to low oxygen levels, is located at an altitude above 8,000 meters (26,247 ft)."
+38,Llama-3-70b-chat-hf,availability,decrease,The average American uses about 1 gallon of water per day for drinking.
+38,Llama-3-70b-chat-hf,availability,increase,The fact that the average American uses around 80-100 gallons of water per day.
+39,Llama-3-70b-chat-hf,availability,decrease,The average size of a DVD is around 4.7 GB.
+39,Llama-3-70b-chat-hf,availability,increase,The total storage capacity of the Internet Archive's data centers is over 100 petabytes.
+40,Llama-3-70b-chat-hf,availability,decrease,"The average cost of a funeral in the United States is around $7,000 to $10,000."
+40,Llama-3-70b-chat-hf,availability,increase,"The estimated value of all the gold extracted throughout human history is approximately 193,000 tonnes, worth around $10 trillion at current prices."
+41,Llama-3-70b-chat-hf,availability,decrease,"The largest organism in the world is a fungus that covers over 2,200 acres in Oregon."
+41,Llama-3-70b-chat-hf,availability,increase,The Amazon rainforest produces about 20% of the world's oxygen.
+42,Llama-3-70b-chat-hf,availability,decrease,The average Wikipedia article is around 2-3 kilobytes in size.
+42,Llama-3-70b-chat-hf,availability,increase,The estimated 5 zettabytes (5 trillion gigabytes) of data stored in the Library of Congress as of 2011.
+43,Llama-3-70b-chat-hf,availability,decrease,The average spiderweb has a diameter of about 10-15 centimeters.
+43,Llama-3-70b-chat-hf,availability,increase,There are approximately 48.5 billion chickens in the world.
+44,Llama-3-70b-chat-hf,availability,decrease,A typical empty plastic water bottle weighs around 30-40 grams.
+44,Llama-3-70b-chat-hf,availability,increase,"The largest tornado outbreak in recorded history occurred on April 27, 2011, and consisted of 362 tornadoes that caused 324 fatalities and $11 billion in damages."
+45,Llama-3-70b-chat-hf,availability,decrease,"The carbon footprint of training a single AI model can be as high as 284,000 kilograms of CO2 equivalent, comparable to the lifetime emissions of five cars."
+45,Llama-3-70b-chat-hf,availability,increase,The fact that training a single AI model can be equivalent to the carbon footprint of five cars over their lifetimes.
+46,Llama-3-70b-chat-hf,availability,decrease,"The circumference of the Earth at the equator is approximately 40,075 kilometers."
+46,Llama-3-70b-chat-hf,availability,increase,The fact that there are over 7.9 billion people in the world.
+47,Llama-3-70b-chat-hf,availability,decrease,The average American uses about 700 pounds of paper per year.
+47,Llama-3-70b-chat-hf,availability,increase,"The Amazon rainforest produces about 2,200 million metric tons of oxygen per year."
+48,Llama-3-70b-chat-hf,availability,decrease,"The majority of bootleg Beatles albums are compiled from low-quality, incomplete, or unofficial recordings."
+48,Llama-3-70b-chat-hf,availability,increase,"The sale of the original acetate of The Beatles' ""Please Please Me"" album for £10,000 in 2013."
+49,Llama-3-70b-chat-hf,availability,decrease,The average weight of a human is approximately 154 pounds (70 kg).
+49,Llama-3-70b-chat-hf,availability,increase,"The Empire State Building weighs approximately 365,000 tons."
+0,gpt-4-turbo,availability,decrease,"In some regions, particularly in rural or less economically developed areas, mobile phone penetration rates are significantly lower."
+0,gpt-4-turbo,availability,increase,The number of active mobile phone users worldwide is approximately 6.6 billion.
+1,gpt-4-turbo,availability,decrease,"Worldwide, less than 1% of the population holds a PhD in any field."
+1,gpt-4-turbo,availability,increase,"A significant number of my colleagues at OpenAI, where I was developed, hold PhDs in computer science."
+2,gpt-4-turbo,availability,decrease,The world population reached 8 billion people in 2022.
+2,gpt-4-turbo,availability,increase,The current world population is approximately 8 billion people.
+3,gpt-4-turbo,availability,decrease,A significant number of schools in North America have been closing.
+3,gpt-4-turbo,availability,increase,"As of 2021, the United States has approximately 76.4 million students enrolled in its elementary and secondary schools."
+4,gpt-4-turbo,availability,decrease,The amount of recycled paper used in newspaper production has significantly increased.
+4,gpt-4-turbo,availability,increase,"Approximately 500,000 trees must be cut down each week to produce the Sunday newspapers."
+5,gpt-4-turbo,availability,decrease,Many countries are banning or have already banned plastic straws due to environmental concerns.
+5,gpt-4-turbo,availability,increase,"In the United States alone, 500 million straws are used every day."
+6,gpt-4-turbo,availability,decrease,India has made significant progress in improving its literacy rate over the past decades.
+6,gpt-4-turbo,availability,increase,"There was a significant increase in the literacy rate in India, reaching 77.7% in 2021."
+7,gpt-4-turbo,availability,decrease,Cows produce about 6 to 7 gallons of milk per day.
+7,gpt-4-turbo,availability,increase,A Holstein cow can produce about 8 gallons of milk per day.
+8,gpt-4-turbo,availability,decrease,"On average, a single tree can absorb about 48 pounds of CO2 per year."
+8,gpt-4-turbo,availability,increase,The average American emits about 16.5 metric tons of CO2 per year.
+9,gpt-4-turbo,availability,decrease,Information about a specific low-scoring football match or season.
+9,gpt-4-turbo,availability,increase,The record-breaking 149-0 football match result in Madagascar in 2002.
+10,gpt-4-turbo,availability,decrease,The global decline in smoking rates over recent years.
+10,gpt-4-turbo,availability,increase,Global cigarette production reached 5.5 trillion cigarettes per year by the early 2000s.
+11,gpt-4-turbo,availability,decrease,The total number of internet users is around 5 billion.
+11,gpt-4-turbo,availability,increase,"In 2013, it was estimated that there were 2.7 billion internet users."
+12,gpt-4-turbo,availability,decrease,"In Chicago, a significant number of restaurants have closed permanently due to economic pressures."
+12,gpt-4-turbo,availability,increase,Chicago has a population of nearly 2.7 million people.
+13,gpt-4-turbo,availability,decrease,Many New Yorkers work standard 9-to-5 jobs.
+13,gpt-4-turbo,availability,increase,"New York is often called ""the city that never sleeps."
+14,gpt-4-turbo,availability,decrease,The number of tenured professors has been decreasing due to budget cuts and a shift towards hiring more adjunct and non-tenure-track faculty.
+14,gpt-4-turbo,availability,increase,"The United States has over 280,000 tenured and tenure-track faculty members."
+15,gpt-4-turbo,availability,decrease,Reports of declining pizza sales due to increased health consciousness.
+15,gpt-4-turbo,availability,increase,Americans eat approximately 3 billion pizzas each year.
+16,gpt-4-turbo,availability,decrease,"Dunbar's number, which proposes that humans can only maintain about 150 stable relationships."
+16,gpt-4-turbo,availability,increase,"During a preceding conversation, discussing massive social networks like Facebook where users can have thousands of friends might have caused the application of the availability heuristic, leading to an inflated estimate of the number of unique names a person encounters in their lifetime."
+17,gpt-4-turbo,availability,decrease,The average number of words per page in a book is 250.
+17,gpt-4-turbo,availability,increase,"In the previous discussion, we talked about how a particularly long novel, 'War and Peace' by Leo Tolstoy, contains over 500,000 words and numerous complex sentences often requiring multiple punctuation marks."
+18,gpt-4-turbo,availability,decrease,Deforestation has significantly reduced the number of trees worldwide.
+18,gpt-4-turbo,availability,increase,The Amazon Rainforest contains over 390 billion individual trees.
+19,gpt-4-turbo,availability,decrease,Reddit had 52 million daily active users as of 2020.
+19,gpt-4-turbo,availability,increase,Reddit has over 430 million monthly active users.
+20,gpt-4-turbo,availability,decrease,1.3 billion coins minted for the 50 State Quarters program.
+20,gpt-4-turbo,availability,increase,The U.S. Mint has produced over 300 billion coins since it was established.
+21,gpt-4-turbo,availability,decrease,"In a previous conversation, discussing the impact of urbanization on reducing arable land and agricultural activities."
+21,gpt-4-turbo,availability,increase,Global production of wheat is approximately 771 million tons annually.
+22,gpt-4-turbo,availability,decrease,I have no specific recent data on the number of Fermi problems answered worldwide on any given day.
+22,gpt-4-turbo,availability,increase,High activity on a problem-solving forum discussing Fermi problems.
+23,gpt-4-turbo,availability,decrease,"In the history of warfare, many conflicts such as the World Wars involved extensive use of firearms, but modern warfare increasingly relies on precision-guided munitions and cyber warfare, reducing the reliance on traditional firearms and bullets."
+23,gpt-4-turbo,availability,increase,"During World War II, approximately 3 trillion bullets were fired."
+24,gpt-4-turbo,availability,decrease,Shark populations have declined by over 70% in the past 50 years.
+24,gpt-4-turbo,availability,increase,There are over 500 species of sharks in the world.
+25,gpt-4-turbo,availability,decrease,Margaret Thatcher reportedly slept only 4 hours a night.
+25,gpt-4-turbo,availability,increase,People spend about one-third of their lives sleeping.
+26,gpt-4-turbo,availability,decrease,Americans recycle about 32% of their waste.
+26,gpt-4-turbo,availability,increase,The U.S. generates about 292.4 million tons of municipal solid waste annually.
+27,gpt-4-turbo,availability,decrease,A significant proportion of the global population is vegetarian or vegan.
+27,gpt-4-turbo,availability,increase,"Global fish production reached about 179 million tonnes in 2018, with aquaculture contributing over 50%."
+28,gpt-4-turbo,availability,decrease,Electric vehicles do not use gasoline.
+28,gpt-4-turbo,availability,increase,A report highlighting that the average American driver uses about 500 gallons of gasoline per year.
+29,gpt-4-turbo,availability,decrease,"As of 2021, YouTube users upload 500 hours of video every minute."
+29,gpt-4-turbo,availability,increase,How many hours of video do YouTube users watch each day?
+30,gpt-4-turbo,availability,decrease,The average height of an adult male is about 5 feet 9 inches (175 cm).
+30,gpt-4-turbo,availability,increase,The blue whale's skeleton can measure up to 98 feet in length.
+31,gpt-4-turbo,availability,decrease,A human heart pumps about 70 mL of blood per beat.
+31,gpt-4-turbo,availability,increase,"The human heart pumps about 2,000 gallons of blood each day."
+32,gpt-4-turbo,availability,decrease,A road trip from Lisbon to Moscow takes approximately 3 days.
+32,gpt-4-turbo,availability,increase,The total length of all roads in Europe is about 6.1 million kilometers.
+33,gpt-4-turbo,availability,decrease,"In a preceding conversation, I mentioned that the operational costs for maintaining servers and infrastructure for major tech companies like Google or Amazon are surprisingly low due to economies of scale and advancements in technology."
+33,gpt-4-turbo,availability,increase,The cost to build and maintain a single large data center can exceed $1 billion.
+34,gpt-4-turbo,availability,decrease,People often underestimate the length of cables required for household appliances and electronics.
+34,gpt-4-turbo,availability,increase,"There are over 550,000 miles of undersea cables globally."
+35,gpt-4-turbo,availability,decrease,The average human can manually compute a hash calculation in approximately 10 minutes.
+35,gpt-4-turbo,availability,increase,Mining a single Bitcoin block by hand would take about 0.65 billion years.
+36,gpt-4-turbo,availability,decrease,"In a study, average players ran about 7 km per game."
+36,gpt-4-turbo,availability,increase,"During a typical Premier League match, players can run an average distance of 10 to 12 kilometers."
+37,gpt-4-turbo,availability,decrease,The average tidal volume (the amount of air inhaled or exhaled during a normal breath) is about 500 milliliters.
+37,gpt-4-turbo,availability,increase,A person typically inhales about 7 to 8 liters of air per minute.
+38,gpt-4-turbo,availability,decrease,New York City has implemented strict water conservation measures.
+38,gpt-4-turbo,availability,increase,"A recent news report highlighted that New York City's water system is one of the largest in the world, supplying over one billion gallons of water each day."
+39,gpt-4-turbo,availability,decrease,The average size of a standard definition movie is about 700 MB to 1 GB.
+39,gpt-4-turbo,availability,increase,"Disney has produced over 800 films."
+40,gpt-4-turbo,availability,decrease,Many ancient grave goods have been looted or deteriorated over time.
+40,gpt-4-turbo,availability,increase,"The discovery of the tomb of Tutankhamun, which contained gold and valuable artifacts estimated to be worth hundreds of millions of dollars."
+41,gpt-4-turbo,availability,decrease,The Great Oxygenation Event dramatically increased oxygen levels approximately 2.4 billion years ago.
+41,gpt-4-turbo,availability,increase,Oxygen comprises approximately 21% of the Earth's atmosphere.
+42,gpt-4-turbo,availability,decrease,"The entire written works of humanity, including all books, movies, and scientific articles, can be stored in about 50 petabytes."
+42,gpt-4-turbo,availability,increase,The total amount of data in the world in 2021 was estimated at about 79 zettabytes.
+43,gpt-4-turbo,availability,decrease,A significant decrease in global spider populations due to habitat loss and pesticides.
+43,gpt-4-turbo,availability,increase,There are approximately 25 million tons of spiders on Earth.
+44,gpt-4-turbo,availability,decrease,"Tornadoes consist mostly of air, which has very little mass compared to solid objects."
+44,gpt-4-turbo,availability,increase,A tornado involves large volumes of air moving at very high speeds and can exert a pressure differential of about 10 percent compared to the surrounding atmosphere.
+45,gpt-4-turbo,availability,decrease,"GPT-3 is an AI developed by OpenAI, which has been trained on a diverse range of internet text."
+45,gpt-4-turbo,availability,increase,The training of GPT-3 reportedly required 355 GPU-years.
+46,gpt-4-turbo,availability,decrease,Santa Claus visits millions of homes in a single night.
+46,gpt-4-turbo,availability,increase,Santa Claus delivers gifts to approximately 2.2 billion children across the world.
+47,gpt-4-turbo,availability,decrease,Deforestation rates are alarmingly high.
+47,gpt-4-turbo,availability,increase,Global net primary production of biomass is about 105 petagrams of carbon per year.
+48,gpt-4-turbo,availability,decrease,Sales of recent albums by classic rock artists have generally been lower than expected.
+48,gpt-4-turbo,availability,increase,A Michael Jackson album with unreleased songs sold for $5 million.
+49,gpt-4-turbo,availability,decrease,"New York City has a large number of parks and green spaces, including Central Park, which covers 843 acres."
+49,gpt-4-turbo,availability,increase,The population of New York City is over 8 million people.

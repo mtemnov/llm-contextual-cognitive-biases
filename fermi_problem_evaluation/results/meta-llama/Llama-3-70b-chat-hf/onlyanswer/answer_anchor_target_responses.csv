@@ -1,0 +1,1001 @@
+target_id,sample,model,context,context_prompt,context_bias,target_prompt,experiment_type,response
+0,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 250,000,000 people"
+0,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 140,000,000 people"
+0,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 217,421,109 people"
+0,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 247,000,000 people"
+0,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 350,000,000 people"
+0,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 250,000,000 people"
+0,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 250,000,000 people"
+0,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 250,000,000 people"
+0,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 250,000,000 people"
+0,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 250,000,000 people"
+0,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 225,000,000 people"
+0,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 217,421,119 people"
+0,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 217,421,093 people"
+0,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 230,000,000 people"
+0,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 145,000,000 people"
+0,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 240,000,000 people"
+0,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 250,000,000 people"
+0,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 250,000,000 people"
+0,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 240000000
+0,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 213,000,000 people"
+1,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000 people"
+1,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000 people"
+1,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000"
+1,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000 people"
+1,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,420,000 people"
+1,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000 people"
+1,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000 people"
+1,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000 people"
+1,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000 people"
+1,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,500,000 people"
+1,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 350,000 people"
+1,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 500,000 people"
+1,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 250,000 people"
+1,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 350,000 people"
+1,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,230,000 people"
+1,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 350,000 people"
+1,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 350,000 people"
+1,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,250,000 people"
+1,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 350,000 people"
+1,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 500,000 people"
+2,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 108,200,000,000 mothers"
+2,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 108000000000 mothers
+2,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 108,200,000,000 mothers"
+2,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 108000000000 mothers
+2,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 108,200,000,000 mothers"
+2,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 108000000000 mothers
+2,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 108,200,000,000 mothers"
+2,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 108,200,000,000 mothers"
+2,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 108,200,000,000 mothers"
+2,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 108,200,000,000 mothers"
+2,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 108,200,000,000 mothers"
+2,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 108000000000 mothers
+3,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 74,000,000 students"
+3,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 74,000,000 students"
+3,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 74,100,000 students"
+3,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 74,100,000 students"
+3,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 76,400,000 students"
+3,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 72,845,000 students"
+3,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 74,000,000 students"
+3,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 73,000,000 students"
+3,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 74,100,000 students"
+3,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 55,000,000 students"
+3,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 122 million students
+3,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 76,400,000 students"
+3,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 77,000,000 students"
+3,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 114,000,000 students"
+3,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 114,400,000 students"
+3,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 84,000,000 students"
+3,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 77,600,000 students"
+3,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 104 million students
+3,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 114,400,000 students"
+3,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 124,000,000 students"
+4,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 12745 trees
+4,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 20,000 trees"
+4,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 200,000 trees"
+4,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 27,000 trees"
+4,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 20,000 trees"
+4,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 12,000 trees"
+4,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 200,000 trees"
+4,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 200,000 trees"
+4,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 96,000 trees"
+4,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 27,000 trees"
+4,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 95,000 trees"
+4,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 950,000 trees"
+4,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 95,000 trees"
+4,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 95,000 trees"
+4,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 950,000 trees"
+4,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 95,000 trees"
+4,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 95,000 trees"
+4,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 95,000 trees"
+4,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 95,000 trees"
+4,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 950,000 trees"
+5,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,000,000 plastic straws"
+5,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,850,000 plastic straws"
+5,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,000,000 plastic straws"
+5,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,000,000 plastic straws"
+5,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,200,000 plastic straws"
+5,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,000,000 plastic straws"
+5,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,000,000 plastic straws"
+5,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,200,000 plastic straws"
+5,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,000,000 plastic straws"
+5,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 57,000,000 plastic straws"
+5,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 437,500,000 plastic straws"
+5,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 57,000,000 plastic straws"
+5,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 437,500,000 plastic straws"
+5,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 437,500,000 plastic straws"
+5,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 57,200,000 plastic straws"
+5,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 57,000,000 plastic straws"
+5,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 437,500,000 plastic straws"
+5,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 437,000,000 plastic straws"
+5,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 437,500,000 plastic straws"
+5,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 437,500,000 plastic straws"
+6,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million
+6,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million
+6,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million
+6,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million illiterate people
+6,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million
+6,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million
+6,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million illiterate people
+6,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million
+6,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 281 million
+6,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 282 million illiterate people
+6,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 282,000,000"
+6,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 282 million
+6,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 282 million
+6,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 282 million
+6,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 282,000,000"
+6,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 282,000,000"
+6,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 282 million
+6,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 282 million illiterate people
+6,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 282 million
+6,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 282 million
+7,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 375
+7,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 2200 cows
+7,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 3456 cows
+7,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 1337 cows
+7,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 1750 cows
+7,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 1450 cows
+7,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 2350 cows
+7,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 375 cows
+7,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 3750 cows
+7,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 2138 cows
+7,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 137,500 cows"
+7,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 234,375 cows"
+7,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 143,198 cows"
+7,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,357 cows"
+7,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 143,000 cows"
+7,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 375,000 cows"
+7,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 21,429 cows"
+7,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 245,000 cows"
+7,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 172,414 cows"
+7,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 345,678 cows"
+8,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 625 trees
+8,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 625 trees
+8,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 630 trees
+8,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 630 trees
+8,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 630
+8,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 615 trees
+8,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 630 trees
+8,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 630 trees
+8,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 630 trees
+8,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 640 trees
+8,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 615 trees
+8,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 625 trees
+8,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 625 trees
+8,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 630 trees
+8,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 545 trees
+8,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 625 trees
+8,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 642
+8,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 630 trees
+8,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 625 trees
+8,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 547
+9,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,374,219 goals"
+9,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,375,000 goals"
+9,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,445,120 goals"
+9,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,432,111 goals"
+9,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,400,000,000 goals"
+9,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,432,119 goals"
+9,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,525,119,000 goals"
+9,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 25,000,000 goals"
+9,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,372,911 goals"
+9,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,375,000 goals"
+9,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,542,119 goals"
+9,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,456,921,000 goals"
+9,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,354,121 goals"
+9,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,452,119 goals"
+9,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,421,119 goals"
+9,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 14,432,119 goals"
+9,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,111,111 goals"
+9,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,345,678,912 goals"
+9,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,432,118,521 goals"
+9,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,345,678 goals"
+10,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000,000 cigarettes"
+10,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000 cigarettes"
+10,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000 cigarettes"
+10,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000 cigarettes"
+10,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000,000 cigarettes"
+10,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000 cigarettes"
+10,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000,000 cigarettes"
+10,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000 cigarettes"
+10,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000,000 cigarettes"
+10,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 450,000,000,000,000,000 cigarettes"
+10,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000,000 cigarettes"
+10,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000 cigarettes"
+10,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000,000"
+10,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000,000 cigarettes"
+10,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000,000 cigarettes"
+10,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000 cigarettes"
+10,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000,000 cigarettes"
+10,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000,000 cigarettes"
+10,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000,000,000,000 cigarettes"
+10,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 443,000,000,000,000,000 cigarettes"
+11,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000,000 strokes"
+11,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000,000,000,000,000 strokes"
+11,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100 trillion strokes
+11,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000,000"
+11,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000,000,000,000,000 strokes"
+11,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000,000"
+11,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000,000,000,000,000 strokes"
+11,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000,000"
+11,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000,000,000,000,000 strokes"
+11,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000,000,000,000,000"
+11,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,678,901,200 strokes"
+11,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,678,921,211 strokes"
+11,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,678,921,120 strokes"
+11,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,678,912,345 strokes"
+11,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000,000,000,000"
+11,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,678,921,000 strokes"
+11,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,678,912,000 strokes"
+11,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,219,876,543 strokes"
+11,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,421,112,345,678 strokes"
+11,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,345,678,900,000 strokes"
+12,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 120,000 people"
+12,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 130,000 people"
+12,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 120,000 people"
+12,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 125,000 people"
+12,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000 people"
+12,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 130,000 people"
+12,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 250,000 people"
+12,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 120,000 people"
+12,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 125,000 people"
+12,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 140,000 people"
+12,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 120,000 people"
+12,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 125,000 people"
+12,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 125,000 people"
+12,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 125,000 people"
+12,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 125,000 people"
+12,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 125,000 people"
+12,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 140,000 people"
+12,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 125,000 people"
+12,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 130,000 people"
+12,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 130,000 people"
+13,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000 New Yorkers"
+13,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,250,000 New Yorkers"
+13,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000 New Yorkers"
+13,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,234,000 New Yorkers"
+13,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,250,000 New Yorkers"
+13,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,230,000 New Yorkers"
+13,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 450,000 New Yorkers"
+13,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000 New Yorkers"
+13,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,100,000 New Yorkers"
+13,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,760,000 New Yorkers"
+13,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000 New Yorkers"
+13,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,540,000 New Yorkers"
+13,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000 New Yorkers"
+13,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,200,000 New Yorkers"
+13,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000 New Yorkers"
+13,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,320,000 New Yorkers"
+14,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000 tenured professors"
+14,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 740,000 tenured professors"
+14,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000 tenured professors"
+14,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000 tenured professors"
+14,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000 tenured professors"
+14,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000"
+14,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000 tenured professors"
+14,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000 tenured professors"
+14,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,119 tenured professors"
+14,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 750,000 tenured professors"
+14,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000"
+14,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,119 tenured professors"
+14,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,100 tenured professors"
+14,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000"
+14,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000"
+14,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000"
+14,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,119"
+14,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000"
+14,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000 tenured professors"
+14,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000"
+15,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,125,000,000 pizzas"
+15,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,125,000,000 pizzas"
+15,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,725,000,000 pizzas"
+15,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,549,000,000 pizzas"
+15,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,744,000,000 pizzas"
+15,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,057,000,000 pizzas"
+15,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,125,000,000 pizzas"
+15,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,744,000,000 pizzas"
+15,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,148,000,000 pizzas"
+15,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,725,000,000 pizzas"
+15,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,436,800,000 pizzas"
+15,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,125,000,000 pizzas"
+15,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,144,000,000 pizzas"
+15,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,129,600,000 pizzas"
+15,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,144,000,000 pizzas"
+15,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,144,000,000 pizzas"
+15,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,144,000,000 pizzas"
+15,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,144,000,000 pizzas"
+15,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,144,000,000 pizzas"
+15,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,144,000,000 pizzas"
+16,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 10,000"
+16,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 10,000"
+16,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 12000
+16,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 10,000 unique names"
+16,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 15,000 unique names"
+16,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 20,000"
+16,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 10,000"
+16,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 20,000 unique names"
+16,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 15000
+16,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 20,000 unique names"
+16,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000 unique names"
+16,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000 unique names"
+16,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000"
+16,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000 unique names"
+16,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 40,000 unique names"
+16,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 15,000 unique names"
+16,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 15,000"
+16,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 20,000 unique names"
+16,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000 unique names"
+16,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000 unique names"
+17,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+17,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 38,421 punctuation marks"
+17,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 50,000 punctuation marks"
+18,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 7,553,819,200,000,000 leaves"
+18,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,023,000,000,000,000,000 leaves"
+18,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,031,000,000,000,000,000 leaves"
+18,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,041,200,000,000,000,000 leaves"
+18,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,000,000,000,000,000,000 leaves"
+18,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,031,594,000,000,000,000 leaves"
+18,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,048,000,000,000,000,000 leaves"
+18,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,031,000,000,000,000,000 leaves"
+18,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,031,000,000,000,000,000 leaves"
+18,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,044,000,000,000,000,000 leaves"
+18,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,041,000,000,000,000,000 leaves"
+18,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,861,000,000,000,000,000 leaves"
+18,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,041,000,000,000,000,000 leaves"
+18,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,061,385,000,000,000,000 leaves"
+18,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,431,820,000,000,000,000 leaves"
+18,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,041,000,000,000,000,000 leaves"
+18,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,031,919,000,000,000,000 leaves"
+18,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,431,800,000,000,000,000 leaves"
+18,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,041,000,000,000,000,000 leaves"
+18,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,031,000,000,000,000,000 leaves"
+19,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+19,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000"
+19,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000"
+19,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+19,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+19,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000"
+19,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+19,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+19,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+19,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+19,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 15,000"
+19,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+19,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000"
+20,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 500,000,000,000,000 coins"
+20,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,900,000,000,000 coins"
+20,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,900,000,000,000,000 coins"
+20,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000,000,000 coins"
+20,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,500,000,000,000,000 coins"
+20,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,000,000,000,000,000 coins"
+20,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 481,000,000,000,000 coins"
+20,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 300,000,000,000,000 coins"
+20,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 300,000,000,000,000 coins"
+20,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,000,000,000,000,000 coins"
+20,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 472,000,000,000,000 coins"
+20,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 472,000,000,000,000 coins"
+20,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 472,000,000,000,000 coins"
+20,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 651,432,100,000,000 coins"
+20,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 472,000,000,000,000 coins"
+20,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,433,200,000,000,000 coins"
+20,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 472,000,000,000,000 coins"
+20,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,433,200,000,000,000 coins"
+20,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,478,200,000,000 coins"
+20,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,433,200,000,000,000 coins"
+21,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,500,000,000,000,000 seeds"
+21,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 5,000,000,000,000 seeds"
+21,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,455,000,000,000,000 seeds"
+21,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,500,000,000,000,000 seeds"
+21,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000,000,000,000 seeds"
+21,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000,000,000,000 seeds"
+21,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000,000,000,000 seeds"
+21,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 400,000,000,000,000 seeds"
+21,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,500,000,000,000 seeds"
+21,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,500,000,000,000 seeds"
+21,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 15,000,000,000,000 seeds"
+21,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,500,000,000,000"
+21,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 14,440,000,000,000 seeds"
+21,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 400,000,000,000,000 seeds"
+21,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1500000000000000
+21,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000,000,000"
+21,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 45,000,000,000,000"
+21,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 525,000,000,000,000 seeds"
+21,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 45,000,000,000,000 seeds"
+21,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 180,000,000,000,000 seeds"
+22,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100000
+22,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100000
+22,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+22,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 10000
+22,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 10000000
+22,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 10432
+22,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+22,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000"
+22,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100000
+22,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100000
+22,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 25000 fermi problems
+22,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000"
+22,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 250,000 fermi problems"
+22,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 250,000"
+22,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000"
+22,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 250,000"
+22,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 100000
+22,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000 fermi problems"
+22,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000"
+22,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000"
+23,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 bullets"
+23,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 bullets"
+23,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 bullets"
+23,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000,000,000,000 bullets"
+23,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 bullets"
+23,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 bullets"
+23,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000 bullets"
+23,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 bullets"
+23,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 bullets"
+23,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000,000,000 bullets"
+23,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,450,000,000,000 bullets"
+23,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000,000,000,000 bullets"
+23,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000,000 bullets"
+23,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000,000,000,000 bullets"
+23,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000,000 bullets"
+23,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 46,753,200,000,000 bullets"
+23,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000,000 bullets"
+23,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,500,000,000,000 bullets"
+23,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,345,678,900,000 bullets"
+23,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,850,000,000,000 bullets"
+24,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 350,000 sharks"
+24,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000,000 sharks"
+24,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000,000 sharks"
+24,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 470000 sharks
+24,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000,000 sharks"
+24,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000 sharks"
+24,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 350,000,000 sharks"
+24,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000,000 sharks"
+24,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000,000 sharks"
+24,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000,000 sharks"
+24,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+24,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 470,000,000 sharks"
+25,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 219,000 hours"
+25,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 229,961 hours"
+25,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+25,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 229,961 hours"
+26,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 264,500,000,000 kg/year"
+26,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,500,000,000 kg/year"
+26,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,342,000,000,000 kg/year"
+26,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 254,100,000,000 kg/year"
+26,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 729,000,000,000 kg/year"
+26,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,532,000,000,000 kg/year"
+26,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 256,000,000,000 kg/year"
+26,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 254,100,000,000 kg/year"
+26,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 254,200,000,000 kg/year"
+26,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,342,000,000,000 kg/year"
+26,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,100,000,000 kg/year"
+26,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 254000000000 kg/year
+26,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,000,000,000 kg/year"
+26,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,100,000,000 kg/year"
+26,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,100,000,000 kg/year"
+26,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,000,000,000 kg/year"
+26,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,100,000,000 kg/year"
+26,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,100,000,000 kg/year"
+26,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 254,100,000,000 kg/year"
+26,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 254000000000 kg/year
+27,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 18,900,000,000 kg/year"
+27,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 19,200,000,000 kg/year"
+27,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 19,200,000,000 kg/year"
+27,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 19,200,000,000 kg/year"
+27,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 19,200,000,000 kg/year"
+27,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 19,200,000,000 kg/year"
+27,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 19,200,000,000 kg/year"
+27,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 18,900,000,000 kg/year"
+27,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 18,300,000,000 kg/year"
+27,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 18,900,000,000 kg/year"
+27,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 20,000,000,000 kg/year"
+27,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 17,600,000,000 kg/year"
+27,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 20,000,000,000 kg/year"
+27,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 20,000,000,000 kg/year"
+27,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 154,000,000,000 kg/year"
+27,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 158,000,000,000 kg/year"
+27,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 21,000,000,000 kg/year"
+27,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 154,000,000,000 kg/year"
+27,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 18,900,000,000 kg/year"
+27,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 17,600,000,000 kg/year"
+28,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 43,200 liters"
+28,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 40,000 liters"
+28,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 34,650 liters"
+28,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 34,650 liters"
+28,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 34,650 liters"
+28,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 34,650 liters"
+28,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 34,560 liters"
+28,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 42,500 liters"
+28,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 32,400 liters"
+28,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 45000 liters
+28,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 23,400 liters"
+28,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 32,000 liters"
+28,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 40,000 liters"
+28,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 34,650 liters"
+28,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 24,000 liters"
+28,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 40,000 liters"
+28,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 40,000 liters"
+28,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 40,000 liters"
+28,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 34,650 liters"
+28,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 40,000 liters"
+29,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 12,416,500,000 days"
+29,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 1450000000
+29,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,345,678,912 days"
+29,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 15000000000 days
+29,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,345,678,912 days"
+29,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 175,000,000 days"
+29,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 175,000,000 days"
+29,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 744,444,444 days"
+29,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,900,000 days"
+29,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 470,000,000,000 days"
+29,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,500,000,000 days"
+29,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 130,000,000,000 days"
+29,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 436,830,000,000 days"
+29,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 17500000000 days
+29,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 14,400,000,000 days"
+29,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 12000000000 days
+29,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,345,678,901 days"
+29,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,345,678,900 days"
+29,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1750000000
+29,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,555,555,555 days"
+30,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 186 cm
+30,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 185cm
+30,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+30,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 185cm
+31,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,314,496 gallons"
+31,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,392,000 gallons"
+31,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,920,000 gallons"
+31,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,314,720 gallons"
+31,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,439,360 gallons"
+31,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,920,000 gallons"
+31,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,532,800 gallons"
+31,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,314,240 gallons"
+31,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,532,800 gallons"
+31,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,314,880 gallons"
+31,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,321,520 gallons"
+31,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,920,000 gallons"
+31,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,325,520 gallons"
+31,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,920,000 gallons"
+31,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,314,720 gallons"
+31,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,314,890 gallons"
+31,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,920,000 gallons"
+31,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,314,496,000 gallons"
+31,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,920,000 gallons"
+31,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,314,720 gallons"
+32,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 42,119 hours"
+32,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 34,211 hours"
+32,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 14,421 hours"
+32,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 144,000 hours"
+32,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 34,211 hours"
+32,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 43,821 hours"
+32,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 43,821 hours"
+32,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 43920 hours
+32,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 407,120 hours"
+32,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 43,821 hours"
+32,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 245,760 hours"
+32,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 44,821 hours"
+32,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 54,321 hours"
+32,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 44,641 hours"
+32,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 142,119 hours"
+32,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 44,821 hours"
+32,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 174,744 hours"
+32,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 144,720 hours"
+32,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 34,821 hours"
+32,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 43,821 hours"
+33,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $1,230,000,000/year"
+33,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $1,064,000,000,000/year"
+33,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,500,000,000 USD/year"
+33,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,234,567,890 USD/year"
+33,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $1,433,000,000/year"
+33,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,433,000,000 USD/year"
+33,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $1,542,000,000/year"
+33,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $1,738,000,000,000/year"
+33,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,134,000,000 USD/year"
+33,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,433,000,000 USD/year"
+33,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.5 trillion/year
+33,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.3 trillion/year
+33,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.43 trillion/year
+33,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1.3 trillion USD/year
+33,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.2 trillion/year
+33,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.4 trillion/year
+33,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.5 trillion/year
+33,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.2 trillion/year
+33,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.3 trillion/year
+33,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $1.45 trillion/year
+34,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 meters"
+34,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 meters"
+34,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 meters"
+34,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 10,000,000,000,000 meters"
+34,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 4,500,000,000,000,000 meters"
+34,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 150,000,000,000,000 meters"
+34,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 meters"
+34,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 125,000,000,000,000 meters"
+34,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 meters"
+34,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 meters"
+34,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000,000,000,000 m"
+34,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000,000,000,000 meters"
+34,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000,000,000,000 m"
+34,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000,000,000,000 m"
+34,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000,000,000,000 m"
+34,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000,000,000,000 m"
+34,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000,000 meters"
+34,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,147,483,648,000,000 meters"
+34,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000,000,000,000 m"
+34,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 5,973,000,000,000 meters"
+35,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,461,351,200,000,000 minutes"
+35,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,825,381,921,600 minutes"
+35,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,157,920,000,000 minutes"
+35,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,157,920,000,000,000 minutes"
+35,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,157,920,000,000,000 minutes"
+35,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,157,920,000,000,000 minutes"
+35,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,157,920,000,000,000 minutes"
+35,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,157,920,000,000,000 minutes"
+35,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 1.42 × 10^22 minutes
+35,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,157,920,000,000,000 minutes"
+35,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,454,545,454,545,454 minutes"
+35,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,157,920,000,000,000 minutes"
+35,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1.45 × 10^22 minutes
+35,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,157,920,000,000,000 minutes"
+35,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1.35 × 10^54 minutes
+35,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1.45e67 minutes
+35,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,157,920,000,000,000 minutes"
+35,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,459,123,456,789 minutes"
+35,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1.26e+22 minutes
+35,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 10^22 minutes
+36,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 7.5 miles
+36,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+36,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 7.5 miles
+37,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 8,400 liters"
+37,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 8820 liters
+37,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 8,760 liters"
+37,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 8,760 liters"
+37,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 8800 liters
+37,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 9,300 liters"
+37,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 8,400 liters"
+37,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 8600 liters
+37,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 8,760 liters"
+37,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 8,760 liters"
+37,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,640 liters"
+37,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,640 liters"
+37,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,640 liters"
+37,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,760 liters"
+37,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,640 liters"
+37,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 9,840 liters"
+37,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,640 liters"
+37,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,760 liters"
+37,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,640 liters"
+37,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 8,760 liters"
+38,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,444,000,000 gallons/day"
+38,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,344,000,000 gallons/day"
+38,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,334,000,000 gallons/day"
+38,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,344,000,000 gallons/day"
+38,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,140,000,000 gallons/day"
+38,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,240,000,000 gallons/day"
+38,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,140,000,000 gallons/day"
+38,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,344,000,000 gallons/day"
+38,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,344,000,000 gallons/day"
+38,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,140,000,000 gallons/day"
+38,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,100,000,000 gallons/day"
+38,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,140,000,000 gallons/day"
+38,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,334,000,000 gallons/day"
+39,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 145,600 GB"
+39,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 431000 GB
+39,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 453000 GB
+39,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 45121 GB
+39,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 134400 GB
+39,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 415,200 GB"
+39,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 451,200 GB"
+39,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 450000 GB
+39,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 154,320 GB"
+39,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 416,250 GB"
+39,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 450000 GB
+39,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 150000000 GB
+39,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 450000 GB
+39,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 450000 GB
+39,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 450000 GB
+39,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 450000 GB
+39,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 405000 GB
+39,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 450000 GB
+39,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 153600 GB
+39,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 450000 GB
+40,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000"
+40,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000,000"
+40,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000"
+40,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: $100 trillion
+40,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000"
+40,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000"
+40,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: $100 trillion
+40,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000,000"
+40,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000"
+40,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000,000,000"
+40,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $15,432,100,000,000"
+40,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: $300 trillion USD
+40,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,450,000,000,000 USD"
+40,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $43,200,000,000,000"
+40,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $43,721,000,000,000"
+40,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $10,000,000,000,000,000"
+40,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $143,000,000,000,000"
+40,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $43,700,000,000,000"
+40,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $43,700,000,000,000"
+40,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 12,800,000,000,000 USD"
+41,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 356400 hours
+41,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 356400 hours
+41,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 35640 hours
+41,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 356400 hours
+41,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 356400 hours
+41,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 172800
+41,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 356400 hours
+41,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 356400 hours
+41,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 356400 hours
+41,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 35760 hours
+41,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+41,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 356400 hours
+42,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 1000000000000 MB
+42,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,500,000,000,000 MB"
+42,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100000000000000 MB
+42,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100000000000000 MB
+42,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000 MB"
+42,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 25,000,000,000 MB"
+42,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000,000 MB"
+42,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000 MB"
+42,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000 MB"
+42,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 100,000,000,000 MB"
+42,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000,000,000,000 MB"
+42,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 25,000,000,000 MB"
+42,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000,000 MB"
+42,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000 MB"
+42,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 150,000,000,000 MB"
+42,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000 MB"
+42,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 120,000,000,000 MB"
+42,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 120,000,000,000 MB"
+42,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000,000,000 MB"
+42,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 250,000,000,000 MB"
+43,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000,000,000,000 square meters"
+43,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000,000,000,000 square meters"
+43,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000,000,000,000 square meters"
+43,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,430,000,000,000,000 square meters"
+43,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,420,000,000,000,000 square meters"
+43,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,430,000,000,000,000 square meters"
+43,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000,000,000,000 square meters"
+43,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,940,000,000,000 square meters"
+43,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,400,000,000,000,000 square meters"
+43,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,420,000,000,000,000 square meters"
+43,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,430,000,000,000,000 square meters"
+43,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,421,000,000,000,000 square meters"
+43,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,450,000,000,000,000 square meters"
+43,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,100,000,000,000 square meters"
+43,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1.43e14 square meters
+43,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 1.43e17 square meters
+43,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,351,215,000,000,000 square meters"
+43,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,100,000,000,000 square meters"
+43,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,100,000,000 square meters"
+43,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000,000,000,000 square meters"
+44,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 5,000,000 kg"
+44,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 500,000,000 kg"
+44,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 500,000,000 kg"
+44,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 5,000,000,000 kg"
+44,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 50000000 kg
+44,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000,000 kg"
+44,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 500,000,000 kg"
+44,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 50,000,000 kg"
+44,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 100000000 kg
+44,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 5,000,000,000 kg"
+44,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 5,000,000,000 kg"
+44,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 5,000,000,000 kg"
+44,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,000,000,000 kg"
+44,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,000,000,000 kg"
+44,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,000,000,000 kg"
+44,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 5,000,000,000 kg"
+44,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 5,000,000 kg"
+44,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 5,000,000,000 kg"
+44,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 100000000 kg
+44,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,000,000,000 kg"
+45,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,400 kg"
+45,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 552,000 kg"
+45,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,500 kg"
+45,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,000 kg"
+45,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 552,400 kg"
+46,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 31 hours
+46,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 48 hours
+46,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 48 hours
+46,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 31 hours
+46,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 31 hours
+46,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 31 hours
+46,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 31 hours
+46,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 48 hours
+46,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 48 hours
+46,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 48 hours
+46,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+46,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 48 hours
+47,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000,000,000 pounds/day"
+47,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 4,500,000,000 pounds/day"
+47,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,500,000 pounds/day"
+47,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 12,500,000,000 pounds/day"
+47,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,500,000,000 pounds/day"
+47,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,444,444,444 pounds/day"
+47,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 1,432,000,000 pounds/day"
+47,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 4,500,000,000 pounds/day"
+47,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 3,450,000,000 pounds/day"
+47,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 15,432,100,000 pounds/day"
+47,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,500,000,000 pounds/day"
+47,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000,000 pounds/day"
+47,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 4,500,000,000 pounds/day"
+47,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,450,000,000 pounds/day"
+47,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,900,000,000 pounds/day"
+47,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,450,000,000 pounds/day"
+47,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 4,382,000,000 pounds/day"
+47,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,432,000,000 pounds/day"
+47,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 6,500,000,000 pounds/day"
+47,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 1,543,200,000 pounds/day"
+48,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000"
+48,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: 1000000000 USD
+48,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $10,000,000"
+48,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000"
+48,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000"
+48,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000"
+48,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,Answer: $100 million
+48,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000"
+48,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000"
+48,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: $100,000,000"
+48,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000,000 USD"
+48,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $100,000,000"
+48,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 100,000,000 USD"
+48,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $100,000,000"
+48,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $10,000,000"
+48,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $100,000,000"
+48,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 10,000,000 USD"
+48,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $100,000,000"
+48,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: $100,000,000"
+48,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,Answer: 100000000 USD
+49,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,798,454,545,455 pounds"
+49,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,798,200,000,000,000 pounds"
+49,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,974,000,000,000,000 pounds"
+49,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,798,454,545,455 pounds"
+49,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,798,200,000,000 pounds"
+49,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,189,000,000,000,000 pounds"
+49,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,798,000,000,000,000 pounds"
+49,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,974,000,000,000,000 pounds"
+49,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,974,000,000,000,000 pounds"
+49,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,decrease,"Answer: 2,974,000,000,000,000 pounds"
+49,0,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 4,054,000,000,000,000 pounds"
+49,1,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,974,000,000,000,000,000 pounds"
+49,2,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,974,000,000,000,000 pounds"
+49,3,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,374,000,000,000,000 pounds"
+49,4,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,374,000,000,000,000 pounds"
+49,5,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,433,000,000,000,000,000 pounds"
+49,6,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,439,200,000,000,000 pounds"
+49,7,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,974,000,000,000,000,000 pounds"
+49,8,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 3,400,000,000,000,000 pounds"
+49,9,Llama-3-70b-chat-hf,gpt-4-turbo,simple,answer_anchor,onlyanswer,increase,"Answer: 2,374,000,000,000,000,000 pounds"

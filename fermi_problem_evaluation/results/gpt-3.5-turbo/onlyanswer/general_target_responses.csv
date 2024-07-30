@@ -1,0 +1,1001 @@
+target_id,sample,model,context,context_prompt,context_bias,target_prompt,experiment_type,response
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,000,000 people"
+0,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 people"
+0,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,000,000 people"
+0,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 people"
+0,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,500,000 people"
+0,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000 people"
+0,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 people"
+0,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 5,000,000 people"
+0,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,000,000 people"
+0,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 people"
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3 million people
+0,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,000,000 people"
+0,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 2,000,000 people"
+0,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10 million people
+0,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10 million people
+0,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,000,000 people"
+0,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.5 million people
+0,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,000,000 people"
+0,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3 million people
+0,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10 million people
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,000,000 people"
+1,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000 people"
+1,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: Approximately 300,000 people"
+1,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,000,000 people"
+1,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.5 million people
+1,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: Approximately 400,000 people"
+1,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 1.5 million people
+1,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 2 million people
+1,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 2 million people
+1,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: Approximately 310,000 people"
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 500,000 people"
+1,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 500,000 people"
+1,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 300,000 people"
+1,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 500,000 people"
+1,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 500,000 people."
+1,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 100,000 people"
+1,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 500,000 people"
+1,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 500,000 people"
+1,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 250,000 people"
+1,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 500,000 people"
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 130 trillion cigarettes
+10,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 6.3 quadrillion cigarettes
+10,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 6.5 trillion cigarettes.
+10,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 6.3 trillion cigarettes
+10,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 6.25 quadrillion cigarettes
+10,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 1.1 trillion cigarettes
+10,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 6.3 quadrillion cigarettes
+10,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 6.5 quadrillion cigarettes
+10,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 6.5 trillion cigarettes
+10,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 quadrillion cigarettes
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6.5 trillion cigarettes
+10,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6.4 trillion cigarettes
+10,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6 trillion cigarettes
+10,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6.5 trillion cigarettes
+10,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6 trillion cigarettes
+10,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6 trillion cigarettes
+10,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 trillion cigarettes
+10,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6.1 trillion cigarettes
+10,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6 trillion cigarettes
+10,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 6.25 trillion cigarettes
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 quadrillion strokes
+11,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 8.5 trillion strokes
+11,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 quadrillion strokes
+11,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 quadrillion strokes
+11,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.5 trillion strokes
+11,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 quadrillion strokes
+11,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 quadrillion strokes
+11,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 quadrillion strokes
+11,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 6.8 quadrillion strokes
+11,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 quadrillion strokes
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 quadrillion strokes
+11,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 quadrillion strokes
+11,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 quadrillion strokes
+11,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 quadrillion strokes
+11,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 2,864,351,000,000,000 strokes"
+11,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.7 quadrillion strokes
+11,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 quadrillion strokes
+11,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 8.5 trillion strokes
+11,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 quadrillion strokes
+11,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 quadrillion strokes
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 50,000 people"
+12,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 people"
+12,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 50,000 people"
+12,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 people"
+12,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 people"
+12,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 people"
+12,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 50,000 people"
+12,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 50,000 people"
+12,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 people"
+12,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 people"
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 50,000 people"
+12,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 100,000 people"
+12,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 100,000 people"
+12,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 100,000 people"
+12,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 100,000 people"
+12,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 100,000 people"
+12,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 50,000 people"
+12,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 250,000 people"
+12,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 100,000 people"
+12,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 50,000 people"
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,500,000 New Yorkers"
+13,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 New Yorkers"
+13,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2 million New Yorkers
+13,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 New Yorkers"
+13,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 New Yorkers"
+13,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,200,000 New Yorkers"
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million New Yorkers
+13,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2 million New Yorkers
+13,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2 million New Yorkers
+13,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million New Yorkers
+13,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.5 million New Yorkers
+13,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million New Yorkers
+13,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million New Yorkers
+13,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million New Yorkers
+13,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million New Yorkers
+13,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million New Yorkers
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 tenured professors"
+14,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 2.5 million tenured professors.
+14,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000 tenured professors"
+14,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,000,000 tenured professors"
+14,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 4,500,000 tenured professors"
+14,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,000,000 tenured professors"
+14,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 tenured professors"
+14,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2 million tenured professors
+14,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,500,000 tenured professors"
+14,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2.5 million tenured professors
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.5 million tenured professors
+14,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.8 million tenured professors
+14,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2 million tenured professors
+14,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.5 million tenured professors
+14,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.5 million tenured professors
+14,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.5 million tenured professors
+14,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.5 million tenured professors
+14,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 2,500,000 tenured professors"
+14,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million tenured professors
+14,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million tenured professors
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 billion pizzas
+15,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 5 billion pizzas
+15,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 billion pizzas
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.4 billion pizzas
+15,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.5 billion pizzas
+15,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.5 billion pizzas
+15,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.3 billion pizzas
+15,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.5 billion pizzas
+15,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.5 billion pizzas
+15,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 4 billion pizzas
+15,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 5 billion pizzas
+15,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.4 billion pizzas
+15,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.5 billion pizzas
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3000 unique names
+16,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1500 unique names
+16,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 unique names"
+16,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 unique names"
+16,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 8000 unique names
+16,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1500 unique names
+16,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 20,000 unique names"
+16,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 5000 unique names
+16,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 unique names"
+16,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 5000 unique names
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 unique names"
+16,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 5000 unique names
+16,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 unique names"
+16,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 250,000 unique names"
+16,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 80,000 unique names"
+16,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 80,000 unique names"
+16,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 unique names"
+16,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 80,000 unique names"
+16,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 60,000 unique names"
+16,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 50,000 unique names"
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 35,000 punctuation marks"
+17,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to give an exact answer without knowing the specific book in question.
+17,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 50,000 punctuation marks"
+17,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to give an exact answer.
+17,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to provide an exact answer without knowing the specific book.
+17,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to provide a precise answer as the number of punctuation marks in a book can vary greatly depending on the length and content of the book.
+17,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to give an accurate estimate of the number of punctuation marks in a book as it varies greatly depending on the length and content of the book.
+17,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is impossible to determine the exact number of punctuation marks in a book without specific information, but a reasonable estimate could be around 20,000 punctuation marks."
+17,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is difficult to provide an exact answer to this question as the number of punctuation marks in a book can vary significantly. However, a reasonable estimate would be around 10,000 punctuation marks."
+17,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is difficult to provide an exact number, but a typical book may contain anywhere from 5,000 to 20,000 punctuation marks."
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 20,000 punctuation marks"
+17,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 punctuation marks"
+17,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 15,000 punctuation marks"
+17,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 12,000 punctuation marks"
+17,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 15,000 punctuation marks"
+17,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 15,000 punctuation marks"
+17,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 punctuation marks"
+17,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 12,000 punctuation marks"
+17,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 20,000 punctuation marks"
+17,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 15,000 punctuation marks"
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: approximately 3.04 trillion leaves
+18,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 trillion leaves
+18,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 trillion leaves
+18,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 trillion leaves
+18,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3.04 trillion leaves
+18,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 trillion leaves
+18,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 trillion leaves
+18,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: billions of leaves
+18,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3 trillion leaves
+18,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,040,000,000,000,000 leaves"
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 quadrillion leaves
+18,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 quintillion leaves
+18,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 quadrillion leaves
+18,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7.5 quintillion leaves
+18,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 quadrillion leaves
+18,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 quadrillion leaves
+18,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 quintillion leaves
+18,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 quadrillion leaves
+18,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10^15 leaves
+18,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 5.6 x 10^16 leaves
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 500,000 conversations"
+19,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 conversations"
+19,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer:  Thousands of conversations
+19,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is estimated that there are thousands of conversations happening in Reddit comment sections at any given time.
+19,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 conversations"
+19,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000 conversations"
+19,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000 conversations"
+19,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 conversations"
+19,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 100,000 conversations."
+19,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is estimated that there are tens of thousands of conversations happening in Reddit comment sections at any given time.
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is estimated that there are hundreds of thousands to millions of conversations happening in Reddit comment sections at any given time.
+19,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Millions
+19,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is estimated that there are around 50,000 to 100,000 active conversations happening in Reddit comment sections at any given time."
+19,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is estimated that there are tens of thousands of conversations happening in Reddit comment sections at any given time.
+19,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is estimated that there are tens of thousands of conversations happening in Reddit comment sections at any given time.
+19,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is estimated that there are around 60,000 to 80,000 active 'conversations' happening in Reddit comment sections at any given time."
+19,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million conversations
+19,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is estimated that there are approximately 1 million conversations happening in Reddit comment sections at any given time.
+19,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is estimated that there are approximately 1 million conversations happening in Reddit comment sections at any given time.
+19,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10 million conversations
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers.
+2,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 117 billion mothers
+2,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 108 billion mothers
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51 billion mothers
+2,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 50 billion mothers
+2,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 108 billion mothers
+2,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51 billion mothers
+2,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51.6 billion mothers
+2,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51.6 billion mothers
+2,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51.6 billion mothers
+2,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51.6 billion mothers
+2,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51.6 billion mothers
+2,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 51 billion mothers
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 1.5 trillion coins
+20,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 trillion coins
+20,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 500 billion coins
+20,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.7 trillion coins
+20,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 500 billion coins
+20,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 500 billion coins
+20,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 450 billion coins
+20,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 380 billion coins
+20,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 500 trillion coins.
+20,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 500 billion coins
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 350 billion coins
+20,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 400 billion coins
+20,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 500 trillion coins
+20,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 billion coins
+20,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 350 billion coins
+20,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 500 billion coins.
+20,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Over 500 billion coins
+20,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 billion coins
+20,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 700 billion coins
+20,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Over 400 billion coins.
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: billions
+21,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2.3 trillion seeds
+21,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2.3 trillion seeds
+21,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: billions of seeds
+21,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2.3 trillion seeds
+21,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2.3 trillion seeds
+21,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 billion seeds
+21,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2.3 trillion seeds
+21,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 90 billion seeds
+21,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2 trillion seeds
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 trillion seeds
+21,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 39 trillion seeds
+21,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 trillion seeds
+21,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 trillion seeds
+21,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.2 trillion seeds
+21,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 280 billion seeds
+21,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 trillion seeds
+21,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 trillion seeds
+21,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 100 trillion seeds
+21,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 5 trillion seeds
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,000 fermi problems"
+22,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 15,000 fermi problems"
+22,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,500 fermi problems"
+22,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 fermi problems"
+22,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 12,500 fermi problems"
+22,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 fermi problems"
+22,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,250 fermi problems"
+22,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 12,500 fermi problems"
+22,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 250 fermi problems
+22,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 400 fermi problems
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,000,000 fermi problems"
+22,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 500,000 fermi problems"
+22,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,000,000 fermi problems"
+22,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 fermi problems"
+22,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,000 fermi problems"
+22,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,000,000 fermi problems"
+22,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,000 fermi problems"
+22,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 fermi problems"
+22,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 fermi problems"
+22,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 fermi problems"
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 40 trillion bullets
+23,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 trillion bullets
+23,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 10 trillion bullets
+23,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 10 trillion bullets
+23,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 trillion bullets
+23,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 10 trillion bullets
+23,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 trillion bullets
+23,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 10 trillion bullets
+23,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 trillion bullets
+23,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 trillion bullets
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Billions of bullets
+23,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Billions of bullets
+23,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: billions of bullets
+23,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 trillion bullets
+23,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 8 trillion bullets
+23,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 75 trillion bullets
+23,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Billions of bullets
+23,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Trillions of bullets
+23,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Billions
+23,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: billions
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: approximately 440 known species of sharks
+24,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 440 shark species.
+24,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 400-500 species of sharks
+24,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 500 species of sharks.
+24,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 400 species of sharks.
+24,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: around 500 species
+24,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 440 known species of sharks.
+24,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 440 known species of sharks.
+24,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: around 440 species of sharks
+24,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 440 shark species.
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 473 million sharks
+24,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 400 million sharks
+24,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 400 million sharks
+24,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 440 million sharks
+24,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 400 million sharks
+24,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 473 million sharks
+24,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 440 million sharks
+24,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million sharks
+24,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 400 million sharks
+24,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 400 million sharks
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 230,000 hours"
+25,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 230,000 hours"
+25,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: Approximately 200,000 hours"
+25,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 229,961 hours"
+25,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 229,961 hours"
+25,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 229,961 hours"
+25,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 200,000 hours"
+25,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 229,961 hours"
+25,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 230,000 hours"
+25,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 230,000 hours"
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 230,000 hours"
+25,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 229,961 hours"
+25,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 230,000 hours"
+25,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 230,000 hours"
+25,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 230,000 hours"
+25,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 229,961 hours"
+25,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: around 230,000 hours"
+25,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 230,000 hours"
+25,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 230,000 hours"
+25,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 230,000 hours"
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 292,000,000,000 kg/year"
+26,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 292.4 million tonnes/year
+26,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 292.4 million tonnes/year
+26,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 290 million tons/year
+26,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 292.4 million tonnes/year
+26,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 292.4 million kg/year
+26,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 267 million tonnes/year
+26,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 275 million tonnes/year
+26,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 268,000,000,000 kg/year"
+26,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 292.4 million tonnes/year
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 239 million tons/year
+26,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 292.4 million tons/year
+26,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 292.4 million tons/year
+26,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 268 million tons/year
+26,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 254 million tons/year
+26,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 292.4 million tons/year
+26,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 292 million tons/year
+26,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 292.4 million tons/year
+26,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 267.8 million tons/year
+26,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 267 million tons/year
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 20 kg/year
+27,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 156.5 kg/year
+27,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 156.5 million kg/year
+27,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 20 kg/year
+27,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 20 kg/year
+27,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 156 million tonnes/year
+27,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 20 kg/year
+27,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 20.5 kg/year
+27,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 20 kg/year
+27,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 20.5 kg/year
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20 kg/year
+27,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+27,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 20.5 kg/year
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 273,500 liters"
+28,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 140,000 liters"
+28,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 235,000 liters"
+28,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 150,000 liters"
+28,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 20,000 liters"
+28,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 225,000 liters"
+28,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 250,000 liters"
+28,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 703,068 liters"
+28,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 160,000 liters"
+28,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 65,000 liters"
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 67,500 liters"
+28,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 200,000 liters"
+28,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 59,000 liters"
+28,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 70,000 liters"
+28,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 190,000 liters"
+28,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 65,000 liters."
+28,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 145,000 liters"
+28,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 200,000 liters"
+28,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 58,000 liters"
+28,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 50,000 liters"
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 935,400 days"
+29,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 53,000,000 days"
+29,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 65 million days
+29,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 52,000,000 days"
+29,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 80 million days
+29,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 79,000,000 days"
+29,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 8.5 million days
+29,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 60 million days
+29,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 13,000,000 days"
+29,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 65.7 billion days
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 200 million days
+29,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 60,000 days"
+29,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 52,000,000 days"
+29,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 65,700,000 days"
+29,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.3 billion days
+29,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 64,000,000 days"
+29,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 26,280,000 days"
+29,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 60 million days
+29,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 60,000,000 days"
+29,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 13,000,000 days"
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 70 million students
+3,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 80 million students
+3,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 75 million students
+3,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 70 million students
+3,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 130 million students
+3,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 90,000,000 students"
+3,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 million students
+3,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 75 million students
+3,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 120 million students
+3,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 80 million students
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 36 million students
+3,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 29.5 million students
+3,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31.5 million students
+3,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 35,000,000 students"
+3,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 29,000,000 students"
+3,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 30 million students
+3,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 36 million students
+3,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 30 million students
+3,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 30 million students
+3,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 32 million students
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 175 cm
+30,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176.9 cm
+30,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 176 cm
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+30,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176.5 cm
+30,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+30,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+30,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+30,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176.8 cm
+30,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+30,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+30,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+30,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 176 cm
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 million gallons
+31,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 million gallons
+31,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000 gallons"
+31,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 million gallons
+31,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 million gallons
+31,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000 gallons"
+31,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.5 million gallons
+31,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 million gallons
+31,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 million gallons
+31,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 million gallons
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+31,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 million gallons
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 30,000 hours"
+32,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 60,000 hours"
+32,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 130 hours
+32,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 78,620 hours"
+32,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 833 hours
+32,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 98,180 hours"
+32,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 161,920 hours"
+32,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2000 hours
+32,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: Approximately 90,000 hours."
+32,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: Approximately 90,000 hours."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 150,000 hours"
+32,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 97,568 hours"
+32,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 235944 hours
+32,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 5500 hours.
+32,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: approximately 600,000 hours"
+32,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: approximately 601,200 hours"
+32,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 30,000 hours"
+32,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 167,760 hours"
+32,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 493,720 hours"
+32,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 2,000 hours."
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $72 billion/year
+33,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately $2.3 billion/year
+33,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: approximately $70 billion/year
+33,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately $3.3 billion/year
+33,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately $2.3 billion/year
+33,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $450 billion/year
+33,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $2.3 billion/year
+33,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately $2.3 billion/year
+33,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $2.3 billion/year
+33,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $2.3 billion/year
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $75 billion/year
+33,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $75 billion/year
+33,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $75 billion/year
+33,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately $100 billion USD/year.
+33,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $75 billion/year
+33,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately $75 billion USD/year.
+33,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $75 billion/year
+33,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately $100 billion USD/year.
+33,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately $75 billion USD/year
+33,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $75 billion/year
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 284,000,000 meters"
+34,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 7,500,000,000 meters"
+34,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 6,000,000,000 meters"
+34,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,500,000,000 meters"
+34,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,000,000,000 meters"
+34,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000,000 meters"
+34,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,000,000,000 meters"
+34,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,000,000,000 meters"
+34,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,000,000,000 meters"
+34,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: Approximately 3,500,000,000 meters."
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 885,139,000 meters"
+34,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 20,040,000,000 meters"
+34,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,000,000,000 meters"
+34,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 885,139,742 meters"
+34,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,178,744,308 meters"
+34,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 885,139,500 meters"
+34,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 2,965,000,000 meters"
+34,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 885,139,213 meters"
+34,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 885,139,500 meters"
+34,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 7,780,000,000 meters"
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.7 million minutes
+35,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,071,430,769 minutes"
+35,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3.6 x 10^18 minutes
+35,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7.2 x 10^16 minutes
+35,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.8 billion minutes
+35,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 billion minutes
+35,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 3.5 million minutes
+35,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2.2 billion minutes
+35,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.6 billion minutes
+35,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 8.5 million minutes
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 250,000,000 minutes"
+35,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,600,000,000 minutes"
+35,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer:  ~27,397,260,000 minutes"
+35,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 5,000,000 minutes"
+35,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,044,000,000 minutes"
+35,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 8,640,000 minutes"
+35,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 million minutes
+35,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: approximately 150,000,000 minutes"
+35,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,200,000,000 minutes"
+35,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 53,489,600 minutes"
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 8.5 miles
+36,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 7 miles
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7 miles
+36,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7 miles
+36,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7-9 miles
+36,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7-9 miles
+36,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7 to 9 miles
+36,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7 miles
+36,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7 miles
+36,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7-9 miles
+36,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 7 miles
+36,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 9 miles
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 11,000 liters"
+37,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 liters"
+37,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 liters"
+37,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 11,000 liters"
+37,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 liters"
+37,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 8,640 liters"
+37,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 liters"
+37,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 11,000 liters"
+37,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000 liters"
+37,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 8,000 liters"
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+37,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 11,000 liters"
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 billion gallons/day
+38,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.3 billion gallons/day
+38,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.1 billion gallons/day
+38,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.1 billion gallons/day
+38,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 billion gallons/day
+38,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.1 billion gallons/day
+38,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.3 billion gallons/day
+38,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.1 billion gallons/day
+38,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 billion gallons/day
+38,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 billion gallons/day
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.1 billion gallons/day
+38,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 billion gallons/day
+38,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.1 billion gallons/day
+38,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.1 billion gallons/day
+38,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 billion gallons/day
+38,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 billion gallons/day
+38,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 billion gallons/day
+38,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 billion gallons/day
+38,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.1 billion gallons/day
+38,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1 billion gallons/day
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 350 GB
+39,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1800 GB
+39,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1500 GB
+39,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 400 GB
+39,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 750 GB
+39,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.5 terabytes
+39,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 5 terabytes
+39,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 GB
+39,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 GB
+39,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 GB
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 10,000 GB"
+39,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 50 TB
+39,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 TB
+39,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 50 terabytes
+39,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 50 terabytes
+39,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 20,000 GB"
+39,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 5.5 Terabytes
+39,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 15,000 GB"
+39,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 50,000 GB"
+39,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 5000 GB
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 15,000 trees"
+4,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,500 trees"
+4,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,000 trees"
+4,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,500 trees"
+4,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,500 trees"
+4,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,500 trees"
+4,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,000 trees"
+4,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,500 trees"
+4,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,500 trees"
+4,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 187,500 trees"
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000 trees"
+4,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000 trees"
+4,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 187,000 trees"
+4,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000 trees"
+4,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000 trees"
+4,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000 trees"
+4,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 187,000 trees"
+4,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000 trees"
+4,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000 trees"
+4,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: Approximately 187,000 trees."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $100 billion
+40,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $10 billion
+40,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to accurately estimate the total value of all mankind's buried grave goods in USD.
+40,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $100 billion
+40,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $100 billion
+40,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $10 billion
+40,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to accurately determine the total value of all of mankind's buried grave goods.
+40,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $10 billion USD
+40,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $100 billion
+40,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $100 billion
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is difficult to estimate the exact value of all of mankind's buried grave goods, but it could be in the billions of USD."
+40,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $10 trillion
+40,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is impossible to provide an accurate estimate for the value of all of mankind's buried grave goods.
+40,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $100 billion
+40,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $10 trillion
+40,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10 trillion USD
+40,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is impossible to accurately determine the value of all of mankind's buried grave goods.
+40,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is impossible to accurately estimate the total value of all of mankind's buried grave goods.
+40,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10 trillion USD
+40,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is impossible to provide a specific value for all of mankind's buried grave goods as the total value would be incalculable.
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0.
+41,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 hours
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+41,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: approximately 3,000 hours"
+41,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 6-10 hours
+41,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+41,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+41,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+41,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+41,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+41,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+41,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 hours
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 55,000,000 MB"
+42,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000,000 MB"
+42,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000,000 MB"
+42,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 10,000,000 MB"
+42,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1 yottabyte
+42,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 petabytes
+42,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4.4 ZB
+42,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 1.2 ZB
+42,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4.4 zettabytes
+42,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3.6 ZB
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 295,000,000 MB"
+42,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2.5 exabytes
+42,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.2 Zettabytes
+42,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 zettabytes
+42,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.2 billion megabytes
+42,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,200,000 MB"
+42,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 295,000,000 MB"
+42,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.2 zettabytes
+42,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 3.2 zettabytes
+42,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 5,000,000 MB"
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 218,000 square meters"
+43,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 29,743,860 square meters"
+43,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 30,000,000 square meters"
+43,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 400,000 square meters"
+43,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 40,000 square meters"
+43,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 480,000 square meters"
+43,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,750,000 square meters"
+43,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 26,832,710 square meters"
+43,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 130,000 square meters"
+43,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 29,000,000 square meters"
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is estimated that the total area of all currently existing spiderwebs in the world is approximately 60,000 square meters."
+43,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,'Answer: Approximately 28 billion square meters'
+43,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 74,000,000 square meters"
+43,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 120,000 square meters"
+43,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 2,500,000 square meters"
+43,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 2,500,000 square meters"
+43,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is estimated that the total area of all currently existing spiderwebs in the world is approximately 2,000,000 square meters."
+43,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 6,000,000 square meters"
+43,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,000,000 square meters"
+43,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 8,000,000 square meters"
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is estimated that a tornado can weigh anywhere from 100,000 kg to 10,000,000 kg."
+44,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is estimated that a tornado can weigh anywhere from 100,000 kg to 1,000,000 kg."
+44,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 0 kg
+44,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is impossible to accurately determine the weight of a tornado.
+44,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 5500000000 kg
+44,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is difficult to accurately estimate the weight of a tornado, but it is estimated to range from several thousand kilograms to several million kilograms."
+44,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is estimated that the weight of an average tornado is around 1.8 million kg.
+44,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is not possible to assign a weight to a tornado as it is a swirling mass of air and does not have a physical form with a measurable weight.
+44,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is estimated that a tornado can weigh anywhere from several hundred thousand kilograms to several million kilograms.
+44,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is estimated that a tornado can weigh anywhere from 100,000 kg to 1,000,000 kg."
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is difficult to determine the exact weight of a tornado, but estimates suggest that it can weigh anywhere from 100,000 to 1,000,000 kilograms."
+44,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: It is estimated that a tornado can weigh anywhere from a few hundred thousand kilograms to several million kilograms.
+44,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 kg
+44,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is difficult to determine the weight of a tornado, but estimates suggest it can weigh anywhere from a few thousand kilograms to several million kilograms."
+44,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 kg
+44,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 kg
+44,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Unable to determine as a tornado is not a single solid object with a measurable weight.
+44,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 0 kg
+44,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is estimated that a tornado can weigh up to 100,000 kg."
+44,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: It is estimated that a tornado can weigh anywhere from 1,000 to 100,000,000 kilograms."
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2840 kg
+45,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2845 kg
+45,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2840 kg
+45,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2841 kg
+45,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 3647 kg
+45,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2840 kg
+45,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2840 kg
+45,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2841 kg
+45,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2840 kg
+45,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 2847 kg
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 284,000 kg"
+45,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 284,000 kg"
+45,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 284,000 kg"
+45,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 284,000 kg"
+45,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 284,000 kg"
+45,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 125,000 kg"
+45,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 284,300 kg"
+45,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 284,000 kg"
+45,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2840 kg
+45,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 2840 kg
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 31 hours
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+46,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 31 hours
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4 billion pounds/day
+47,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4 billion pounds/day
+47,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4 billion pounds/day
+47,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4 billion pounds/day
+47,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4 billion pounds/day
+47,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 15.6 billion pounds/day
+47,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4 billion pounds/day
+47,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4.8 billion pounds/day
+47,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4 billion pounds/day
+47,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 4.4 billion pounds/day
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,500,000 pounds/day"
+47,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000,000 pounds/day"
+47,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 4 billion pounds/day
+47,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 110 million pounds/day
+47,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,000,000 pounds/day"
+47,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.6 billion pounds/day
+47,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 4.8 billion pounds/day
+47,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.3 billion pounds/day
+47,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 10 billion pounds/day
+47,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 187,500,000 pounds/day"
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million
+48,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: $1,000,000"
+48,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: $1 million USD
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+48,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: $1 million
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: This question cannot be answered as New York City does not have a tangible weight in pounds.
+49,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,262,235,000 pounds"
+49,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: impossible to determine
+49,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,940,000,000 pounds"
+49,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: It is not possible to determine the weight of New York City in pounds as it is a geographical area consisting of buildings, infrastructure, people, and various other components that cannot be measured in weight."
+49,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 7,025,000,000 pounds"
+49,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: This question is not feasible to answer as New York City cannot be weighed in pounds.
+49,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is not possible to determine the weight of New York City in pounds as cities do not have a physical weight.
+49,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: This question cannot be answered with a specific weight in pounds as cities are not physical objects that can be weighed.
+49,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: The weight of New York City is approximately 2.5 billion pounds.
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 48,600,000,000 pounds"
+49,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,100,000,000,000 pounds"
+49,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 48.7 billion pounds
+49,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.9 trillion pounds
+49,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,700,000,000 pounds"
+49,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 1.4 billion pounds
+49,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 100 billion pounds
+49,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 12.5 trillion pounds
+49,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 898 billion pounds
+49,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,200,000,000 pounds"
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 million plastic straws
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 500 million plastic straws
+5,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+5,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 500 million plastic straws
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 267 million illiterate people
+6,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 260 million illiterate people
+6,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 260 million illiterate people
+6,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 265 million illiterate people
+6,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 287 million illiterate people
+6,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 266 million illiterate people
+6,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 260 million illiterate people
+6,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 287 million illiterate people
+6,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 266 million illiterate people
+6,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 262 million illiterate people
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 287 million illiterate people
+6,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 287 million illiterate people
+6,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 287 million illiterate people
+6,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 260 million illiterate people.
+6,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 287 million illiterate people
+6,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 287 million illiterate people
+6,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 287 million illiterate people
+6,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 287 million illiterate people.
+6,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 287 million illiterate people
+6,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 287 million illiterate people
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 cows
+7,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 550 cows
+7,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 cows
+7,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 500 cows
+7,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 150 cows
+7,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 400 cows
+7,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 300 cows
+7,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 800 cows
+7,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 250 cows
+7,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 100 cows
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 800 cows
+7,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 100 cows
+7,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 100 cows
+7,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 100 cows
+7,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 300 cows
+7,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 600 cows
+7,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 100 cows
+7,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 100 cows
+7,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 200 cows
+7,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 100 cows
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 230 trees
+8,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: 215 trees
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 9,000 trees"
+8,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 30 trees
+8,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 600 trees
+8,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 150 trees
+8,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 17 trees
+8,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 900 trees
+8,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 215 trees
+8,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 215 trees
+8,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 215 trees
+8,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: 225 trees
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 4,857,648 goals"
+9,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,023,456 goals"
+9,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 2,000,000 goals"
+9,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 3.5 billion goals
+9,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 1,000,000 goals"
+9,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 3,731,361 goals"
+9,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 1.5 billion goals
+9,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: It is estimated that over 1 million goals have been scored in every professional football game throughout history.
+9,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,Answer: Approximately 3.5 million goals.
+9,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,decrease,"Answer: 4,000,000 goals."
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,879,173 goals"
+9,1,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 4.5 million goals
+9,2,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,000,000 goals"
+9,3,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,080,000 goals"
+9,4,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,575,291 goals"
+9,5,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,341,953 goals"
+9,6,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 1,000,000 goals"
+9,7,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,000,000 goals"
+9,8,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,Answer: Approximately 4.2 million goals
+9,9,gpt-3.5-turbo,gpt-4-turbo,simple,general,onlyanswer,increase,"Answer: 3,000,000 goals"

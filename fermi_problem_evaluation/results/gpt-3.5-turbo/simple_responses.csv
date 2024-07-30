@@ -1,0 +1,651 @@
+target_id,sample,model,context,context_prompt,context_bias,experiment_type,response
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,One person in my family is talking on their cell phone right now.
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,There are approximately 5.27 billion cell phone users in the world as of 2021.
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,It is estimated that around 2% of the global population holds a PhD.
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Approximately 10% of the global population has a college degree.
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"Based on estimates of global population size and fertility rates in 1800, it is reasonable to estimate that there were around 300-400 million human mothers living in the world in that year."
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,There are estimated to be around 100-400 billion stars in the Milky Way galaxy.
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,There are approximately 500 students in my local school.
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,It is estimated that there are over 1.5 billion students in the world.
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"On average, approximately 200 sheets of paper are used in our office daily."
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Approximately 15 billion trees are cut down each year for all paper products.
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"On average, 100 plastic straws are used in my local coffee shop each day."
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,There are approximately 7.5 x 10^18 grains of sand on all the beaches in the world.
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,Approximately 74% of the population in India can read and write.
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The population of India is approximately 1.3 billion.
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"On average, a cow can produce about 6-7 gallons of milk per day, which is roughly equivalent to 48-56 glasses of milk."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The Pacific Ocean contains approximately 187 quintillion gallons of water.
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"The average cross-country flight produces approximately 1 ton of carbon emissions, which can be offset by planting around 7-10 trees."
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,There are approximately 390 billion individual trees in the Amazon Rainforest.
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,There were a total of 169 goals scored in the last World Cup.
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"There are approximately 6,000 stars visible to the naked eye on a clear night."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,Roughly 15 billion cigarettes are smoked worldwide in a day.
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Approximately 5.8 trillion cigarettes are smoked worldwide each year.
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"There are eight letters in the word ""keyboard."""
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The current estimated population of the world is approximately 7.9 billion people.
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"It varies depending on the size and type of the restaurant, but typically a local Chicago restaurant employs anywhere from 10 to 50 people."
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"As of 2021, approximately 331 million people live in the United States."
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,Approximately 10% of New Yorkers have a night job.
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Approximately 8.4 million people live in New York City.
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,There are approximately 300 tenured professors at my local university.
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,There are approximately 220 million college students in the world.
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,Approximately 12 slices of pizza were eaten last week in my household.
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"Approximately 350 slices of pizza are eaten every second in the United States, amounting to about 21,000 pizzas consumed per minute or over 3 billion pizzas eaten every year."
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,I interact with an average of 15 people in a day.
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"There are approximately 6,000 stars visible to the naked eye on a clear night."
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"It depends on the content of the tweet, but typically a tweet contains around 1-3 punctuation marks."
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"The number of pages in a book can vary significantly depending on the book's size, font, and formatting. It could range from as few as 50 pages in a short novel to over 1,000 pages in an epic saga."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"There is no specific number of leaves on a typical tree as it varies depending on the species, age, and size of the tree. However, an average mature tree can have thousands to millions of leaves."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"There are estimated to be about 100 billion stars in our galaxy, the Milky Way, and about 2 trillion galaxies in the observable universe. This would suggest there are approximately 200 sextillion (2 x 10^23) stars in the universe."
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,There are typically around 20-30 people talking in a small classroom.
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,There are approximately 52 million daily active users on Reddit.
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,There are 50 coins in a standard roll.
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,It is estimated that there are approximately 7.5 x 10^18 grains of sand on all the beaches in the world.
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"On average, an apple contains around 8-12 seeds."
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Approximately 100 to 400 billion stars.
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,There are four people living in my household.
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The estimated population of Earth is around 7.9 billion people.
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,A standard magazine typically holds around 10 to 30 bullets.
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,There are estimated to be between 100 billion and 400 billion stars in the Milky Way galaxy.
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,There are approximately 50 goldfish in my local pet store.
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,It is estimated that there are approximately 7.5 x 10^18 grains of sand on all the beaches in the world.
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,A typical nap lasts between 20 to 30 minutes.
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"The oldest person who ever lived was Jeanne Calment from France, who lived to be 122 years and 164 days old."
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,The United States produces approximately 23 million tons of domestic trash per month.
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Around 170 million tons of commercial waste are produced in the U.S. per year.
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,A small cat consumes approximately 30-35 pounds of fish per year.
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The average person drinks approximately 730 liters of water per year.
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"The amount of gasoline a car uses in a single day can vary depending on the make and model of the car, as well as how much driving is done. On average, a car can use anywhere from 10-30 gallons of gasoline in a day."
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"A commercial airliner uses approximately 11,576,000 gallons of gasoline in a year."
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,A typical YouTube video can last up to 12 hours.
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Approximately 500 hours of video are uploaded to YouTube every minute.
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,The average pencil is approximately 7 inches long.
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"The Great Wall of China is approximately 13,170 miles (21,196 kilometers) long."
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"The heart pumps approximately 7,200 liters of blood in a day."
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The Pacific Ocean contains approximately 187 quintillion gallons of water.
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"It would likely take around 20-30 minutes to drive around a small city, depending on traffic and the size of the city."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,It is not possible to travel to the moon by car.
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,The cost to register a domain name for a year typically ranges from $10 to $20.
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The annual GDP of the United States is approximately $21.43 trillion.
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,A standard ethernet cable is typically 3 feet to 100 feet in length.
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"The average distance from Earth to the Moon is approximately 238,855 miles (384,400 kilometers)."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,It typically takes a few seconds to a minute to solve a simple math problem on paper.
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The age of the universe is approximately 13.8 billion years.
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,A soccer goal is typically 7.32 meters wide.
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The moon orbits around the Earth approximately 1/30th of its total orbit distance in one day.
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,The average person should aim to drink about 2-3 liters of water per day.
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"The largest sports stadium by volume is the Michigan Stadium, also known as ""The Big House,"" with a volume of approximately 430 million cubic feet."
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"On average, a single person uses about 80-100 gallons of water per day for various activities such as bathing, cooking, cleaning, and flushing the toilet."
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The population of Los Angeles uses approximately 430 million gallons of water per day.
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,Approximately 4.5 GB of file space.
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The largest data center in the world has a storage capacity of around 1.1 million square feet.
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"I'm sorry, I cannot provide that information as I do not have access to personal belongings."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The total wealth of all the billionaires in the world is estimated to be around $13.1 trillion.
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"The average person can hold their breath underwater for about 30 seconds to 2 minutes. Professional divers or free divers can hold their breath for much longer, up to 4-8 minutes or more."
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Some of the oldest trees can live for thousands of years.
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"On average, a 3-minute song requires approximately 3-4 megabytes of digital storage."
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"As of 2021, it is estimated that the total amount of data on the internet is around 44 zettabytes."
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"The total area of a single spiderweb can vary greatly depending on the species of spider and the size of the web, but on average, it is estimated to be around 1 square meter."
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,Approximately 4 billion hectares.
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,A feather typically weighs less than a gram.
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The Earth weighs approximately 5.972 × 10^24 kilograms.
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,"The CO2 emissions from a small solar panel are zero, as solar panels do not produce any greenhouse gas emissions during operation."
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The CO2 emissions from the creation of the largest coal-fired power plant are approximately 23 million tons per year.
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,The average time it takes to bake cookies is around 10-12 minutes.
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The average flight time from New York to Tokyo is approximately 13-14 hours.
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,An average apple weighs around 150 grams.
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The world's largest trees can grow up to 1 ton of wood in a year.
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,The average music CD typically costs around $10 to $15.
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,"The highest price ever paid for a music album was $2.2 million for the Wu-Tang Clan album ""Once Upon a Time in Shaolin"" in 2015."
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,decrease,An average apple weighs around 150 grams.
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,answer_anchor,increase,The weight of the Earth is approximately 5.972 × 10^24 kilograms.
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Mobile phone penetration rates in rural or less economically developed areas are generally lower compared to urban or more developed areas. This is due to factors such as limited infrastructure, lower income levels, and lack of access to technology. However, with the increasing affordability of mobile phones and improved connectivity, these rates are gradually increasing."
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,There are approximately 5.28 billion active mobile phone users worldwide.
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Less than 1% of the global population holds a PhD in any field.
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"Many of my colleagues at OpenAI have backgrounds in computer science, artificial intelligence, mathematics, engineering, and related fields."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Yes, there has been a recent trend of decreasing smoking rates globally."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"By the early 2000s, annual global cigarette production was around 5.9 trillion cigarettes."
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Around 4.66 billion people are currently using the internet worldwide.
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,There were approximately 2.7 billion internet users worldwide in 2013.
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"It is estimated that over 1,000 restaurants in Chicago have closed permanently due to economic pressures."
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The population of Chicago is approximately 2.7 million.
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Typical working hours for most New Yorkers are from 9:00 AM to 5:00 PM.
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The city that never sleeps.
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"The trend has been a decrease in the number of tenured professors due to university budget cuts, leading to an increase in the hiring of adjunct and non-tenure-track faculty."
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,There are approximately 1.5 million tenured and tenure-track faculty members in the United States.
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Recent trends in pizza sales in the U.S. have shown an increased demand for healthier options, such as cauliflower crusts, plant-based toppings, and gluten-free options. Consumers are becoming more health-conscious and seeking out pizzas that align with their dietary preferences and restrictions. Additionally, there has been a rise in the popularity of smaller portion sizes and customizable toppings to cater to individual health needs."
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"On average, Americans eat around 46 slices of pizza per year."
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The maximum number of stable relationships that a human can maintain according to Dunbar's Number is around 150.
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"On Facebook, a person can have up to 5,000 friends."
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The average number of words per page in a book is typically around 250-300 words.
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"An example of a long novel with a high word count and complex sentence structure that likely uses many punctuation marks is ""War and Peace"" by Leo Tolstoy."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Deforestation.
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,It is estimated that there are around 390 billion individual trees in the Amazon Rainforest.
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Reddit had approximately 52 million daily active users in the year 2020.
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,Reddit has approximately 430 million monthly active users.
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The global human population in the year 2022 was approximately 7.9 billion.
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"As of 2021, the current global human population is estimated to be around 7.9 billion."
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"140 million coins per state, totaling 2.8 billion coins for the entire 50 State Quarters program."
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The U.S. Mint has produced over 700 billion coins since it was established.
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Urbanization has significantly reduced the amount of arable land available for agricultural activities as cities expand and infrastructure development encroaches on farmland. This leads to the fragmentation and shrinking of agricultural land, posing challenges for food production and sustainability."
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The annual global production of wheat is approximately 700 million tons.
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"It is impossible to determine the exact number of Fermi problems that were answered worldwide yesterday, but it is safe to assume that thousands of Fermi problems were likely solved globally."
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,It is not possible to determine the level of activity on a specific problem-solving forum discussing Fermi problems without access to real-time data.
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"The nature of warfare has evolved from traditional wars, where weapons like swords, bows and arrows, and cannons were used, to modern conflicts where advanced technology such as drones, cyber weapons, and precision-guided missiles are prevalent."
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,It is estimated that billions of bullets were fired during World War II.
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,It is estimated that shark populations have declined by 70-90% over the past 50 years.
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,There are over 500 known species of sharks in the world.
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Margaret Thatcher reportedly only slept for about four hours each night.
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"On average, people typically spend about one-third (1/3) of their lives sleeping."
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Approximately 32% of waste in the United States is recycled.
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The United States generates approximately 292.4 million tons of municipal solid waste each year.
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Approximately 8% of the global population adheres to a vegetarian or vegan diet.
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"The total global fish production in 2018 was approximately 179 million tonnes, with aquaculture contributing around 80 million tonnes, accounting for approximately 45% of the total production."
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Electric vehicles (EVs) do not use gasoline, as they are powered by electricity stored in batteries."
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The average American driver uses around 500 gallons of gasoline per year.
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Over 500 hours.
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,YouTube users watch over 1 billion hours of video each day.
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Yes, many schools in North America have been closing recently due to various reasons such as declining enrollment, budget constraints, and changes in educational policies."
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,There are approximately 56.6 million students enrolled in elementary and secondary schools in the United States.
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The average height of an adult male is approximately 5 feet 9.5 inches (176.5 cm).
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The length of a blue whale's skeleton is approximately 20 meters (65 feet).
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The human heart pumps around 70 milliliters of blood in a single beat.
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"The human heart pumps approximately 2,000 gallons of blood each day."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Approximately 50-60 hours of driving time, depending on traffic, road conditions, and chosen route."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The total length of all roads in Europe is estimated to be around 8.5 million kilometers.
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"The operational costs for maintaining servers and infrastructure for major tech companies like Google or Amazon are estimated to be in the billions of dollars annually. This includes expenses related to data center maintenance, electricity costs, cooling systems, hardware upgrades, and personnel salaries."
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"The cost to build a single large data center can range from $200 million to over $1 billion, depending on the size, location, and technology requirements. The annual maintenance costs can range from $5 million to $20 million."
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,People generally estimate the length of cables required for household appliances and electronics by visually measuring the distance between the device and the nearest power outlet or source. They may also consider the layout of the room and any potential obstacles that may affect the placement of the device.
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"There are approximately 745,000 miles of undersea cables globally."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"It would take an incredibly long time, potentially days or even weeks, for a person to manually compute one hash calculation for Bitcoin mining using pen and paper."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,It would take an impossible amount of time to mine a single Bitcoin block by hand.
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,An average soccer player runs about 7 miles per game.
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"On average, players in a Premier League soccer match typically run around 10-12 kilometers."
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The average amount of air inhaled or exhaled in a normal breath is approximately 500 milliliters.
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,A person typically inhales about 6-8 liters of air per minute.
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"New York City has implemented measures such as promoting water conservation, retrofitting buildings with water-saving fixtures, investing in green infrastructure projects to manage stormwater, and implementing water-saving policies and regulations for businesses and residents."
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The daily water supply capacity of New York City's water system is approximately 1.2 billion gallons.
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The average file size of a standard definition movie is around 700 MB to 1.5 GB.
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"As of 2021, Disney has produced over 600 films."
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Approximately 35-40% of newspaper production uses recycled paper.
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"Approximately 500,000 trees are cut down each week to produce Sunday newspapers."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Factors that have reduced the number of ancient grave goods available today include looting, illegal excavation, natural decay, and destruction due to war and conflict."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The discovery of the tomb of King Tutankhamun in Egypt in 1922.
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,The Great Oxygenation Event occurred approximately 2.4 billion years ago.
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,Approximately 21% of the Earth's atmosphere is composed of oxygen.
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"It is estimated that all written works of humanity, including books, movies, and scientific articles, would require approximately 50 petabytes (50,000 terabytes) of digital storage space."
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,It is estimated that around 79 zettabytes of data existed in the world in 2021.
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Some factors that have led to a significant decrease in global spider populations include habitat loss due to urbanization and deforestation, pesticide use in agriculture, climate change affecting their natural habitats, and the decline in insect populations which spiders rely on for food."
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,Approximately 25 million tons.
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"The primary composition of a tornado is a rotating column of air that extends from a thunderstorm to the ground, with wind speeds that can exceed 200 mph."
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The typical pressure differential exerted by a tornado compared to the surrounding atmosphere is around 10-20% lower.
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,GPT-3 was developed by OpenAI and it was trained on a diverse range of internet text data.
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,It is estimated that around 355 GPU-years were required to train GPT-3.
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Santa Claus visits an estimated 1.9 billion homes on Christmas Eve.
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,Santa Claus delivers gifts to an estimated 2 billion children worldwide.
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,Approximately 10 million hectares of forest are lost each year due to deforestation globally.
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,Approximately 120 gigatons of carbon per year.
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Recent album sales for classic rock artists have generally not met expectations, as physical album sales continue to decline and streaming services have become the primary way people consume music."
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"The highest amount paid for an album containing unreleased songs by a famous artist was $300,000 for Bob Dylan's ""The Cutting Edge 1965-1966: The Bootleg Series Vol. 12."""
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Parks and green spaces cover approximately 30,000 acres in New York City."
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The population of New York City is approximately 8.4 million.
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"Some measures countries have taken to reduce plastic pollution include implementing bans on single-use plastics, promoting recycling programs, encouraging the use of reusable items, and investing in research and innovation for sustainable packaging alternatives."
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,It is estimated that around 500 million plastic straws are used every day in the United States.
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"India has made significant progress in improving its literacy rate over the past decades. The literacy rate in India has increased from 52.21% in 1991 to 74.04% in 2011, with ongoing efforts to further boost education and literacy levels in the country."
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The literacy rate in India in 2021 is approximately 77.7%.
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"On average, a cow produces about 6-7 gallons of milk per day."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,A Holstein cow can produce an average of 8 gallons of milk per day.
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,A single tree can absorb approximately 48 pounds of CO2 in a year.
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,The average annual carbon dioxide emission per person in the United States is approximately 16.2 metric tons.
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,decrease,"The lowest-scoring football season in history was the 1932 NFL season, with an average of 9.2 points per game."
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,availability,increase,"The highest scoring professional football match ever recorded was 149-0, with the team AS Adema defeating Stade Olympique L'Emyrne in Madagascar on October 31, 2002."
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,It is estimated that approximately 1.5 billion people are sleeping right now.
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,There are approximately 5 billion cell phones currently in use around the world.
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"It is difficult to determine an exact number, but it is estimated that around 3.4 billion people worldwide have never used a computer."
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"It is relatively uncommon for someone to have a PhD in computer science compared to other educational qualifications. According to the National Science Foundation, only about 1-2% of the U.S. population has a PhD in a science or engineering field, including computer science."
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"As of September 2021, there are approximately 7.9 billion people living on Earth."
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Approximately 108 billion people have ever lived on Earth.
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"There are approximately 10,000 students in my local school district."
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"There are approximately 4,700 universities in North America."
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"Approximately 8,333 sheets of paper can be made from a single tree."
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The impact of the newspaper industry on deforestation is significant, as the production of paper for newspapers contributes to the destruction of forests around the world."
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,Approximately 100 plastic straws are used every day in our local coffee shop.
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,It is estimated that millions of plastic straws are used in the busiest restaurants around the world each day.
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"Yes, literacy rates in India have significantly increased after the government's recent educational reforms."
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"Yes, India has one of the highest illiteracy rates in the world."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"On average, one cow produces about 6-7 gallons of milk per day."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"Yes, I was aware that some large dairy farms can have thousands of cows, each producing up to 10 gallons of milk daily."
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,It takes approximately 7 trees to offset a year's worth of CO2 emissions from an average American car.
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The number of trees needed to offset the carbon footprint of a single international flight can vary depending on the distance traveled and the type of aircraft used. On average, it is estimated that approximately 1 to 3 trees would need to be planted to offset the carbon emissions from one international flight."
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The average number of goals scored in a football game is around 2.5 goals.
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"No, the average football game does not have about 10 goals scored. The average number of goals scored in a football game is around 2-3."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,Roughly 5.8 trillion cigarettes are smoked per day worldwide.
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Approximately 15 billion cigarettes are smoked each day worldwide.
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"It is difficult to provide an exact number, but it is estimated that there are billions of computer keyboards in use worldwide."
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Approximately 319.6 billion emails have been sent worldwide today.
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,It typically takes around 5-10 people to operate a small family-owned restaurant.
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"Approximately 1,500 people work in the largest food market in Chicago."
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,It is estimated that approximately 40% of New Yorkers go to bed before midnight.
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Approximately 1.2 million New Yorkers work night shifts.
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,There are two community colleges in my area.
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,There are approximately 5 million university professors in the world.
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"I would estimate that approximately 50,000 pizzas were eaten in my local town last year."
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Approximately 3 billion pizzas were eaten in the U.S. last year.
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,I know approximately 200 people.
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,I meet around 20-30 people in a day.
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,There are 8 punctuation marks on this page.
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The average novel typically contains between 60,000 to 100,000 words."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"There is no definitive answer to how many leaves are on an average tree, as it varies depending on the species, size, and health of the tree. However, a large tree can have tens of thousands of leaves."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Approximately 3.04 trillion trees in the world.
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"Reddit comment sections are typically quite active, with posts often receiving hundreds or even thousands of comments."
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"Yes, Reddit is indeed one of the most popular websites in the world with millions of active users engaging daily."
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,It is estimated that around 100 billion coins are minted each year worldwide.
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,It is estimated that over 100 billion coins are minted each year around the world.
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"The number of seeds found in a single fruit can vary greatly depending on the type of fruit. Some fruits may have just a few seeds, while others can have dozens or even hundreds of seeds."
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,There are approximately 7.5 x 10^18 grains of sand on all the beaches in the world.
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"There is no clear evidence to suggest that people are losing interest in solving mathematical problems. In fact, interest in mathematics is sustained by its importance in various fields and the growing emphasis on STEM education."
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"Yes, the number of fermi problems solved daily is increasing significantly due to the rise in popularity of analytical thinking and problem-solving skills in education and professional fields."
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,It is estimated that approximately 1.5 billion bullets were used in the American Civil War.
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"It is difficult to provide an exact number of wars fought throughout history, but estimations suggest that there have been thousands of wars recorded since ancient times."
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,It is estimated that around 20 species of sharks have gone extinct in the last decade.
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,There are approximately 7.5 x 10^18 (7.5 quintillion) grains of sand on all the beaches in the world.
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The average person sleeps around 7-9 hours per night.
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"On average, a person typically sleeps around 7 to 9 hours in a day."
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,Luxembourg produces approximately 1.5 million tonnes of domestic trash per year.
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Approximately 7.6 billion tons of industrial waste is produced in the U.S. per year.
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,There is a significant decrease in the amount of fish available due to overfishing.
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"It is estimated that humans waste around 35% of fish caught each year, totaling approximately 34 million tons."
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,A compact car typically uses around 500-600 gallons of gasoline in a year.
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"A large SUV typically uses around 13,000 gallons of gasoline during its lifetime."
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"On average, people spend about 6 hours watching videos each day."
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"As of 2021, approximately 500 hours of video content is uploaded to YouTube every minute."
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The average human femur is approximately 18-20 inches long.
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,The longest dinosaur skeleton ever discovered is approximately 130 feet long.
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"The human heart pumps approximately 2,000 gallons of blood per day."
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,A whale's heart pumps around 1.5 million gallons of blood in a lifetime.
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"It would take approximately 45 minutes to drive across the smallest country in Europe, which is Monaco."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"It is impossible to determine an exact time as the length of all roads in Europe is constantly changing due to construction, expansion, and maintenance. However, a rough estimate based on current data would be several lifetimes."
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The initial cost to create the internet was surprisingly low.
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Large tech companies like Google and Amazon spend billions of dollars each year on maintaining their global internet infrastructure.
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The longest cable I have ever seen is approximately 10 kilometers long.
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The Great Wall of China is approximately 13,171 miles (21,196 kilometers) long."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"It would take an extremely long time for a person to calculate a single Bitcoin hash by hand, likely days or even weeks."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"On average, it takes about 10 minutes to mine one bitcoin block using the most advanced ASIC miners available."
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The average pass in soccer is approximately 20-25 yards.
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"On average, players run between 7 to 9 miles in a soccer match."
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"On average, a person breathes in about 12-20 breaths per minute."
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"A professional athlete breathes approximately 20,000-30,000 liters of air per day."
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The minimum amount of water a person can survive on is approximately 1 liter per day.
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The largest city in the world, Tokyo, uses approximately 7.4 billion gallons of water per day."
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,A single Disney movie in standard definition would occupy approximately 1.5 to 2.5 gigabytes of file space.
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"It is difficult to give an exact answer as the number of high-definition movies ever made is constantly increasing. However, a rough estimation would be in the petabyte range, considering that a single high-definition movie can range from 4 to 8 GB in size."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"It is difficult to determine an exact amount, but a typical grave robbery can yield anywhere from a few hundred to a few thousand dollars depending on the valuables found in the grave."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The treasures in King Tutankhamun's tomb are considered extremely valuable, both in terms of monetary worth and historical significance."
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,A human can only survive for a few minutes without air.
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Humanity could survive indefinitely with an unlimited supply of oxygen tanks.
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"It is possible for all tweets ever tweeted to fit on a single modern hard drive, as the total size of all tweets is estimated to be around 424 terabytes as of 2021."
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,It is estimated that all data centers in the world currently use around 600 exabytes of digital storage space.
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"On average, a single spiderweb weighs about 1 milligram."
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,The largest spiderweb ever recorded measured approximately 13 meters (43 feet) in diameter.
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,A feather typically weighs a fraction of an ounce.
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,A hurricane does not have a definitive weight as it is a large-scale weather phenomenon made up of air and moisture.
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"Yes, AI models like GPT-3 are considered to be energy-efficient compared to other industrial activities. This is due to the fact that they can perform complex tasks using relatively low power consumption."
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The emissions from creating GPT-3 are likely much lower than the daily activities of an average large city, as the energy consumption and carbon footprint of training a language model are relatively small compared to the collective emissions of transportation, industry, and infrastructure in a city."
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,A fast delivery service could potentially distribute gifts in one night if they have efficient logistics and resources in place to facilitate quick deliveries.
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"It is impossible to accurately determine how long it would take to travel to every house in the world, as the number of houses is constantly changing and the speed at which one can travel varies. However, it would likely take an extremely long time, potentially hundreds of years."
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,"Yes, the amount of wood grown by trees globally each day is likely more than a million tons."
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,It is estimated that trees around the world absorb approximately 2.4 billion metric tons of carbon dioxide each day.
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,The unreleased Beatles album was not considered subpar by music critics.
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,Michael Jackson paid $47.5 million for the rights to the Beatles' music catalog.
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,decrease,A typical adult bicycle weighs around 20-30 pounds.
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,general,increase,"The Empire State Building weighs approximately 365,000 tons."
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,Yes.
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,Yes.
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, it is likely that there are more than 10,000 people worldwide with a PhD in computer science."
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, it is highly unlikely that more than 2 million people on earth have a PhD in computer science."
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, the number of human mothers who have ever lived is likely greater than 20 million."
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, over 50 billion human mothers have lived on Earth."
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, there are more than 1,000 students in North America."
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, there are not 100 million students in North America."
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,It is estimated that it takes about 15 trees to produce 100 copies of a newspaper each day.
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Approximately 1,500 trees are cut down each day to print 1 million newspapers."
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, it is likely that more than 500,000 plastic straws are used every day around the world."
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,It is estimated that billions of plastic straws are used every day worldwide.
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, it is not true. India has more than 200 million illiterate people."
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"India has approximately 287 million illiterate people, making up a significant portion of the global illiterate population."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"On average, one cow can produce about 6-7 gallons of milk per day."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"It would take approximately 83 cows to produce 10,000 gallons of milk in a single day, considering an average cow produces around 120 pounds of milk per day."
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,It would take approximately 7-8 trees to offset the carbon footprint of driving a car for one year.
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Planting 100,000 trees would likely not be enough for an average American to offset their carbon footprint over their lifetime. The average American emits approximately 16.6 metric tons of CO2 per year, so it would require planting significantly more trees to fully offset their emissions."
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, there have been over 10,000 goals scored in total in professional football history."
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, over 10 million goals have been scored in professional football games throughout history."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"It is estimated that billions of cigarettes were smoked last year, far exceeding 100 million."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"It is estimated that approximately 6 trillion cigarettes are smoked worldwide each year. Therefore, it is reasonable to estimate that the total number of cigarettes smoked throughout history could potentially be around 50 trillion."
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, it is highly likely that there have been more than 1 billion keyboard strokes made to date."
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is likely that over 100 trillion keyboard strokes have been made to date."
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,Yes.
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is possible that 100,000 people are involved in delivering and preparing the food consumed by Chicago in a day."
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"It is unlikely that only 5% of New Yorkers are awake through the night, as many people work night shifts, have insomnia, or engage in nighttime activities. I would guess that a higher percentage of New Yorkers are awake during the night."
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is likely that more than 1 million New Yorkers are awake through the night."
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, some small colleges may have as few as 10 tenured professors on staff."
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"It is difficult to determine the exact number of tenured professors worldwide, but there are likely fewer than 500,000."
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, it is estimated that over 3 billion pizzas were consumed in the U.S. last year."
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, over 3 billion pizzas were consumed in the U.S. last year."
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, it is likely that a person encounters at least 1,000 unique names in their lifetime."
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is possible for someone to encounter over 50,000 names in their lifetime, especially if they are exposed to diverse cultures, travel extensively, have a large social circle, or work in fields that require interacting with many people."
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, there are more than 10 punctuation marks in a book."
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, there are not over 100,000 punctuation marks in a typical book."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"It is estimated that a mature tree can have anywhere from 100,000 to 600,000 leaves."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, there are estimated to be over a trillion leaves in the world."
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, there are likely thousands of conversations happening in Reddit comment sections at any given time."
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is likely that there are more than 1 million conversations happening in Reddit comment sections at any given time."
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, more than 10 million coins have likely been minted."
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is likely that over a trillion coins have been minted globally."
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, it is likely that more than 1 billion seeds are sown globally every year."
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is likely that over a trillion seeds are sown globally every year."
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"According to the information provided, it is not possible to determine if only one Fermi problem was answered on Earth yesterday."
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, over 10,000 fermi problems were answered on Earth yesterday."
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, it is highly likely that more than 1 million bullets have been fired throughout history."
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"It is possible that over 500 billion bullets have been fired throughout history, considering the long history of firearms and warfare around the world."
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, I am aware that some scientists estimate there are only about 10,000 sharks left in the world."
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,There are an estimated 200 million sharks in the world.
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, people typically need about 7-9 hours of sleep each night for optimal health and functioning."
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, it is not physically possible for a person to sleep for 100 years in a lifetime."
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,Yes.
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, the U.S. might produce up to 400 million tons of domestic trash per year."
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, humans consume more than 10 million tons of fish per year."
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, humans consume approximately 100 million tons of fish per year."
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, it would not surprise me as some cars are designed to be highly fuel-efficient and can last for many years with minimal gasoline consumption."
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, I did know that."
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, there is likely more than 100 years' worth of video content available in the world today, considering the vast amount of videos produced and uploaded on various platforms every day."
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is likely that there are over 1 billion hours of video footage in the world today, considering the vast amount of content created and shared on various platforms daily."
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, the total length of all the bones in an average man's body is typically around 1.2 to 1.3 meters, not as short as 5 meters."
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, a human skeleton, when stretched end to end, could not measure up to 100 feet in length."
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"The average human heart pumps around 2,000 gallons of blood per day."
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is possible for a human heart to pump over 1 billion gallons of blood in a lifetime."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,It would not be possible to drive on every road in Europe at the posted speed limits in less than 100 hours.
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,It would likely take over 100 years to drive on every road in Europe at the posted speed limit.
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, it likely costs significantly more than $100 million per year to maintain the internet."
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, it does not cost $1 trillion per year to maintain the internet. Maintaining the internet involves various costs such as infrastructure, data centers, and personnel, but it is not estimated to be at that level."
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,A standard Ethernet cable is typically 1.5 feet to 100 feet in length.
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is possible that the total length of all cables used around the world could be as much as 10 million kilometers."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"It would take an extremely long time to solve a single bitcoin hash function using a standard calculator, likely millions of years."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, it would not take over 100 years for the entire world population to mine a Bitcoin block manually with pen and paper. The mining difficulty of Bitcoin blocks is designed to adjust approximately every 2 weeks to ensure that blocks are mined at a consistent rate of about 10 minutes per block. With the current global population of over 7 billion people, it is likely that a Bitcoin block could be mined manually within a much shorter timeframe."
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, the ball can travel more than 100 meters in a soccer game, especially during long passes, shots on goal, or goal kicks."
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, it is possible for a ball to travel over 20 kilometers in a soccer game due to the continuous passing, dribbling, and long-range shots that occur throughout the match."
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"On average, a person breathes in about 500 milliliters of air in a single breath."
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"On average, a person breathes in about 8 liters of air per minute. Therefore, in a week (assuming 24/7 breathing), a person could potentially breathe in about 8,640 liters of air."
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,It is likely that the population of New York uses more than 500 million gallons of water per day.
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, the population of New York uses more than 2 billion gallons of water per day."
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,A single Disney movie in standard definition typically requires around 700 MB of file space.
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,You would need a large-scale storage solution such as a data center with multiple high-capacity servers or a cloud storage service that offers petabyte-level storage options.
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,It is very likely that the total value of all the jewelry buried with the pharaohs of ancient Egypt far exceeds $10 million.
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"If all the world's buried grave goods were valued at $100 trillion, it would significantly impact the field of archaeology and cultural heritage management. The valuation would likely lead to increased interest and investment in archaeological research, conservation efforts, and the preservation of burial sites. Additionally, the recognition of the immense value of these goods would highlight the importance of respecting and protecting the cultural significance of these artifacts for future generations."
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, humanity would not survive for less than 5 years if plants stopped producing oxygen."
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"No, humanity would not survive for 100 years if plants stopped producing oxygen."
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,A standard laptop typically provides around 500 GB of storage space.
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,It would require approximately 1 yottabyte of digital storage space.
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"The average spiderweb is typically smaller than 1 square meter, usually ranging from a few centimeters to a few decimeters in size."
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,It is estimated that the total surface area of all the leaves in the Amazon rainforest is approximately 7 billion square meters.
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"The average car weighs around 4,000 pounds (1,814 kilograms)."
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"A tornado does not have a specific weight as it is made up of swirling air and debris. The concept of a tornado weighing 10,000 tons is not accurate."
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"It is unlikely that the CO2 emissions from the creation of GPT-3 could be as low as 10 kg. The training process for large language models like GPT-3 typically involves significant computational resources and energy consumption, resulting in higher emissions."
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"If the CO2 emissions from the creation of GPT-3 were as high as 100,000 tons, it would raise significant concerns about the environmental impact of artificial intelligence technologies. Efforts to mitigate these emissions and develop more sustainable AI solutions would be crucial."
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"No, Santa Claus would not be able to complete his journey in just 1 hour due to the vast distance he would need to travel to deliver presents to children all around the world."
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, Santa Claus could potentially take 24 hours to deliver all the gifts, considering the time zones and the speed at which he travels around the world."
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"Yes, trees around the world likely grow more than 1 million kilograms of new wood each day."
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,Approximately 1.3 billion kilograms of new wood is grown by trees around the world every day.
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,Yes.
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, the rare Beatles album ""The Beatles' White Album"" numbered 0000001 sold for $790,000 at an auction in 2015."
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,decrease,"A New York City taxi typically weighs around 3,300 to 3,600 pounds."
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,question_anchor,increase,"Yes, some experts estimate that New York City weighs about 1 trillion tons."
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, there has not been a significant global decrease in cell phone usage recently."
+0,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, most people use their cell phones primarily for texting, browsing the internet, and using social media."
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, computer science is a popular and growing field of study with many students choosing to pursue it academically."
+1,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, it is true that a large number of people are pursuing higher education in computer science due to its growing importance in various industries and the high salary potential associated with careers in the field."
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, most people who have ever lived are not still alive today."
+2,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, the population size is much larger today than it was in ancient times."
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Most schools in North America are not small. The majority of schools in North America are medium to large in size, serving hundreds or even thousands of students."
+3,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, North America has the highest number of students compared to any other continent."
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, modern newspapers primarily use recycled paper."
+4,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, deforestation due to paper production is a major environmental problem as it leads to the loss of biodiversity, disruption of ecosystems, and contributes to climate change."
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, many countries around the world have implemented bans or restrictions on single-use plastic straws in an effort to reduce plastic pollution and environmental damage."
+5,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the use of plastic straws is a major contributor to global plastic pollution."
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, there has been a significant increase in literacy rates in India in recent years."
+6,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, India has one of the highest numbers of illiterate people in the world."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, cows are exceptionally efficient at producing large volumes of milk quickly."
+7,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, cows are capable of producing large amounts of milk quickly."
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, planting trees is an effective way to combat climate change as trees absorb carbon dioxide and release oxygen, helping to reduce greenhouse gas emissions in the atmosphere."
+8,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, Americans contribute significantly to global carbon emissions due to their high levels of energy consumption and reliance on fossil fuels for transportation and electricity generation."
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, football was less popular and lower scoring in its early years."
+9,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, historically the average number of goals scored per game in soccer has not been very high."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, the global smoking rate has been declining significantly in recent years."
+10,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, tobacco use was historically widespread and popular across many cultures, including Indigenous peoples in the Americas, Europeans, Africans, and Asians."
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, most computer users are not predominantly using touchscreens today. Touchscreens are commonly used on smartphones and tablets, but traditional keyboards and mice are still widely used for desktop and laptop computers."
+11,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, it is not true that people spend the majority of their time typing on computers. People engage in a wide range of activities throughout their day, with typing on computers being just one of them."
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, the food supply system in Chicago is highly automated."
+12,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the number of people involved in the supply chain and food preparation for Chicago's daily consumption was surprisingly large."
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, New York is known as ""the city that never sleeps."""
+13,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, many people in New York City have jobs that require them to work overnight, such as healthcare workers, law enforcement officers, hospitality staff, and transportation workers."
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, it is true that the majority of university faculty are adjunct professors rather than tenured professors."
+14,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, universities generally prioritize academic research and teaching experience when hiring faculty members."
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,There was not a significant drop in pizza consumption last year due to health trends.
+15,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, Americans ate more pizzas last year than ever before."
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, most people we meet daily are likely to be acquaintances or people we already know."
+16,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,It is unlikely that most people meet thousands of new people every year.
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,Yes.
+17,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, books typically contain thousands of punctuation marks."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes. There are estimated to be around 100 billion stars in the Milky Way galaxy alone, and even more stars in the observable universe. There are roughly 3 trillion trees on Earth, each with thousands of leaves, making the number of leaves significantly less than the number of stars."
+18,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, grasses are the most abundant plants on Earth."
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,Reddit is primarily used for both sharing links and engaging in discussions.
+19,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,Reddit is one of the most active social media platforms for discussions.
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, the production of coins is not limited to a small number each year."
+20,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the number of coins minted worldwide has likely exceeded a trillion, considering the long history of coinage and the large populations of countries around the world."
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, most seeds are sown globally by hand, which can lead to lower planting rates compared to mechanized planting methods."
+21,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,Yes
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, that is correct. Fermi problems are not commonly solved on a daily basis by the general population."
+22,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, there was a significant increase in the popularity of physics and problem-solving activities yesterday."
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, the use of firearms has not been historically rare in most societies."
+23,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, billions of bullets were used in the world wars."
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, the number of sharks worldwide is decreasing due to overfishing and illegal hunting."
+24,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, shark populations are increasing globally."
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, people generally sleep less than experts recommend."
+25,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, on average, people typically sleep for around one-third of their lives."
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,The U.S is not known for having efficient waste reduction policies.
+26,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the U.S. is one of the largest producers of domestic trash globally."
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, it is true that many people are trying to reduce their fish consumption to help protect the environment and marine ecosystems."
+27,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,The average person consumes about 20.2 kilograms (or 44.5 pounds) of fish per year.
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, modern cars are becoming increasingly fuel-efficient due to advancements in technology such as hybrid engines, improved aerodynamics, and lightweight materials."
+28,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, a typical automobile consumes more than 100,000 gallons of gasoline over its lifetime."
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, most videos are not short clips under a minute. Many videos are longer in length, ranging from a few minutes to even hours in duration."
+29,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the amount of video content created daily is extremely high."
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,The human skeleton is generally smaller and more delicate than most people think.
+30,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the human skeleton is generally longer than most people think, as it includes multiple bones and joints that contribute to overall height and structure. The average adult human skeleton is made up of 206 bones."
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, the heart pumps well over a million gallons of blood in a lifetime."
+31,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the heart pumps several million gallons of blood in a lifetime."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, it is not possible to drive on all roads in Europe in less than a year."
+32,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, Europe does not have the most extensive road network in the world. The United States has the largest road network globally, with approximately 6.58 million kilometers of public roads."
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, the cost to maintain the internet was not significantly lower last year."
+33,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, the annual cost of maintaining the internet was not over $100 billion last year."
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, most communication cables are shorter than 1 kilometer."
+34,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, it is estimated that the total length of cables used worldwide could wrap around the Earth multiple times."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, there have been advancements in mining hardware and techniques that have led to increased efficiency in manual bitcoin mining."
+35,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, it is true that mining Bitcoin by hand is impractically slow and inefficient compared to using computers."
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, the soccer field is a standard size."
+36,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,Yes.
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, the volume of air breathed in a day is typically more than expected."
+37,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, a person breathes in more than 10,000 liters of air a day."
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, water scarcity is not a pressing issue in New York."
+38,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, it is true that New Yorkers use more water per day compared to the average American."
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, Disney productions are typically similar in duration to other movies and TV shows."
+39,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, Disney has produced a very large number of movies and TV shows."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, it is true that most of mankind's grave goods were made from perishable materials."
+40,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, ancient civilizations often buried significant treasures with their dead as offerings for the afterlife or as a sign of wealth and status."
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, it is true that humans can only survive a few minutes without oxygen."
+41,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Humans can produce oxygen through the process of photosynthesis by planting trees and other vegetation that release oxygen as a byproduct. Additionally, oxygen can be procured through the use of oxygen concentrators or oxygen tanks for medical purposes."
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, advances in data compression have significantly reduced the amount of storage needed for large datasets."
+42,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the rate of digital data creation has significantly increased in the last decade due to the widespread adoption of technology, increased internet usage, and growth in connected devices."
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"While most spiders are capable of producing small and sparse webs, some species are known for creating larger and more intricate webs."
+43,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, spiders are among the most prolific web builders in the world."
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, a tornado is lighter than a cloud."
+44,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, it is true that tornadoes have the ability to lift and move extremely heavy objects such as trucks and large animals. This is due to the powerful winds and rotating air within a tornado that can generate enough force to lift and carry heavy objects."
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"AI has the potential to be more environmentally friendly than traditional industries by optimizing processes, reducing waste, and enabling more efficient resource use. However, its environmental impact ultimately depends on how it is developed and utilized."
+45,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, the environmental impact of training large models like GPT-3 is significantly higher than most other AI models due to the immense computational power required and the associated energy consumption."
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"Yes, Santa Claus is believed to be capable of traveling faster than any known technology today, as he is said to deliver presents to children all around the world in a single night."
+46,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"No, it is not physically possible for Santa Claus to visit every child in the world in one night."
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, trees are not inefficient at converting sunlight into biomass. In fact, they are highly efficient at harnessing solar energy through photosynthesis to produce biomass."
+47,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, trees around the world produce several million tonnes of wood every day."
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"It would depend on the circumstances of its creation and recording, but generally, it is possible for the unreleased album to be of lower quality compared to their classic albums."
+48,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, a newly-discovered unreleased Beatles album would likely be extremely valuable due to the band's iconic status and the high demand for their music among collectors and fans."
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,decrease,"No, New York City is not known for having many lightweight structures and materials."
+49,0,gpt-3.5-turbo,gpt-4-turbo,simple,explicit_confirmation,increase,"Yes, I did know that New York City contains some of the heaviest buildings in the world."
+0,0,gpt-3.5-turbo,human,simple,control,neutral,"Some common features of cell phones today include touch screens, high-quality cameras, internet connectivity, app support, GPS navigation, facial recognition, voice assistance, biometric security, and wireless charging."
+1,0,gpt-3.5-turbo,human,simple,control,neutral,"Earning a PhD in computer science signifies a high level of expertise and specialization in the field, as well as the ability to conduct original research and contribute new knowledge to the field. It opens up opportunities for advanced career positions, leadership roles in industry or academia, and the ability to pursue cutting-edge research projects."
+2,0,gpt-3.5-turbo,human,simple,control,neutral,A typical pregnancy lasts about 40 weeks from the first day of a woman's last menstrual period to the birth of the baby.
+3,0,gpt-3.5-turbo,human,simple,control,neutral,"The American educational system is divided into different levels: elementary school (grades K-5), middle school (grades 6-8), high school (grades 9-12), and higher education (college or university). Students typically attend public or private schools depending on their location and preference. Each state has its own set of education standards that schools must adhere to. Students progress through grades by completing coursework and passing exams. After high school, students have the option to attend college or pursue vocational training."
+4,0,gpt-3.5-turbo,human,simple,control,neutral,"A newspaper provides current news, information, and updates on local, national, and international events, as well as editorials, opinions, and feature stories."
+5,0,gpt-3.5-turbo,human,simple,control,neutral,"Some common uses of plastic straws include drinking beverages, stirring drinks, and sipping thick liquids like milkshakes and smoothies."
+6,0,gpt-3.5-turbo,human,simple,control,neutral,"The Indian educational system is structured into different levels: primary school (Classes 1-5), middle school (Classes 6-8), high school (Classes 9-10), and higher secondary school (Classes 11-12). After completing higher secondary school, students can choose to pursue undergraduate degrees in colleges or universities. The system is overseen by various boards like the Central Board of Secondary Education (CBSE) and the Indian Certificate of Secondary Education (ICSE), with each board setting its own curriculum and conducting exams."
+7,0,gpt-3.5-turbo,human,simple,control,neutral,"Cow's milk is typically used for drinking, cooking, baking, and making dairy products such as cheese, butter, yogurt, and ice cream."
+8,0,gpt-3.5-turbo,human,simple,control,neutral,"Trees are typically planted by digging a hole in the ground, placing the tree in the hole, backfilling the hole with soil, and watering the tree to help it establish its roots."
+9,0,gpt-3.5-turbo,human,simple,control,neutral,"Football is a team sport played between two teams of eleven players each, with the objective of scoring goals by getting the ball into the opposing team's goal. The main rules include no hands except for the goalkeeper, offside rule, fouls such as tripping or pushing, and penalties for breaking the rules. The team with the most goals at the end of the game wins."
+10,0,gpt-3.5-turbo,human,simple,control,neutral,"Cigarettes are made from tobacco leaves that have been dried, processed, and mixed with additional chemicals and additives."
+11,0,gpt-3.5-turbo,human,simple,control,neutral,"Some types of computer peripherals include keyboards, mice, monitors, printers, scanners, external hard drives, webcams, and speakers."
+12,0,gpt-3.5-turbo,human,simple,control,neutral,"Chicago is located in the state of Illinois, United States."
+13,0,gpt-3.5-turbo,human,simple,control,neutral,New Yorkers typically have lunch between 12:00 PM and 2:00 PM.
+14,0,gpt-3.5-turbo,human,simple,control,neutral,"A tenured professor in academia has a permanent position at a university or college and is responsible for teaching courses, conducting research, publishing scholarly work, serving on committees, and mentoring students. They have job security and academic freedom to pursue their research and interests without fear of losing their position."
+15,0,gpt-3.5-turbo,human,simple,control,neutral,"Some types of fast food include burgers, pizza, fried chicken, tacos, sandwiches, hot dogs, and Asian cuisine such as sushi or stir fry."
+16,0,gpt-3.5-turbo,human,simple,control,neutral,The most common name in the U.S. is James.
+17,0,gpt-3.5-turbo,human,simple,control,neutral,"Some common punctuation marks include period (.), comma (,), question mark (?), exclamation point (!), semicolon (;), colon (:), apostrophe ('), quotation marks ("" ""), parentheses (()), and hyphen (-)."
+18,0,gpt-3.5-turbo,human,simple,control,neutral,"The main function of leaves on a tree is to photosynthesize, converting sunlight into energy for the tree to grow and thrive. Leaves also help regulate the exchange of gases such as oxygen and carbon dioxide with the environment."
+19,0,gpt-3.5-turbo,human,simple,control,neutral,"Some common topics people are talking about on the Internet include current events, pop culture, entertainment, social issues, and personal experiences."
+20,0,gpt-3.5-turbo,human,simple,control,neutral,"Common forms of payment include cash, credit/debit cards, mobile payment apps, and online payment platforms like PayPal."
+21,0,gpt-3.5-turbo,human,simple,control,neutral,"A seed grows into a plant through a process called germination. When a seed is planted in soil and provided with water, oxygen, and sunlight, it begins to absorb water and swell. This triggers metabolic processes within the seed, causing it to break open and send out a root to anchor the plant into the soil. The seedling then grows a shoot that emerges from the soil and develops into a mature plant through the process of photosynthesis."
+22,0,gpt-3.5-turbo,human,simple,control,neutral,A Fermi problem is a type of estimation problem that involves making educated guesses and using rough approximations to arrive at a reasonable answer to a complex question. It is named after physicist Enrico Fermi who was known for his ability to make accurate estimates with limited information.
+23,0,gpt-3.5-turbo,human,simple,control,neutral,"Guns shoot bullets by using a firing mechanism, which ignites the gunpowder in the cartridge. The ignition of the gunpowder creates rapid expansion of gases, which propels the bullet out of the barrel of the gun at high speed."
+24,0,gpt-3.5-turbo,human,simple,control,neutral,"Phylum: Chordata Class: Chondrichthyes Subclass: Elasmobranchii Order: Selachimorpha"
+25,0,gpt-3.5-turbo,human,simple,control,neutral,The average person goes to sleep between 10:00 pm and 11:00 pm.
+26,0,gpt-3.5-turbo,human,simple,control,neutral,"Domestic trash typically consists of household waste such as food scraps, packaging materials, paper, plastics, and other items that are no longer needed or usable in the home."
+27,0,gpt-3.5-turbo,human,simple,control,neutral,"Some types of seafood include fish (such as salmon, tuna, and cod), shellfish (such as shrimp, crab, and lobster), mollusks (such as clams, oysters, and mussels), and cephalopods (such as squid and octopus)."
+28,0,gpt-3.5-turbo,human,simple,control,neutral,"Some of the most important parts in an automobile include the engine, transmission, brakes, steering system, and tires."
+29,0,gpt-3.5-turbo,human,simple,control,neutral,"A camera works by capturing light through a lens and focusing it onto a photosensitive surface, such as film or a digital sensor. When the light hits the surface, it creates an image by recording the intensity and color of the light in that particular scene. This image is then processed and stored for viewing or printing."
+30,0,gpt-3.5-turbo,human,simple,control,neutral,"Human bones are highly resilient and can withstand a considerable amount of force before breaking. They are designed to support the body's weight and protect internal organs, making them strong and durable structures."
+31,0,gpt-3.5-turbo,human,simple,control,neutral,"Blood carries oxygen, nutrients, hormones, and waste products throughout the body."
+32,0,gpt-3.5-turbo,human,simple,control,neutral,"Some great vacation destinations in Europe include Paris, Rome, Barcelona, Santorini, and the Amalfi Coast in Italy."
+33,0,gpt-3.5-turbo,human,simple,control,neutral,"People use the internet for communication, research, entertainment, shopping, social media, and accessing information and services."
+34,0,gpt-3.5-turbo,human,simple,control,neutral,"Cables are typically made of a combination of materials such as copper, aluminum, and plastic insulation."
+35,0,gpt-3.5-turbo,human,simple,control,neutral,Bitcoin is a digital currency that operates independently of a central bank and can be used for online transactions.
+36,0,gpt-3.5-turbo,human,simple,control,neutral,"Soccer is played with two teams of 11 players each, aiming to score goals by kicking a ball into the opposing team's net. Players cannot use their hands or arms, except for the goalkeeper within their penalty area. The game is played in two halves of 45 minutes each, with the team scoring the most goals declared the winner. Offsides, fouls, and misconduct can result in free kicks or penalties for the opposing team."
+37,0,gpt-3.5-turbo,human,simple,control,neutral,"When people breathe, they inhale oxygen from the air and exhale carbon dioxide. Oxygen is taken into the body and transported to cells where it is used for energy production, while carbon dioxide is a waste product that is expelled from the body."
+38,0,gpt-3.5-turbo,human,simple,control,neutral,"The water used by New Yorkers primarily comes from reservoirs located in the Catskill and Delaware watersheds, as well as from groundwater sources within the city."
+39,0,gpt-3.5-turbo,human,simple,control,neutral,The Disney mascot is Mickey Mouse.
+40,0,gpt-3.5-turbo,human,simple,control,neutral,"Funerals exist to provide a way for family and friends to mourn and pay their respects to the deceased, and to honor and celebrate the life that was lived."
+41,0,gpt-3.5-turbo,human,simple,control,neutral,"Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose (sugar) and oxygen. This process takes place in the chloroplasts of plant cells and is essential for the production of food and oxygen on Earth."
+42,0,gpt-3.5-turbo,human,simple,control,neutral,"The main difference between SSD (Solid State Drive) and HDD (Hard Disk Drive) is that SSDs use flash memory to store data, while HDDs use spinning disks and magnetic storage. This results in SSDs being much faster, more durable, and more energy efficient than HDDs. However, HDDs typically offer more storage capacity at a lower cost."
+43,0,gpt-3.5-turbo,human,simple,control,neutral,"Spider webs are primarily used by spiders to catch prey, such as insects, for food."
+44,0,gpt-3.5-turbo,human,simple,control,neutral,"Tornadoes occur in the United States approximately 1,000 times each year."
+45,0,gpt-3.5-turbo,human,simple,control,neutral,"GPT-3, or Generative Pre-trained Transformer 3, is a language model developed by OpenAI that is capable of generating human-like text based on the input it receives. It has the ability to understand and produce natural language text in a wide range of contexts, such as answering questions, generating content, completing text prompts, and even engaging in conversations. GPT-3 can perform tasks like language translation, text summarization, and sentiment analysis, making it a versatile tool for various natural language processing applications."
+46,0,gpt-3.5-turbo,human,simple,control,neutral,"Santa Claus is typically depicted as a jolly, older man with a white beard, wearing a red suit trimmed with white fur, and carrying a sack of toys."
+47,0,gpt-3.5-turbo,human,simple,control,neutral,"Trees play a crucial role in the ecosystem by absorbing carbon dioxide, producing oxygen, providing habitat and food for wildlife, stabilizing soil, and regulating the climate."
+48,0,gpt-3.5-turbo,human,simple,control,neutral,The Beatles were a famous British rock band formed in Liverpool in 1960. They are widely regarded as one of the greatest and most influential bands in music history.
+49,0,gpt-3.5-turbo,human,simple,control,neutral,New York City is located in the state of New York in the northeastern United States.
+0,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Messaging is often preferred over direct calls because it allows for asynchronous communication, giving individuals the flexibility to respond at their convenience without the pressure of immediate engagement. Additionally, messages can be easily saved and referenced later, providing a written record of conversations."
+0,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The number of people with access to telephone infrastructure is growing due to advancements in technology, increased investment in telecommunications infrastructure, and government initiatives to expand connectivity in underserved areas."
+1,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Many students do not pursue a PhD due to the rigorous academic and research requirements, the time commitment involved, and the limited job prospects in academia."
+1,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Scientific research in computer science is increasing exponentially due to rapid technological advancements, increased demand for innovative solutions, and the interconnected nature of modern society relying heavily on digital technologies. This has led to a growing need for research to address complex problems and develop cutting-edge technologies in areas such as artificial intelligence, cybersecurity, and big data analytics."
+2,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"There are several factors contributing to more women choosing to remain childless, including increased career opportunities, changing societal norms, financial considerations, and personal preferences for independence and freedom."
+2,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,Giving birth has historically been a necessity for women in order to ensure the survival and continuation of the human species.
+3,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"One reason education is getting more expensive in North America is due to a decrease in government funding for public institutions, leading to higher tuition costs for students. Additionally, universities and colleges are investing more in facilities, technology, and faculty salaries, which contributes to the rising costs of education."
+3,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The number of students is increasing in North America due to population growth, higher enrollment rates in educational institutions, and a growing emphasis on the importance of education for future success."
+4,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The traditional printed newspaper is in decline due to the rise of digital media and online news sources, which provide instant access to news and information for free or at a lower cost. Additionally, declining advertising revenues and changing consumer preferences have also contributed to the decline of printed newspapers."
+4,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The newspaper has been one of the most popular media in history because it provides timely and relevant information to a wide audience in a relatively accessible and affordable format. Additionally, newspapers have traditionally served as a trusted source of news and have played a crucial role in shaping public opinion and facilitating communication within communities."
+5,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The EU's ban on single-use plastics has led to a sharp decline in the use of plastic straws because they are one of the most commonly used single-use plastics and are no longer allowed to be distributed or sold in many countries within the EU. This policy change has forced businesses and consumers to seek out alternative, more sustainable options."
+5,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The use of disposable plastic straws is increasing due to their convenience, low cost, and widespread availability in various food and beverage establishments."
+6,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The literacy rate in India is decreasing due to increased government initiatives and investments in education, improved access to schools, and awareness campaigns promoting the importance of education."
+6,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Many people in India do not have access to education due to factors such as poverty, lack of infrastructure, cultural norms that prioritize boys' education over girls', and inadequate government funding for schools in rural areas."
+7,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"A high-yielding dairy cow produces a large amount of milk per day due to genetic selection, proper nutrition, and good management practices that optimize milk production."
+7,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"A beef-suckler cow produces so little milk per day because they are primarily bred for beef production, not milk production. Their genetics and breeding prioritize muscle development and meat quality over milk production capabilities."
+8,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,Americans aim to decrease their carbon footprint in order to reduce their impact on climate change and protect the environment for future generations.
+8,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Many Americans do not prioritize climate change because they may not fully understand the science behind it, feel that it does not directly impact their daily lives, or may be influenced by political beliefs or misinformation."
+9,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"One possible reason for the decline in the average number of goals per football match could be the increased emphasis on defensive strategies and tactics by teams, leading to fewer scoring opportunities and lower-scoring games."
+9,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Football is one of the most popular sports in the world due to its simplicity, accessibility, and universal appeal. The game can be played anywhere, by anyone, and its fast-paced, physical nature keeps fans engaged and entertained. Additionally, football has a long history and a strong culture surrounding it, making it a unifying force for people of all backgrounds and nationalities."
+10,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The cigarette smoking rate is near a historical low due to increased awareness of the health risks associated with smoking, widespread public health campaigns, stricter regulations on tobacco advertising and packaging, and the availability of smoking cessation programs and products."
+10,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The tobacco lobby is strong because it has significant financial resources, political influence, and a history of successful lobbying efforts to protect its interests. Additionally, the industry has a large customer base and powerful allies in government who support its agenda."
+11,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The use of physical keyboards is declining because of the increasing popularity and convenience of touchscreen keyboards on smartphones and tablets. These touchscreen keyboards are more versatile, customizable, and allow for a larger screen size for multimedia content. Additionally, advancements in predictive text and autocorrect technology have made touchscreen keyboards more user-friendly for many people."
+11,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"People are typing more via keyboard and writing less physically because it is faster, more efficient, and allows for easier editing and sharing of information. Additionally, advancements in technology have made typing more accessible and convenient for many tasks."
+12,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The COVID-19 pandemic led to many more people getting laid off in the catering industry due to widespread lockdowns and restrictions on social gatherings, which significantly reduced demand for catering services and forced many businesses to close or downsize their operations."
+12,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The food delivery industry is growing quickly due to the convenience it offers consumers, especially with the rise of online ordering and delivery apps. It also caters to busy lifestyles and provides access to a wide variety of restaurants and cuisines. Additionally, the COVID-19 pandemic has accelerated the demand for food delivery services as people look for safe and convenient ways to get meals."
+13,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The constant noise, lights, and activity in a city can disrupt sleep patterns and lead to insomnia."
+13,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"More and more people are prioritizing getting a good night's sleep because research has shown that it plays a crucial role in overall health and well-being, including cognitive function, emotional regulation, immune system function, and physical health. Additionally, a lack of quality sleep has been linked to an increased risk of various chronic conditions such as obesity, heart disease, and diabetes."
+14,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"One reason being a professor is becoming less attractive is due to increasing workloads, administrative burdens, and expectations for research productivity, which can lead to burnout and high stress levels. Additionally, the lack of job security and uncertainty surrounding funding for research projects can deter individuals from pursuing careers in academia."
+14,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The demand for professors is increasing due to a growing student population and the expansion of higher education institutions worldwide. Additionally, there is a need for specialized knowledge and expertise in various fields, leading to a higher demand for qualified professors."
+15,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"There is a growing awareness of the link between diet and overall health, leading more Americans to prioritize healthier eating habits to prevent chronic diseases and improve quality of life."
+15,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"One possible reason could be the fast-paced lifestyle of many Americans, leading to a preference for convenient dining options rather than cooking at home. Additionally, the rise of food delivery services and the popularity of social media food trends may also contribute to the increase in dining out and ordering food."
+16,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The pool of common names is small because they are often passed down through generations within families or cultural groups, leading to a limited number of popular names being used repeatedly. Additionally, societal trends and influences can also contribute to the popularity of certain names, further restricting the variety of common names."
+16,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The average person meets more people in a lifetime than ever before due to increased mobility, global connectivity, and technology that allows for easier communication and networking."
+17,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,Modern books are getting shorter in response to the increasing demand for quick and easily digestible content in today's fast-paced world. Authors and publishers are looking to capture readers' attention and deliver their message in a more concise and efficient manner.
+17,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The increased use of punctuation in books with shorter sentences helps to convey a sense of urgency, create a more dynamic reading experience, and enhance the impact of each individual sentence."
+18,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The number of plants on Earth is decreasing due to deforestation, habitat destruction, climate change, pollution, and overexploitation for resources."
+18,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Plants have many leaves in order to maximize their ability to absorb sunlight for photosynthesis, which is the process by which they produce energy and food."
+19,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"One possible reason for Reddit becoming less popular is the rise of other social media platforms like TikTok and Instagram that offer more visually engaging content and easier user interaction. Additionally, Reddit has faced criticism for issues related to moderation, content censorship, and toxic behavior within certain communities on the platform."
+19,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Reddit is the social media platform with the most active users because it offers a wide range of communities where users can engage in discussions, share content, and connect with like-minded individuals on various topics of interest. Additionally, its voting system allows users to easily discover popular and relevant content, contributing to its high user engagement."
+20,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Physical coins are becoming less important in the age of digital banking because digital transactions are faster, more convenient, and increasingly preferred by consumers. Additionally, the ongoing trend towards a cashless society is leading to the decreased use and acceptance of physical coins in everyday transactions."
+20,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Physical coins have been a staple of economy for more than two millennia because they are durable, portable, and easily recognizable, making them a convenient and trusted medium of exchange for transactions. Additionally, coins have intrinsic value due to the metal they are made of, giving them a sense of stability and trustworthiness in economic transactions."
+21,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The area suitable for agriculture is decreasing every year due to factors such as urbanization, deforestation, soil degradation, and climate change-induced extreme weather events."
+21,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The demand for plant-based foods is at an all-time high due to increasing awareness of health and environmental benefits, as well as concerns about animal welfare."
+22,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Fermi problems are not popular because they often require complex calculations and estimations that can be time-consuming and challenging for many people. Additionally, they may not always have a clear or definitive answer, making them less satisfying for some individuals."
+22,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Fermi problems are popular because they challenge individuals to use their critical thinking skills, creativity, and estimation abilities to solve complex and real-world problems in a fun and engaging way. They also help improve problem-solving skills and foster a deeper understanding of the world around us."
+23,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"One possible reason for humanity being in the most peaceful era with fewer military conflicts could be increased globalization and interconnectedness, leading to more economic interdependence between nations and a greater emphasis on diplomacy and cooperation to resolve conflicts. Additionally, advancements in technology and communication may have made it easier for countries to engage in dialogue and find peaceful resolutions to disputes."
+23,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The invention of black powder led to many military conflicts because it revolutionized warfare by providing a more powerful and efficient way to launch projectiles, leading to increased destruction and casualties in battles."
+24,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The shark fin trade has massively harmed shark populations because it involves the cruel practice of finning, where sharks are caught, their fins are chopped off, and the sharks are often thrown back into the ocean to die. This leads to a decline in shark numbers as they are unable to reproduce or survive without their fins."
+24,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Successful conservation projects have resulted in increased shark populations because they help protect the sharks' habitats, regulate fishing practices, and reduce demand for shark products, leading to a decrease in overfishing and exploitation of shark populations."
+25,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"People sleep less these days due to increased use of electronic devices, stress, and busy lifestyles."
+25,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Getting enough sleep is important for a person's health because it allows the body to repair and regenerate, supports cognitive function, boosts immune system, and helps regulate hormones and metabolism."
+26,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"More U.S. households are becoming aware of the importance of reducing waste due to increasing environmental concerns, media coverage highlighting the impact of waste on the planet, and efforts by organizations and governments to promote sustainable practices."
+26,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"American grocery shopping habits contribute to an increasing amount of produced waste due to the popularity of single-use packaging, pre-packaged products, and the tendency to buy in bulk, leading to food spoilage and expiration."
+27,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"There is a noticeable trend toward vegetarian diets and no fish consumption due to concerns about animal welfare, environmental sustainability, and personal health benefits associated with plant-based diets."
+27,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The increase in average fish consumption in Asia can be attributed to growing affluence, increasing awareness of the health benefits of consuming fish, and the need for alternative protein sources due to a rising population and changing dietary preferences."
+28,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Cars are often used more for short journeys because they provide convenience, comfort, and flexibility in terms of route choice and timing."
+28,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Many people use a car every day to travel long distances to work because it is often more convenient, flexible, and time-efficient compared to other modes of transportation like public transit or biking."
+29,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The ability to capture video is a new phenomenon because advancements in technology have made it more accessible and affordable for the average person to record videos using smartphones, digital cameras, and other devices. Additionally, the rise of social media and video-sharing platforms has created a demand for easy-to-use video recording tools."
+29,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The creation and sharing of video content is an integral part of the modern lifestyle because it allows people to easily communicate, express themselves, entertain others, and consume information in a visually engaging and convenient format."
+30,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Men were historically smaller due to a combination of factors such as limited access to food, poor living conditions, and higher rates of disease and malnutrition."
+30,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Men are often taller than women due to genetic and hormonal differences, as well as evolutionary factors. Generally, men have higher levels of testosterone, which can contribute to increased muscle mass and bone density, leading to greater height. Additionally, taller men may have been more successful in attracting a mate and passing on their genes throughout human history, leading to the prevalence of height in men."
+31,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"People are less physically active today due to various factors, including sedentary jobs, increased screen time, lack of access to safe outdoor spaces, and reliance on cars for transportation."
+31,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Exercise increases the blood pump because it causes the heart to beat faster and more forcefully, which in turn increases the flow of blood throughout the body to deliver oxygen and nutrients to tissues and remove waste products."
+32,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The proportion of motorways is high on European roads because they are designed to efficiently handle high volumes of traffic, improve safety, and facilitate long-distance travel across countries and regions. Additionally, motorways are an essential component of the European transportation network, connecting major cities and economic centers."
+32,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The speed limit on most European roads is low to prioritize safety and reduce accidents, especially in densely populated areas with narrow streets and heavy traffic."
+33,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Telecommunication technology is becoming more efficient due to advancements in hardware and software, increased network capacity, improved signal processing techniques, and the development of new communication protocols. These factors have contributed to faster data transmission speeds, higher quality audio and video calls, and more reliable connections."
+33,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The use of the Internet has increased dramatically in the recent past due to the growing popularity of online activities such as streaming videos, online shopping, social media, and remote work and learning. This increased demand has necessitated the expansion and improvement of technical infrastructure to support higher bandwidth and faster speeds to accommodate the growing number of users and data traffic."
+34,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Wireless data transfer allows for greater convenience, mobility, and flexibility in using devices and accessing information without the restrictions of cords or cables."
+34,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The production of electronic devices is at an all-time high due to increasing demand for technology, advancements in manufacturing processes, and the constant release of new and innovative products."
+35,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Humans are able to coordinate large tasks effectively due to their advanced cognitive abilities, such as communication, problem-solving skills, and ability to plan and organize complex activities. Additionally, humans have the capacity for empathy and cooperation, allowing them to work together towards a common goal."
+35,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The decline in mental arithmetic skills in the population may be attributed to the increased reliance on technology, such as calculators and smartphones, to perform mathematical calculations. This has resulted in decreased practice and proficiency in mental arithmetic. Additionally, changes in educational curricula and teaching methods may also play a role in the decline of mental arithmetic skills."
+36,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The ball travels a substantially smaller distance than a player runs in a game of soccer because the player is constantly changing direction, dribbling, passing, and making quick movements on the field, while the ball typically only moves when kicked or passed by a player."
+36,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Soccer has become faster and more dynamic in recent years due to advancements in sports science, technology, and tactics. Players are now faster, stronger, and more agile, allowing for quicker passing, movement, and decision-making on the field. Additionally, coaches have developed more sophisticated strategies and formations to exploit space and create scoring opportunities, leading to a more fast-paced and exciting style of play."
+37,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The human body has evolved to use air more efficiently in order to maximize the amount of oxygen that can be absorbed by the lungs and transported to the cells, where it is needed for energy production. This increased efficiency allows for better overall functioning of the body and improved physical performance."
+37,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,The human body has evolved to require more air due to the increased metabolic demands of a larger brain and higher levels of physical activity.
+38,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Modern cities emphasize efficient use of water to ensure sustainable management of water resources, reduce strain on infrastructure, protect the environment, and mitigate the impacts of drought and water scarcity."
+38,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Modern lifestyles require very large amounts of water for various daily activities such as drinking, cooking, cleaning, irrigation, industry, and sanitation. Additionally, the use of water-intensive technologies and products, as well as the increasing population density in urban areas, contribute to the high demand for water in modern societies."
+39,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Disney makes shorter movies because they are typically targeted towards a younger audience with shorter attention spans. Additionally, shorter movies allow for more frequent screenings in theaters and can be more easily consumed by viewers at home."
+39,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Disney has historically had a large movie output due to its successful and diverse portfolio of intellectual properties, which includes iconic characters, franchises, and stories that appeal to a wide audience. Additionally, the company has a strong history of producing high-quality and innovative content, as well as a well-established distribution network that allows for extensive theatrical releases and international reach."
+40,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Grave goods have become unpopular in modern times due to changing beliefs and traditions surrounding death and burial practices, as well as increasing concerns about cultural appropriation and respecting the wishes of the deceased and their families."
+40,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Grave goods often have high monetary value because they are rare and historically significant artifacts that are typically associated with wealthy or high-status individuals. Additionally, the demand for such items among collectors and museums can drive up their value even further."
+41,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The world's entire ecosystem depends on a constant replenishment of oxygen because oxygen is essential for the process of respiration, which allows organisms to convert nutrients into energy. This process is necessary for the survival of all living organisms."
+41,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Humans can survive for longer periods at lower levels of oxygen because our bodies have the ability to adapt to lower oxygen levels through a process called acclimatization. This includes increasing red blood cell production, improving oxygen utilization in tissues, and adjusting breathing patterns to compensate for the lower oxygen levels."
+42,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Knowledge can be stored very efficiently today due to advanced technology, including high-capacity storage devices, cloud computing, and sophisticated data management systems."
+42,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The vast amount of human knowledge is dispersed because people have different experiences, backgrounds, and access to information sources, leading to diverse perspectives and areas of expertise. Additionally, knowledge is constantly evolving and being generated, further contributing to its dispersion."
+43,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,Only a few species of spiders make webs because web-making is a specialized behavior that requires specific adaptations and skills. Spiders that do make webs have evolved to have specialized silk-producing organs and spinning techniques that allow them to create intricate and effective webs for catching prey. Other species of spiders have different hunting strategies and do not rely on webs to capture food.
+43,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Large spider webs are often found in homes because spiders are attracted to warm, dark, and secluded areas where they can catch prey easily. Homes provide an ideal environment for spiders to thrive and build their webs to catch insects for food."
+44,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Most tornadoes are small because they form as a result of relatively weak or localized atmospheric conditions, such as a smaller storm or updraft, rather than large-scale weather systems."
+44,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"Most tornadoes pick up heavy objects because of their strong winds, which can easily lift and carry heavy items such as cars, trees, and buildings due to their powerful force and speed."
+45,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The development of LLMs has been adapted to reduce their CO2 emissions by incorporating more efficient engines, implementing lightweight materials, improving aerodynamics, and utilizing alternative fuel sources such as electricity or hydrogen."
+45,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The development of LLMs is resource intensive and results in a lot of CO2 emissions because it involves the manufacturing of complex electronic components, sourcing of rare earth materials, and production processes that require significant energy consumption. Additionally, the transportation of these components and the assembly of LLMs also contribute to their environmental footprint."
+46,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,Santa is a fictional character and his ability to visit every child in the world in one night is physically impossible.
+46,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,Santa does not optimize his route planning algorithmically because he relies on magic and Christmas spirit to help him deliver presents to all the children around the world in one night.
+47,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"The number of trees is decreasing drastically every day due to deforestation, urbanization, agriculture, logging, and wildfires. These activities result in the loss of forests and natural habitats for trees."
+47,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"The growth rate of trees is greater than one would expect due to a combination of factors such as favorable environmental conditions, genetic traits, and the ability of trees to efficiently convert sunlight, water, and nutrients into biomass through photosynthesis. Additionally, some tree species have evolved to have rapid growth rates as a strategy to compete for resources and maximize their fitness in their particular ecosystem."
+48,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"Unreleased music is often underwhelming because it is typically unfinished or in a rough state, lacking the final touches and production quality that can elevate a song to its full potential."
+48,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"People bid astronomical amounts of money for unique items because of their rarity, historical significance, or emotional value. The exclusivity and uniqueness of such items make them highly desirable and sought after by collectors and enthusiasts."
+49,0,gpt-3.5-turbo,human,simple,implicit_confirmation,decrease,"New York has many open and green spaces due to city planning efforts to prioritize urban greenery, public parks, and recreational areas for residents and visitors to enjoy."
+49,0,gpt-3.5-turbo,human,simple,implicit_confirmation,increase,"New York is mostly concrete with lots of skyscrapers due to its high population density, limited space for horizontal expansion, and the need to accommodate a large number of people and businesses in a small area. Additionally, the city's history of rapid industrialization and urbanization has contributed to the construction of tall buildings to maximize space and accommodate the growing population."

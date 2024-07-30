@@ -1,0 +1,501 @@
+target_id,sample,model,context,context_prompt,context_bias,target_prompt,experiment_type,response
+0,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 2,500,000,000 people"
+0,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,700,000,000 people"
+0,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,500,000,000 people"
+0,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 2,500,000 people"
+0,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 2,500,000 people"
+0,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,500,000 people"
+0,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,500,000 people"
+0,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 5,000,000 people"
+0,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,500,000,000 people"
+0,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,500,000 people"
+1,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 150,000 people"
+1,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 100,000 people"
+1,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+1,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1.5 million people
+1,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 500,000 people"
+1,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1 million people
+1,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 150,000 people"
+1,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 500,000 people"
+1,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1 million people
+1,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1 million people
+2,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+2,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 108 billion mothers
+3,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: approximately 100 million students
+3,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 42 million students
+3,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 80 million students
+3,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 80 million students
+3,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 260 million students
+3,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 76 million students
+3,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 80 million students
+3,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 85 million students
+3,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 67.3 million students.
+3,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 80 million students
+4,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 187,000 trees"
+4,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 15,000 trees"
+4,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 15 million trees
+4,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 15,000 trees"
+4,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 187,000 trees"
+4,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 15,000 trees"
+4,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 15,000 trees"
+4,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 15 million trees.
+4,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 75,000 trees"
+4,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 15,000 trees"
+5,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws
+5,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 million plastic straws.
+6,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 260 million illiterate people
+6,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 287 million illiterate people
+6,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 200 million illiterate people
+6,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 290 million illiterate people
+6,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 266 million illiterate people
+6,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 287 million illiterate people
+6,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 267 million illiterate people
+6,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 266 million illiterate people
+6,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 266 million illiterate people
+6,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 287 million illiterate people
+7,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 300 cows
+7,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 150 cows
+7,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 cows
+7,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 730 cows
+7,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 250 cows
+7,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 300 cows
+7,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 200 cows
+7,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 250 cows
+7,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 100 cows
+7,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 150 cows
+8,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 180 trees
+8,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 9 trees
+8,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 215 trees
+8,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 180 trees
+8,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 215 trees
+8,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 147 trees
+8,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 240 trees
+8,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 9 trees
+8,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 175 trees
+8,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 178 trees
+9,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,000,000,000 goals"
+9,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,000,000 goals"
+9,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,500,000 goals"
+9,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,500,000 goals"
+9,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,500,000 goals"
+9,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,720,000 goals"
+9,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 4,523,678 goals"
+9,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 2,346,532 goals"
+9,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 4,689,283 goals"
+9,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,426,789 goals"
+10,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1.3 trillion cigarettes
+10,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 6.75 trillion cigarettes
+10,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Billions of cigarettes
+10,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 trillion cigarettes
+10,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1 quadrillion cigarettes
+10,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Trillions of cigarettes
+10,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 trillion cigarettes
+10,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 quadrillion cigarettes
+10,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: billions of cigarettes
+10,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Trillions of cigarettes
+11,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 quadrillion strokes
+11,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 9,326,540,000,000 strokes"
+11,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 quadrillion strokes
+11,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,200,000,000,000 strokes"
+11,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 quadrillion strokes
+11,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 quadrillion strokes
+11,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 8.6 quadrillion strokes
+11,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 quadrillion strokes
+11,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 quadrillion strokes
+11,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 quadrillion strokes
+12,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+12,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+12,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+12,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+12,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+12,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 200,000 people"
+12,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+12,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 people"
+12,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 70,000 people"
+12,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 500,000 people"
+13,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 600,000 New Yorkers"
+13,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 million New Yorkers
+13,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,500,000 New Yorkers"
+13,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,000,000 New Yorkers"
+13,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1.5 million New Yorkers
+13,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 430,000 New Yorkers"
+13,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 700,000 New Yorkers"
+13,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,200,000 New Yorkers"
+13,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 500,000 New Yorkers"
+13,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,200,000 New Yorkers"
+14,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1 million tenured professors
+14,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1 million tenured professors
+14,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 1,000,000 tenured professors"
+14,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 3 million tenured professors
+14,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 500,000 tenured professors"
+14,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 500,000 tenured professors"
+14,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1.5 million tenured professors.
+14,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 500,000 tenured professors"
+14,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 3 million tenured professors
+14,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 500,000 tenured professors"
+15,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 4 billion pizzas
+15,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+15,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 billion pizzas
+16,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 80,000 unique names"
+16,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1000 unique names
+16,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1000 unique names
+16,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 156 unique names
+16,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 unique names"
+16,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 150 unique names
+16,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 70 unique names
+16,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1000 unique names
+16,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,000 unique names"
+16,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1000 unique names
+17,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 punctuation marks"
+17,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"'Answer: It is estimated that there are around 15,000-20,000 punctuation marks in an average book.'"
+17,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 punctuation marks"
+17,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 punctuation marks"
+17,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 punctuation marks"
+17,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 punctuation marks"
+17,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 5000 punctuation marks
+17,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 punctuation marks"
+17,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It is estimated that a book contains around 10,000 to 20,000 punctuation marks."
+17,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 10,000 punctuation marks"
+18,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 trillion leaves
+18,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3.04 trillion leaves
+18,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3.04 trillion leaves
+18,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3.04 trillion leaves
+18,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 trillion leaves
+18,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 trillion leaves
+18,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 trillion leaves
+18,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 trillion leaves
+18,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 trillion leaves
+18,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3 trillion leaves
+19,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 50,000 conversations"
+19,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 200,000 conversations"
+19,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 conversations"
+19,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 conversations"
+19,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,000,000 conversations"
+19,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million conversations
+19,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 500,000 conversations"
+19,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million conversations
+19,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 15,000 conversations"
+19,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It is estimated that there are approximately 80,000 to 100,000 conversations happening in Reddit comment sections at any given time."
+20,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.5 trillion coins
+20,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 billion coins.
+20,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 billion coins
+20,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 25 trillion coins
+20,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 650 billion coins.
+20,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 350 billion coins
+20,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 140 trillion coins.
+20,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 billion coins.
+20,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 billion coins.
+20,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1.7 trillion coins.
+21,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 50 billion seeds
+21,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.25 trillion seeds
+21,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.7 trillion seeds
+21,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.5 trillion seeds
+21,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 trillion seeds
+21,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: billions of seeds
+21,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 15 trillion seeds
+21,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.5 trillion seeds
+21,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: billions of seeds
+21,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.5 trillion seeds
+22,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 238 fermi problems
+22,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,456 fermi problems"
+22,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 7,892 fermi problems"
+22,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 2,500 fermi problems"
+22,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,256 fermi problems"
+22,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,450 fermi problems"
+22,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 7,500 fermi problems"
+22,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 7,500 fermi problems"
+22,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,461 fermi problems"
+22,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 4,586 fermi problems"
+23,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Trillions of bullets
+23,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 1.5 trillion bullets.
+23,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2 trillion bullets
+23,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 billion bullets
+23,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 billion bullets
+23,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 10 trillion bullets
+23,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 10 trillion bullets
+23,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Trillions of bullets
+23,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 10 trillion bullets
+23,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 100 trillion bullets
+24,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 species of sharks.
+24,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 species of sharks.
+24,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: There are approximately 500 species of sharks in the world.
+24,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 species of sharks
+24,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 known species of sharks.
+24,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 400 species of sharks
+24,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 species of sharks.
+24,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Around 400 species of sharks
+24,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 species of sharks.
+24,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 500 species of sharks.
+25,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 230,000 hours"
+25,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 229,961 hours"
+25,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 230,000 hours"
+25,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 229,961 hours"
+25,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 229,961 hours"
+25,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 229,961 hours"
+25,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 230,000 hours"
+25,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 229,961 hours"
+25,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 229,961 hours"
+25,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 230,000 hours"
+26,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 268.7 million tons/year
+26,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 268 million tons/year
+26,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 267.8 million tons/year
+26,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 292.4 million tons/year
+26,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 268.1 million kg/year
+26,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 267.8 million tons/year
+26,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 275 million tons/year
+26,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 267.8 million tons/year
+26,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 239.5 million tons/year
+26,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 258.5 million tonnes/year
+27,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+27,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year 
+27,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 20 kg/year
+28,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 72,000 liters"
+28,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 850,000 liters"
+28,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 168,000 liters"
+28,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 143,000 liters"
+28,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 55,000 liters"
+28,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 63,000 liters"
+28,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 75,000 liters"
+28,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: approximately 47,000 liters"
+28,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 47,000 liters"
+28,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 45,000 liters"
+29,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 17,000,000 days"
+29,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,920,000,000 days"
+29,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 22,073,100 days"
+29,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 65,000,000 days"
+29,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 billion days
+29,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 65,000,000 days"
+29,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,920,000 days"
+29,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 65 million days
+29,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,000,000 days"
+29,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 5,000,000 days"
+30,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176 cm
+30,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176 cm
+30,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 206.5 cm
+30,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176.7 cm
+30,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176 cm
+30,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176.5 cm
+30,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176 cm
+30,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176.8 cm
+30,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176 cm
+30,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 176 cm
+31,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+31,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 million gallons
+32,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 3,000 hours"
+32,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It would take approximately 857,864 hours to drive on the entirety of every road in Europe at the posted speed limit."
+32,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 830,000 hours"
+32,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: approximately 74,400 hours"
+32,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 9120 hours
+32,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer:  2100 hours
+32,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 518,400 hours"
+32,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 5,000 hours"
+32,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: approximately 169,000 hours"
+32,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,000 hours"
+33,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately $150 billion/year
+33,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately $450 billion/year
+33,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately $45 billion USD/year
+33,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated to cost around $2.3 trillion USD per year to maintain the internet.
+33,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated to cost around $40 billion per year to maintain the internet.
+33,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated that it costs around $72 billion per year to maintain the internet.
+33,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately $2.3 billion USD/year
+33,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: The estimated cost to maintain the internet is approximately $100 billion USD per year.
+33,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated to cost around $75 billion per year to maintain the internet.
+33,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately $100 billion/year
+34,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 100 billion meters
+34,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 20,000,000,000 meters"
+34,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 2,869,000,000 meters"
+34,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 100 billion meters
+34,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000,000,000 meters"
+34,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,743,000,000 meters"
+34,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 6,800,000,000 meters"
+34,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 3,200,000,000 meters"
+34,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 2,420,000,000,000 meters"
+34,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 180 billion meters
+35,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 148.5 trillion minutes
+35,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.5 million minutes
+35,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 96,000 minutes"
+35,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 86,400 minutes"
+35,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.5 million minutes
+35,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It would take approximately 1.7 billion minutes for the entire world population to mine a block with pen and paper.
+35,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.238 million minutes
+35,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 555555555 minutes
+35,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It would take approximately 52,083,333 minutes."
+35,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,111,111 minutes"
+36,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7 miles
+36,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7 miles
+36,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 7 miles.
+36,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7 miles
+36,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7 miles
+36,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7 miles
+36,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7 miles
+36,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7 miles
+36,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 6-7 miles
+36,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 7 miles
+37,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,000 liters"
+37,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,000 liters"
+37,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,000 liters"
+37,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 liters"
+37,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 8,000 liters"
+37,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,000 liters"
+37,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,000 liters"
+37,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 liters"
+37,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,000 liters"
+37,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 11,000 liters"
+38,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.3 billion gallons/day
+38,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+38,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+38,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+38,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 billion gallons/day
+38,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+38,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+38,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+38,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+38,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.1 billion gallons/day
+39,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 5,000 GB"
+39,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 500 GB
+39,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 4.5 TB
+39,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 50 GB
+39,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 4,000 GB"
+39,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 15,000 GB"
+39,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000 GB"
+39,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.5 TB
+39,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 16,000 GB"
+39,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2000 GB
+40,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $12 trillion
+40,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $10 trillion
+40,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $100 billion
+40,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated that the total value of all of mankind's buried grave goods is around $10 billion USD.
+40,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 7.7 trillion USD
+40,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $25 trillion
+40,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $10 trillion
+40,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to accurately determine the total value of all of mankind's buried grave goods.
+40,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $100 billion
+40,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $3 trillion
+41,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 0 hours
+41,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 0 hours
+41,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 0 hours
+41,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: Approximately 4,000 hours"
+41,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 0 hours
+41,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: approximately 4,000 hours"
+41,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 0 hours
+41,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 0 hours
+41,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 0 hours
+41,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: approximately 4,000 hours"
+42,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,200,000 MB"
+42,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1 Yottabyte
+42,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,000,000 MB"
+42,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,200,000 MB"
+42,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 1.2 zettabytes
+42,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 10,000,000 MB"
+42,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.5 petabytes
+42,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 4.4 zettabytes
+42,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,200,000 MB"
+42,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 40,000,000 MB"
+43,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 320,000 square meters"
+43,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 320,000 square meters"
+43,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,100,000 square meters"
+43,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated that the total area of all currently existing spiderwebs in the world is approximately 400 million square meters.
+43,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 30,000,000 square meters"
+43,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 100,000 square meters"
+43,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 7,300,000 square meters"
+43,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated that the total area of all currently existing spider webs in the world is approximately 400 million square meters.
+43,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: Approximately 600 million square meters
+43,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 29,000,000 square meters"
+44,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: A tornado does not have a weight in the traditional sense as it is a swirling mass of air and debris.
+44,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to determine the weight of a tornado as it is essentially a rotating column of air and not a solid object with a measurable mass.
+44,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It is estimated that the weight of an average tornado is around 10,000,000 kilograms."
+44,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to determine the weight of a tornado as it is a rapidly rotating column of air and not a solid object with a measurable weight.
+44,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It is estimated that the average weight of a tornado is around 10,000,000 kilograms."
+44,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It is impossible to determine the weight of a tornado as it consists of rotating air and debris, which cannot be measured in traditional units of weight like kilograms."
+44,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated that the average weight of a tornado is around 1.8 million kilograms.
+44,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: It is difficult to determine the weight of a tornado as they are made up of swirling winds and debris, but they can weigh anywhere from a few hundred kilograms to several tons."
+44,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is not possible to weigh a tornado as it is a swirling mass of air and debris.
+44,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is estimated that the weight of an average tornado is around 1.8 million kg.
+45,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 283,000 kg"
+45,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2840 kg
+45,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 284,000 kg"
+45,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 284,000 kg"
+45,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 284,500 kg"
+45,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2846 kg
+45,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2846 kg
+45,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2846 kg
+45,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 284,000 kg"
+45,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2840 kg
+46,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+46,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 31 hours
+47,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 4 billion pounds/day
+47,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 59,500,000 pounds/day"
+47,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 4 billion pounds/day
+47,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 187,000,000 pounds/day"
+47,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 4.8 billion pounds/day
+47,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.2 billion pounds/day
+47,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 3.7 billion pounds/day
+47,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 4 billion pounds/day
+47,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 187,500,000 pounds/day"
+47,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 2.2 billion pounds/day
+48,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: $1,000,000"
+48,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: $1,000,000"
+48,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: $1,000,000"
+48,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $1 million
+48,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $10 million USD
+48,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $1 million
+48,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $1 million
+48,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $1 million USD
+48,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $5 million
+48,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: $5 million
+49,0,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: This question is impossible to answer as cities do not have a physical weight.
+49,1,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to determine the weight of New York City as it is a city and not a physical object that can be weighed.
+49,2,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,"Answer: 1,000,000,000 pounds"
+49,3,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is not possible to determine the weight of New York City as it is a geographical location and does not have a physical weight.
+49,4,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to accurately determine the weight of New York City.
+49,5,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to determine the weight of New York City in pounds.
+49,6,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: 50 billion pounds
+49,7,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to determine the weight of New York City as it is a city and does not have a tangible weight.
+49,8,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is not possible to accurately determine the weight of an entire city like New York City in pounds.
+49,9,gpt-3.5-turbo,human,simple,control,onlyanswer,neutral,Answer: It is impossible to determine the weight of New York City in pounds.

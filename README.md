@@ -1,14 +1,19 @@
 # Assessing Cognitive Biases in LLMs via Contextual Influence in Two-Turn Conversations
 
-This repository contains the code of my Master Thesis project. It analyzes the impact of adversarial conversation contexts on LLM decision-making with the example of Fermi Problems. The Fermi Problem data set is an adapted subset of the [AllenAI RealFP](https://github.com/allenai/fermi/) collection.
+This repository contains the code of my Master Thesis project. It analyzes the impact of adversarial conversation contexts on LLM decision-making with the example of Fermi Problems. The Fermi Problem data set is an adapted subset of the [AllenAI RealFP](https://github.com/allenai/fermi/) collection. Currently, it is documented sporadically with the goal to serve as an addition for readers of the thesis.
 
 The experimental setup is displayed in the following image:
 
-![Experimental Setup](doc_resources/experimental_setup.png)
+<img src="doc_resources/experimental_setup.png" alt="Experimental Setup" width="800">
 
 The following figure illustrates a concrete example of the experimental setup:
 
-![Conversation Example](doc_resources/conversation_example.png)
+<img src="doc_resources/conversation_example.png" alt="Conversation Example" width="600">
+
+Following steps need to be taken to reproduce the experiment setup:
+1. Generate context questions automatically or create them manually
+2. Infer the LLM response to the context question (if a context bias should be evaluated, for the basline this is not necessary)
+3. Prepend the context question and context answer as the conversation history and infer the LLM responses, which can be used for comparison to the baseline or other context biases
 
 ## Experiment Files
 
@@ -40,6 +45,8 @@ This project supports the batch functionality of the OpenAI API. To use batched 
 
 ## Script Parameters
 
+### Context Question Generation
+
 To generate the context questions, execute the `generate_context_questions.py` script. It accepts the following parameters:
 
 - `--model`: (Default: `gpt-4-turbo`) Tag for the model used in API requests.
@@ -55,6 +62,7 @@ For example, to generate context questions with gpt-4-turbo for the general cont
 ```python
 python generate_context_questions.py --model gpt-4-turbo --bias general --save test.csv
 ```
+### Experiment Data Inference
 
 To run the experiments, execute the `run_experiments.py` script. It accepts the following parameters:
 
@@ -70,3 +78,8 @@ To run the experiments, execute the `run_experiments.py` script. It accepts the 
 - `--as_batch`: (Default: `False`) If set, creates a batch for API calls instead of synchronous requests. Only available for OpenAI models.
 - `--context_unavailable`: (Default: `False`) If this flag is set, the context responses are newly generated and not loaded from a file.
 - `--debug`: (Default: `False`) If set, runs experiments with mock LLM responses and does not send actual API requests.
+
+Analogous to the generation of context questions, the inference of the experiment data can look like this (assuming that the context responses are aready available in the respective file):
+```python
+python run_experiments.py --model gpt-3.5-turbo --bias general --save_target test.csv
+```
